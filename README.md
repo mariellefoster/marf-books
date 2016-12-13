@@ -9,6 +9,7 @@ Books I've read
 - Brothers Obermey/ier: Panama Papers
 
 ## October
+- Michelle Alexander: The New Jim Crow
 - Vernor Vinge: The Children of the Sky
 - Andy Weir: The Martian
 - Graeme Simieson: The Rosie Project
