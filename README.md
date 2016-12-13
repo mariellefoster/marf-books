@@ -21,3 +21,11 @@ Books I've read
 ## December
 - Ann Leckie: Ancillary Justice
 
+
+## Future
+Dark Money
+A History of the World in 6 Glasses
+Genesis
+Invisible Man, Got the Whole World Watching
+Stories of your Life
+The Sparrow
