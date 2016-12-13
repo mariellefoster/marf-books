@@ -23,9 +23,9 @@ Books I've read
 
 
 ## Future
-Dark Money
-A History of the World in 6 Glasses
-Genesis
-Invisible Man, Got the Whole World Watching
-Stories of your Life
-The Sparrow
+- Dark Money
+- A History of the World in 6 Glasses
+- Genesis
+- Invisible Man, Got the Whole World Watching
+- Stories of your Life
+- The Sparrow
