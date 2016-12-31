@@ -20,8 +20,8 @@ Books I've read
 
 ## December
 - Ann Leckie: Ancillary Justice
-- Dark Money
-- A History of the World in 6 Glasses
+- Jane Mayer: Dark Money
+- Tom Standage: A History of the World in 6 Glasses
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -31,3 +31,4 @@ Books I've read
 - Genesis
 - Peak
 - Weapons of Mass Deception
+- The Shadow of the Wind
