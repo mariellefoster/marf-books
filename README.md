@@ -23,6 +23,10 @@ Books I've read
 - Jane Mayer: Dark Money
 - Tom Standage: A History of the World in 6 Glasses
 
+# 2017
+
+## January
+
 ## Future
 - Invisible Man, Got the Whole World Watching
 - Stories of your Life
