@@ -26,6 +26,7 @@ Books I've read
 # 2017
 
 ## January
+- Ted Chiang: The Lifecycle of Software Objects
 
 ## Future
 - Invisible Man, Got the Whole World Watching
