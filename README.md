@@ -27,6 +27,8 @@ Books I've read
 
 ## January
 - Ted Chiang: The Lifecycle of Software Objects
+- Peak
+- Ancillary Sword
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -34,7 +36,6 @@ Books I've read
 - The Sparrow
 - How to Win Friends and Influence People
 - Genesis
-- Peak
 - Weapons of Mass Deception
 - The Shadow of the Wind
 - Gweneth Jones: Life
