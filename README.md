@@ -39,3 +39,4 @@ Books I've read
 - Weapons of Mass Deception
 - The Shadow of the Wind
 - Gweneth Jones: Life
+- Declaration of Independents
