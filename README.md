@@ -28,6 +28,7 @@ Books I've read
 ## January
 - Ted Chiang: The Lifecycle of Software Objects
 - Peak
+- Shadow of the Wind
 - Ancillary Sword
 
 ## Future
@@ -37,6 +38,5 @@ Books I've read
 - How to Win Friends and Influence People
 - Genesis
 - Weapons of Mass Deception
-- The Shadow of the Wind
 - Gweneth Jones: Life
 - Declaration of Independents
