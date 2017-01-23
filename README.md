@@ -29,7 +29,8 @@ Books I've read
 - Ted Chiang: The Lifecycle of Software Objects
 - Peak
 - Shadow of the Wind
-- Ancillary Sword
+- Ann Leckie: Ancillary Sword
+- Ann Leckie: Ancillary Mercy
 
 ## Future
 - Invisible Man, Got the Whole World Watching
