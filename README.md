@@ -28,16 +28,16 @@ Books I've read
 ## January
 - Ted Chiang: The Lifecycle of Software Objects
 - Peak
-- Shadow of the Wind
+- Carlos Ruiz Zafón: Shadow of the Wind
 - Ann Leckie: Ancillary Sword
 - Ann Leckie: Ancillary Mercy
+- Robert Alter: Genesis
 
 ## Future
 - Invisible Man, Got the Whole World Watching
 - Stories of your Life
 - The Sparrow
 - How to Win Friends and Influence People
-- Genesis
 - Weapons of Mass Deception
 - Gweneth Jones: Life
 - Declaration of Independents
