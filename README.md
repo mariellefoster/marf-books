@@ -41,3 +41,4 @@ Books I've read
 - Weapons of Mass Deception
 - Gweneth Jones: Life
 - Declaration of Independents
+- Hamilton, the screenplay
