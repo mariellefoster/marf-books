@@ -34,7 +34,7 @@ Books I've read
 
 ## February
 - Robert Alter: Genesis
-
+- Julia Cameron: The Artists's Way
 
 ## Future
 - Invisible Man, Got the Whole World Watching
