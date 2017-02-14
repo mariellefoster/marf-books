@@ -31,7 +31,10 @@ Books I've read
 - Carlos Ruiz Zafón: Shadow of the Wind
 - Ann Leckie: Ancillary Sword
 - Ann Leckie: Ancillary Mercy
+
+## February
 - Robert Alter: Genesis
+
 
 ## Future
 - Invisible Man, Got the Whole World Watching
