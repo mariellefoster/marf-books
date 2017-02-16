@@ -35,6 +35,7 @@ Books I've read
 ## February
 - Robert Alter: Genesis
 - Julia Cameron: The Artists's Way
+- Gwyneth Jones: Life
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -42,6 +43,6 @@ Books I've read
 - The Sparrow
 - How to Win Friends and Influence People
 - Weapons of Mass Deception
-- Gweneth Jones: Life
+
 - Declaration of Independents
 - Hamilton, the screenplay
