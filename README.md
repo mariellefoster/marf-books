@@ -50,3 +50,5 @@ Books I've read
 - Lovecraft Country
 - Amberlough
 - The Stars Are Legion
+- Weapons of Math Destruction
+- 
