@@ -47,3 +47,4 @@ Books I've read
 - Declaration of Independents
 - Hamilton, the screenplay
 - Parentology
+- Lovecraft Country
