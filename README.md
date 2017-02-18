@@ -36,6 +36,7 @@ Books I've read
 - Robert Alter: Genesis
 - Julia Cameron: The Artists's Way
 - Gwyneth Jones: Life
+- Yudhijit Bhattacharjee: The Spy Who Couldn't Spell
 
 ## Future
 - Invisible Man, Got the Whole World Watching
