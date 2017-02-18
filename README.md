@@ -44,6 +44,6 @@ Books I've read
 - The Sparrow
 - How to Win Friends and Influence People
 - Weapons of Mass Deception
-
 - Declaration of Independents
 - Hamilton, the screenplay
+- Parentology
