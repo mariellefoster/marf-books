@@ -53,3 +53,4 @@ Books I've read
 - Weapons of Math Destruction
 - The Prisoner of Heaven
 - History of White People
+- The Angel's Game
