@@ -52,3 +52,4 @@ Books I've read
 - The Stars Are Legion
 - Weapons of Math Destruction
 - The Prisoner of Heaven
+- History of White People
