@@ -38,6 +38,10 @@ Books I've read
 - Gwyneth Jones: Life
 - Yudhijit Bhattacharjee: The Spy Who Couldn't Spell
 
+## March
+- History of White People
+
+
 ## Future
 - Invisible Man, Got the Whole World Watching
 - Stories of your Life
@@ -52,6 +56,4 @@ Books I've read
 - The Stars Are Legion
 - Weapons of Math Destruction
 - The Prisoner of Heaven
-- History of White People
 - The Angel's Game
-- Dealing with Dragons
