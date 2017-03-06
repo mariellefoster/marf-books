@@ -42,6 +42,7 @@ Books I've read
 - History of White People
 - Dealing with Dragons
 - Searching for Dragons
+- Linux Hardening
 
 ## Future
 - Invisible Man, Got the Whole World Watching
