@@ -49,7 +49,7 @@ Books I've read
 - Stories of your Life
 - The Sparrow
 - How to Win Friends and Influence People
-- Weapons of Mass Deception
+- Weapons of Math Deception
 - Declaration of Independents
 - Hamilton, the screenplay
 - Parentology
@@ -59,3 +59,4 @@ Books I've read
 - Weapons of Math Destruction
 - The Prisoner of Heaven
 - The Angel's Game
+- 
