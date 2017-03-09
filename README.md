@@ -40,9 +40,9 @@ Books I've read
 
 ## March
 - History of White People
-- Dealing with Dragons
-- Searching for Dragons
-- Linux Hardening
+- Patricia Wrede: Dealing with Dragons
+- Patricia Wrede: Searching for Dragons
+- Rankin: Linux Hardening
 
 ## Future
 - Invisible Man, Got the Whole World Watching
