@@ -43,7 +43,7 @@ Books I've read
 - Patricia Wrede: Dealing with Dragons
 - Patricia Wrede: Searching for Dragons
 - Rankin: Linux Hardening
-- Talking to Dragons
+- Patricia Wrede: Talking to Dragons
 
 ## Future
 - Invisible Man, Got the Whole World Watching
