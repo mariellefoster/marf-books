@@ -43,6 +43,7 @@ Books I've read
 - Patricia Wrede: Dealing with Dragons
 - Patricia Wrede: Searching for Dragons
 - Rankin: Linux Hardening
+- Talking to Dragons
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -60,5 +61,4 @@ Books I've read
 - The Prisoner of Heaven
 - The Angel's Game
 - A Wrinkle in Time
-- Talking to Dragons
 - Calling on Dragons
