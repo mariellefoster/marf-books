@@ -43,6 +43,7 @@ Books I've read
 - Patricia Wrede: Dealing with Dragons
 - Patricia Wrede: Searching for Dragons
 - Rankin: Linux Hardening
+- Patricia Wrede: Calling on Dragons
 - Patricia Wrede: Talking to Dragons
 
 ## Future
