@@ -45,6 +45,7 @@ Books I've read
 - Rankin: Linux Hardening
 - Patricia Wrede: Calling on Dragons
 - Patricia Wrede: Talking to Dragons
+- Matt Ruff: Lovecraft Country
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -55,11 +56,9 @@ Books I've read
 - Declaration of Independents
 - Hamilton, the screenplay
 - Parentology
-- Lovecraft Country
 - Amberlough
 - The Stars Are Legion
 - Weapons of Math Destruction
 - The Prisoner of Heaven
 - The Angel's Game
 - A Wrinkle in Time
-- Calling on Dragons
