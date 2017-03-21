@@ -27,7 +27,7 @@ Books I've read
 
 ## January
 - Ted Chiang: The Lifecycle of Software Objects
-- Peak
+- Anders Ericsson and Robert Pool: Peak
 - Carlos Ruiz Zafón: Shadow of the Wind
 - Ann Leckie: Ancillary Sword
 - Ann Leckie: Ancillary Mercy
