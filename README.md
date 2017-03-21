@@ -46,6 +46,7 @@ Books I've read
 - Patricia Wrede: Calling on Dragons
 - Patricia Wrede: Talking to Dragons
 - Matt Ruff: Lovecraft Country
+- Penny Laurie: Unspeakable Things
 
 ## Future
 - Invisible Man, Got the Whole World Watching
