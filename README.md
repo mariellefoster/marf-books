@@ -50,16 +50,15 @@ Books I've read
 
 ## Future
 - Invisible Man, Got the Whole World Watching
-- Stories of your Life
-- The Sparrow
+- Ted Chiang: Stories of your Life
+- Ann Leckie: The Sparrow
 - How to Win Friends and Influence People
 - Weapons of Math Deception
-- Declaration of Independents
-- Hamilton, the screenplay
+- Greg Orman: Declaration of Independents
+- Lin Manuel Miranda: Hamilton, the screenplay
 - Parentology
 - Amberlough
-- The Stars Are Legion
-- Weapons of Math Destruction
-- The Prisoner of Heaven
-- The Angel's Game
-- A Wrinkle in Time
+- Kameron Hurley: The Stars Are Legion
+- Carlos Ruiz Zafón: The Prisoner of Heaven
+- Carlos Ruiz Zafón: The Angel's Game
+- Madeleine L'Engle: A Wrinkle in Time
