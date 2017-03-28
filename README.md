@@ -65,3 +65,4 @@ Books I've read
 - Lois McMaster Bujold: Beguilement
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Matt Ruff: Set This House in Order
+- The Palace Job
