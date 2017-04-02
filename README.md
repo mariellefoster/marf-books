@@ -47,9 +47,10 @@ Books I've read
 - Patricia Wrede: Talking to Dragons
 - Matt Ruff: Lovecraft Country
 - Penny Laurie: Unspeakable Things
-- The Palace Job
+
 
 ## April
+- The Palace Job
 
 ## Future
 - Invisible Man, Got the Whole World Watching
