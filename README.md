@@ -51,6 +51,7 @@ Books I've read
 
 ## April
 - The Palace Job
+- War.exe
 
 ## Future
 - Invisible Man, Got the Whole World Watching
