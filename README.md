@@ -50,7 +50,7 @@ Books I've read
 
 
 ## April
-- The Palace Job
+- Patrick Weekes: The Palace Job
 - War.exe
 
 ## Future
