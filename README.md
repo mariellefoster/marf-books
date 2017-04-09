@@ -52,6 +52,7 @@ Books I've read
 ## April
 - Patrick Weekes: The Palace Job
 - War.exe
+- Lois McMaster Bujold: Beguilement
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -67,7 +68,7 @@ Books I've read
 - Carlos Ruiz Zafón: The Prisoner of Heaven
 - Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
-- Lois McMaster Bujold: Beguilement
+
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Matt Ruff: Set This House in Order
 
