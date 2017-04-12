@@ -57,7 +57,6 @@ Books I've read
 - Ted Chiang: Stories of your Life
 - Margaret Atwood: Hagseed
 
-
 ## Future
 - Invisible Man, Got the Whole World Watching
 - Ann Leckie: The Sparrow
