@@ -54,9 +54,12 @@ Books I've read
 - War.exe
 - Lois McMaster Bujold: Beguilement
 
+- Ted Chiang: Stories of your Life
+- Margaret Atwood: Hagseed
+
+
 ## Future
 - Invisible Man, Got the Whole World Watching
-- Ted Chiang: Stories of your Life
 - Ann Leckie: The Sparrow
 - How to Win Friends and Influence People
 - Weapons of Math Deception
@@ -68,7 +71,6 @@ Books I've read
 - Carlos Ruiz Zafón: The Prisoner of Heaven
 - Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
-- Margaret Atwood: Hagseed
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Matt Ruff: Set This House in Order
 - Things
