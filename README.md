@@ -72,4 +72,5 @@ Books I've read
 - Madeleine L'Engle: A Wrinkle in Time
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Matt Ruff: Set This House in Order
-- Things
+- Lois McMaster Bujold
+- Patrick Weekes
