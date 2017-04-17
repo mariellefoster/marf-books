@@ -53,8 +53,8 @@ Books I've read
 - Patrick Weekes: The Palace Job
 - War.exe
 - Lois McMaster Bujold: Beguilement
-
 - Ted Chiang: Stories of your Life
+
 - Margaret Atwood: Hagseed
 
 ## Future
