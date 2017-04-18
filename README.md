@@ -73,4 +73,5 @@ Books I've read
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Matt Ruff: Set This House in Order
 - Lois McMaster Bujold: Horizon
+- Lois McMaster Bujold: Passage
 - Patrick Weekes
