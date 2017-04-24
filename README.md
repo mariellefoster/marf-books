@@ -55,6 +55,8 @@ Books I've read
 - Lois McMaster Bujold: Beguilement
 - Ted Chiang: Stories of your Life
 
+- Becky Chambers: The Long Way to A Small, Angry Planet
+
 ## Future
 - Invisible Man, Got the Whole World Watching
 - Ann Leckie: The Sparrow
@@ -68,7 +70,6 @@ Books I've read
 - Carlos Ruiz Zafón: The Prisoner of Heaven
 - Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
-- Becky Chambers: The Long Way to A Small, Angry Planet
 - Matt Ruff: Set This House in Order
 - Lois McMaster Bujold: Horizon
 - Lois McMaster Bujold: Passage
