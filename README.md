@@ -54,7 +54,7 @@ Books I've read
 - War.exe
 - Lois McMaster Bujold: Beguilement
 - Ted Chiang: Stories of your Life
-
+- Charlie Jane: All The Birds In The Sky
 - Becky Chambers: The Long Way to A Small, Angry Planet
 
 ## Future
