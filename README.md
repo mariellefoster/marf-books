@@ -76,3 +76,4 @@ Books I've read
 - Lois McMaster Bujold: Horizon
 - Lois McMaster Bujold: Passage
 - Patrick Weekes
+- A Good Time For The Truth
