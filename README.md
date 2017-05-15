@@ -58,6 +58,8 @@ Books I've read
 
 ## May
 - Becky Chambers: The Long Way to A Small, Angry Planet
+- Lois McMaster Bujold: Legacy
+- The Narcissistic Family
 
 ## Future
 - Invisible Man, Got the Whole World Watching
