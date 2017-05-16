@@ -60,6 +60,7 @@ Books I've read
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Lois McMaster Bujold: Legacy
 - The Narcissistic Family
+- Lois McMaster Bujold: Passage
 
 ## Future
 - Invisible Man, Got the Whole World Watching
