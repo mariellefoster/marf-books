@@ -77,6 +77,5 @@ Books I've read
 - Madeleine L'Engle: A Wrinkle in Time
 - Matt Ruff: Set This House in Order
 - Lois McMaster Bujold: Horizon
-- Lois McMaster Bujold: Passage
 - Patrick Weekes
 - A Good Time For The Truth
