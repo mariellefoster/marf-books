@@ -62,6 +62,7 @@ Books I've read
 - The Narcissistic Family
 - Lois McMaster Bujold: Passage
 - Lois McMaster Bujold: Horizon
+- Patrick Weekes: The Prophecy Con
 
 ## Future
 - Invisible Man, Got the Whole World Watching
