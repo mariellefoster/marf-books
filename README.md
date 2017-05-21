@@ -61,6 +61,7 @@ Books I've read
 - Lois McMaster Bujold: Legacy
 - The Narcissistic Family
 - Lois McMaster Bujold: Passage
+- Lois McMaster Bujold: Horizon
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -76,6 +77,5 @@ Books I've read
 - Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
 - Matt Ruff: Set This House in Order
-- Lois McMaster Bujold: Horizon
 - Patrick Weekes
 - A Good Time For The Truth
