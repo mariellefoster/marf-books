@@ -63,6 +63,8 @@ Books I've read
 - Lois McMaster Bujold: Passage
 - Lois McMaster Bujold: Horizon
 - Patrick Weekes: The Prophecy Con
+- Patrick Weekes: The Paladin Caper
+
 
 ## Future
 - Invisible Man, Got the Whole World Watching
