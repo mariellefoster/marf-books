@@ -80,5 +80,4 @@ Books I've read
 - Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
 - Matt Ruff: Set This House in Order
-- Patrick Weekes
 - A Good Time For The Truth
