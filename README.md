@@ -64,7 +64,7 @@ Books I've read
 - Lois McMaster Bujold: Horizon
 - Patrick Weekes: The Prophecy Con
 - Patrick Weekes: The Paladin Caper
-
+- Paolo Freire: Pedagogy of the Oppressed
 
 ## Future
 - Invisible Man, Got the Whole World Watching
