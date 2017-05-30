@@ -64,6 +64,7 @@ Books I've read
 - Lois McMaster Bujold: Horizon
 - Patrick Weekes: The Prophecy Con
 - Patrick Weekes: The Paladin Caper
+- Matt Ruff: Set This House in Order
 - Paolo Freire: Pedagogy of the Oppressed
 
 ## Future
