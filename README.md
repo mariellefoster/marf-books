@@ -65,6 +65,8 @@ Books I've read
 - Patrick Weekes: The Prophecy Con
 - Patrick Weekes: The Paladin Caper
 - Matt Ruff: Set This House in Order
+
+## June
 - Paolo Freire: Pedagogy of the Oppressed
 
 ## Future
