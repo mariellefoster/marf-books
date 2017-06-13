@@ -68,6 +68,7 @@ Books I've read
 
 ## June
 - Paolo Freire: Pedagogy of the Oppressed
+- Robert Sapolsky: Behave
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -83,4 +84,4 @@ Books I've read
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
 - Matt Ruff: Bad Monkeys
-- Robert Sapolsky: Behave
+
