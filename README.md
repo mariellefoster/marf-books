@@ -1,6 +1,16 @@
 # marf-books
 Books I've read
 
+# All Time Favorites
+- Ann Leckie: Ancillary Justice
+- Ann Leckie: Ancillary Sword
+- Ann Leckie: Ancillary Mercy
+- Matt Ruff: Lovecraft Country
+- Lois McMaster Bujold: Beguilement
+- Matt Ruff: Set This House in Order
+- Becky Chambers: The Long Way to A Small, Angry Planet
+
+
 # 2016
 
 ## September
