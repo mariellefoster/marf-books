@@ -80,6 +80,8 @@ Books I've read
 - Paolo Freire: Pedagogy of the Oppressed
 - Robert Sapolsky: Behave
 - Matt Ruff: Bad Monkeys
+- Max Gladstone: Last First Snow
+- Know This- Scientific discoveries
 
 ## Future
 - Invisible Man, Got the Whole World Watching
