@@ -80,6 +80,7 @@ Books I've read
 - Paolo Freire: Pedagogy of the Oppressed
 - Robert Sapolsky: Behave
 - Matt Ruff: Bad Monkeys
+- Lois McMaster Bujold: The DreamWeaver's Dilemma
 - Max Gladstone: Last First Snow
 - Know This- Scientific discoveries
 
