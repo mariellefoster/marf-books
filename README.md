@@ -82,7 +82,7 @@ Books I've read
 - Matt Ruff: Bad Monkeys
 - Lois McMaster Bujold: The DreamWeaver's Dilemma
 - Max Gladstone: Last First Snow
-- Know This- Scientific discoveries
+
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -100,3 +100,4 @@ Books I've read
 - Max Gladstone: Last First Snow
 - The Gilda Stories
 - Matt Ruff: Sewer, Gas and Electric
+- Know This- Scientific discoveries
