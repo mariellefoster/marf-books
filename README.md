@@ -97,7 +97,6 @@ Books I've read
 - Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
-- Max Gladstone: Last First Snow
 - The Gilda Stories
 - Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
