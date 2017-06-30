@@ -83,6 +83,7 @@ Books I've read
 - Lois McMaster Bujold: The DreamWeaver's Dilemma
 - Max Gladstone: Last First Snow
 
+## July
 
 ## Future
 - Invisible Man, Got the Whole World Watching
