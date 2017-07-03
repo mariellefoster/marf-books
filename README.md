@@ -84,6 +84,7 @@ Books I've read
 - Max Gladstone: Last First Snow
 
 ## July
+- Matt Ruff: The Mirage
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -101,5 +102,4 @@ Books I've read
 - The Gilda Stories
 - Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
-- Matt Ruff: The Mirage
 - N. K. Jemison: A Hundred Thousand Kingdoms
