@@ -85,6 +85,7 @@ Books I've read
 
 ## July
 - Matt Ruff: The Mirage
+- N. K. Jemison: A Hundred Thousand Kingdoms
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -102,4 +103,4 @@ Books I've read
 - The Gilda Stories
 - Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
-- N. K. Jemison: A Hundred Thousand Kingdoms
+
