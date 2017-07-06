@@ -100,7 +100,7 @@ Books I've read
 - Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
-- The Gilda Stories
+- Jewelle Gomez: The Gilda Stories
 - Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
 - Becky Chambers: A Closed and Common Orbit
