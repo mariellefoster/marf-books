@@ -86,6 +86,7 @@ Books I've read
 ## July
 - Matt Ruff: The Mirage
 - N. K. Jemison: A Hundred Thousand Kingdoms
+- Lois McMaster Bujold: Falling Free
 
 ## Future
 - Invisible Man, Got the Whole World Watching
