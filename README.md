@@ -9,7 +9,7 @@ Books I've read
 - Lois McMaster Bujold: Beguilement
 - Matt Ruff: Set This House in Order
 - Becky Chambers: The Long Way to A Small, Angry Planet
-
+- Matt Ruff: The Mirage
 
 # 2016
 
@@ -36,6 +36,7 @@ Books I've read
 # 2017
 
 ## January
+(5 this month, 5 YTD)
 - Ted Chiang: The Lifecycle of Software Objects
 - Anders Ericsson and Robert Pool: Peak
 - Carlos Ruiz Zafón: Shadow of the Wind
@@ -43,12 +44,14 @@ Books I've read
 - Ann Leckie: Ancillary Mercy
 
 ## February
+(4 this month, 9 YTD)
 - Robert Alter: Genesis
 - Julia Cameron: The Artists's Way
 - Gwyneth Jones: Life
 - Yudhijit Bhattacharjee: The Spy Who Couldn't Spell
 
 ## March
+(8 this month, 17 YTD)
 - History of White People
 - Patricia Wrede: Dealing with Dragons
 - Patricia Wrede: Searching for Dragons
@@ -60,6 +63,7 @@ Books I've read
 
 
 ## April
+(5 this month, 23 YTD)
 - Patrick Weekes: The Palace Job
 - War.exe
 - Lois McMaster Bujold: Beguilement
@@ -67,6 +71,7 @@ Books I've read
 - Charlie Jane: All The Birds In The Sky
 
 ## May
+(8 this month, 31 YTD)
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Lois McMaster Bujold: Legacy
 - The Narcissistic Family
@@ -77,6 +82,7 @@ Books I've read
 - Matt Ruff: Set This House in Order
 
 ## June
+(5 this month, 36 YTD)
 - Paolo Freire: Pedagogy of the Oppressed
 - Robert Sapolsky: Behave
 - Matt Ruff: Bad Monkeys
@@ -84,11 +90,12 @@ Books I've read
 - Max Gladstone: Last First Snow
 
 ## July
+(4 this month, 40 YTD)
 - Matt Ruff: The Mirage
 - N. K. Jemison: A Hundred Thousand Kingdoms
 - Lois McMaster Bujold: Falling Free
 - Becky Chambers: A Closed and Common Orbit
-- Octavia Butler: Bloodchild
+
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -107,3 +114,4 @@ Books I've read
 - Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
 - McGuire, Seanan: Every Heart A Doorway
+- Octavia Butler: Bloodchild
