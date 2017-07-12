@@ -87,6 +87,7 @@ Books I've read
 - Matt Ruff: The Mirage
 - N. K. Jemison: A Hundred Thousand Kingdoms
 - Lois McMaster Bujold: Falling Free
+- Octavia Butler: Bloodchild
 
 ## Future
 - Invisible Man, Got the Whole World Watching
