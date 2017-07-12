@@ -87,6 +87,7 @@ Books I've read
 - Matt Ruff: The Mirage
 - N. K. Jemison: A Hundred Thousand Kingdoms
 - Lois McMaster Bujold: Falling Free
+- Becky Chambers: A Closed and Common Orbit
 - Octavia Butler: Bloodchild
 
 ## Future
@@ -105,5 +106,4 @@ Books I've read
 - Jewelle Gomez: The Gilda Stories
 - Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
-- Becky Chambers: A Closed and Common Orbit
 - McGuire, Seanan: Every Heart A Doorway
