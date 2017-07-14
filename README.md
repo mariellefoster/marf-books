@@ -68,7 +68,7 @@ Books I've read
 - War.exe
 - Lois McMaster Bujold: Beguilement
 - Ted Chiang: Stories of your Life
-- Charlie Jane: All The Birds In The Sky
+- Charlie Jane Anders: All The Birds In The Sky
 
 ## May
 (8 this month, 31 YTD)
