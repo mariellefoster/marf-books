@@ -95,6 +95,8 @@ Books I've read
 - N. K. Jemison: A Hundred Thousand Kingdoms
 - Lois McMaster Bujold: Falling Free
 - Becky Chambers: A Closed and Common Orbit
+- Octavia Butler: Bloodchild, and other stories
+- Seannan McGuire: Every Heart A Doorway
 
 
 ## Future
