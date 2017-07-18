@@ -90,13 +90,14 @@ Books I've read
 - Max Gladstone: Last First Snow
 
 ## July
-(6 this month, 42 YTD)
+(7 this month, 43 YTD)
 - Matt Ruff: The Mirage
 - N. K. Jemison: A Hundred Thousand Kingdoms
 - Lois McMaster Bujold: Falling Free
 - Becky Chambers: A Closed and Common Orbit
 - Octavia Butler: Bloodchild, and other stories
 - Seannan McGuire: Every Heart A Doorway
+- Jewelle Gomez: The Gilda Stories
 
 
 ## Future
@@ -112,7 +113,6 @@ Books I've read
 - Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
-- Jewelle Gomez: The Gilda Stories
 - Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
 
