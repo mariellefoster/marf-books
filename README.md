@@ -104,7 +104,6 @@ Books I've read
 - Invisible Man, Got the Whole World Watching
 - Ann : The Sparrow
 - How to Win Friends and Influence People
-- Weapons of Math Deception
 - Greg Orman: Declaration of Independents
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Amberlough
