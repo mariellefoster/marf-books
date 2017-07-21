@@ -97,7 +97,7 @@ Books I've read
 - Becky Chambers: A Closed and Common Orbit
 - Octavia Butler: Bloodchild, and other stories
 - Seannan McGuire: Every Heart A Doorway
-- Jewelle Gomez: The Gilda Stories
+- Cathy O'Neil: Weapons of Math Destruction
 
 
 ## Future
@@ -115,4 +115,4 @@ Books I've read
 - A Good Time For The Truth
 - Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
-
+- Jewelle Gomez: The Gilda Stories
