@@ -98,7 +98,7 @@ Books I've read
 - Octavia Butler: Bloodchild, and other stories
 - Seannan McGuire: Every Heart A Doorway
 - Cathy O'Neil: Weapons of Math Destruction
-
+- Naomi Kritzer: Cat Pictures Please and Other Stories
 
 ## Future
 - Invisible Man, Got the Whole World Watching
