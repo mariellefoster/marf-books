@@ -115,3 +115,5 @@ Books I've read
 - Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
 - Jewelle Gomez: The Gilda Stories
+- Lois McMaster Bujold: Curse of Chalion
+
