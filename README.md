@@ -116,4 +116,5 @@ Books I've read
 - Know This- Scientific discoveries
 - Jewelle Gomez: The Gilda Stories
 - Lois McMaster Bujold: Curse of Chalion
+- Lois McMaster Bujold: Barrayar
 
