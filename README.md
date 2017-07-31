@@ -92,13 +92,14 @@ Books I've read
 ## July
 (8 this month, 44 YTD)
 - Matt Ruff: The Mirage
-- N. K. Jemison: A Hundred Thousand Kingdoms
+- N. K. Jemisin: A Hundred Thousand Kingdoms
 - Lois McMaster Bujold: Falling Free
 - Becky Chambers: A Closed and Common Orbit
 - Octavia Butler: Bloodchild, and other stories
 - Seannan McGuire: Every Heart A Doorway
 - Cathy O'Neil: Weapons of Math Destruction
 - Naomi Kritzer: Cat Pictures Please and Other Stories
+- N. K. Jemisin: The Broken Kingdoms
 
 ## Future
 - Invisible Man, Got the Whole World Watching
