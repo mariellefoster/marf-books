@@ -90,7 +90,7 @@ Books I've read
 - Max Gladstone: Last First Snow
 
 ## July
-(8 this month, 44 YTD)
+(9 this month, 45 YTD)
 - Matt Ruff: The Mirage
 - N. K. Jemisin: A Hundred Thousand Kingdoms
 - Lois McMaster Bujold: Falling Free
