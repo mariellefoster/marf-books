@@ -111,7 +111,8 @@ Books I've read
 - Matt Ruff: Sewer, Gas and Electric
 - Lois McMaster Bujold: Barrayar
 
-## Some day
+## Future
+- Charles Stross: The Delirium Brief
 - Invisible Man, Got the Whole World Watching
 - Ann : The Sparrow
 - How to Win Friends and Influence People
@@ -125,4 +126,6 @@ Books I've read
 - A Good Time For The Truth
 - Know This- Scientific discoveries
 - Lois McMaster Bujold: Curse of Chalion
-
+- Octavia Butler: Parable of the Sower
+- N. K. Jemisin: The Fifth Season
+- Laurie Penny: Bitch Doctrine- Essays for Dissenting Adults
