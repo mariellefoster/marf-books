@@ -101,7 +101,17 @@ Books I've read
 - Naomi Kritzer: Cat Pictures Please and Other Stories
 - N. K. Jemisin: The Broken Kingdoms
 
-## Future
+## August
+(1 this month, 46 YTD)
+- N. K. Jemisin: The Kingdom of Gods
+
+## Next
+- Gooseberry Bluff Community College
+- Jewelle Gomez: The Gilda Stories
+- Matt Ruff: Sewer, Gas and Electric
+- Lois McMaster Bujold: Barrayar
+
+## Some day
 - Invisible Man, Got the Whole World Watching
 - Ann : The Sparrow
 - How to Win Friends and Influence People
@@ -113,9 +123,6 @@ Books I've read
 - Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
-- Matt Ruff: Sewer, Gas and Electric
 - Know This- Scientific discoveries
-- Jewelle Gomez: The Gilda Stories
 - Lois McMaster Bujold: Curse of Chalion
-- Lois McMaster Bujold: Barrayar
-- Gooseberry Bluff Community College
+
