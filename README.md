@@ -104,10 +104,10 @@ Books I've read
 ## August
 (1 this month, 46 YTD)
 - N. K. Jemisin: The Kingdom of Gods
+- Jewelle Gomez: The Gilda Stories
 
 ## Next
 - Gooseberry Bluff Community College
-- Jewelle Gomez: The Gilda Stories
 - Matt Ruff: Sewer, Gas and Electric
 - Lois McMaster Bujold: Barrayar
 
