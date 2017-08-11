@@ -129,3 +129,4 @@ Books I've read
 - Octavia Butler: Parable of the Sower
 - N. K. Jemisin: The Fifth Season
 - Laurie Penny: Bitch Doctrine- Essays for Dissenting Adults
+- Atul Gawande: On Dying
