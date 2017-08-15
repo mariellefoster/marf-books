@@ -111,6 +111,7 @@ Books I've read
 - Amberlough
 - Matt Ruff: Sewer, Gas and Electric
 - Lois McMaster Bujold: Barrayar
+- Lois McMaster Bujold: Curse of Chalion
 
 ## Future
 - Charles Stross: The Delirium Brief
