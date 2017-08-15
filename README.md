@@ -108,6 +108,7 @@ Books I've read
 - Gooseberry Bluff Community College
 
 ## Next
+- Amberlough
 - Matt Ruff: Sewer, Gas and Electric
 - Lois McMaster Bujold: Barrayar
 
@@ -118,7 +119,6 @@ Books I've read
 - How to Win Friends and Influence People
 - Greg Orman: Declaration of Independents
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Amberlough
 - Kameron Hurley: The Stars Are Legion
 - Carlos Ruiz Zafón: The Prisoner of Heaven
 - Carlos Ruiz Zafón: The Angel's Game
