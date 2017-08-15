@@ -102,7 +102,7 @@ Books I've read
 - N. K. Jemisin: The Broken Kingdoms
 
 ## August
-(2 this month, 47 YTD)
+(3 this month, 48 YTD)
 - N. K. Jemisin: The Kingdom of Gods
 - Jewelle Gomez: The Gilda Stories
 - Gooseberry Bluff Community College
