@@ -105,9 +105,9 @@ Books I've read
 (2 this month, 47 YTD)
 - N. K. Jemisin: The Kingdom of Gods
 - Jewelle Gomez: The Gilda Stories
+- Gooseberry Bluff Community College
 
 ## Next
-- Gooseberry Bluff Community College
 - Matt Ruff: Sewer, Gas and Electric
 - Lois McMaster Bujold: Barrayar
 
