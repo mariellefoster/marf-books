@@ -105,7 +105,7 @@ Books I've read
 (3 this month, 48 YTD)
 - N. K. Jemisin: The Kingdom of Gods
 - Jewelle Gomez: The Gilda Stories
-- Gooseberry Bluff Community College
+- David J. Schwartz: Gooseberry Bluff Community College
 
 ## Next
 - Amberlough
