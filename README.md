@@ -102,18 +102,19 @@ Books I've read
 - N. K. Jemisin: The Broken Kingdoms
 
 ## August
-(3 this month, 48 YTD)
+(8 this month, 53 YTD)
 - N. K. Jemisin: The Kingdom of Gods
 - Jewelle Gomez: The Gilda Stories
 - David J. Schwartz: Gooseberry Bluff Community College
 - Lois McMaster Bujold: Shards of Honor
 - Lois McMaster Bujold: Barrayar
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
+- Lois McMaster Bujold: Curse of Chalion
+- Lois McMaster Bujold: Curse of Chalion
 
 ## Next
 - Amberlough
 - Matt Ruff: Sewer, Gas and Electric
-- Lois McMaster Bujold: Curse of Chalion
 
 ## Future
 - Charles Stross: The Delirium Brief
