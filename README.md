@@ -107,11 +107,11 @@ Books I've read
 - Jewelle Gomez: The Gilda Stories
 - David J. Schwartz: Gooseberry Bluff Community College
 - Lois McMaster Bujold: Shards of Honor
+- Lois McMaster Bujold: Barrayar
 
 ## Next
 - Amberlough
 - Matt Ruff: Sewer, Gas and Electric
-- Lois McMaster Bujold: Barrayar
 - Lois McMaster Bujold: Curse of Chalion
 
 ## Future
