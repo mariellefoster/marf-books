@@ -106,6 +106,7 @@ Books I've read
 - N. K. Jemisin: The Kingdom of Gods
 - Jewelle Gomez: The Gilda Stories
 - David J. Schwartz: Gooseberry Bluff Community College
+- Lois McMaster Bujold: Shards of Honor
 
 ## Next
 - Amberlough
