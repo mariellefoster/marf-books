@@ -108,7 +108,7 @@ Books I've read
 - David J. Schwartz: Gooseberry Bluff Community College
 - Lois McMaster Bujold: Shards of Honor
 - Lois McMaster Bujold: Barrayar
-
+- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
 
 ## Next
 - Amberlough
