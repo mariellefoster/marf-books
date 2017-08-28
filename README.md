@@ -102,7 +102,7 @@ Books I've read
 - N. K. Jemisin: The Broken Kingdoms
 
 ## August
-(8 this month, 53 YTD)
+(9 this month, 54 YTD)
 - N. K. Jemisin: The Kingdom of Gods
 - Jewelle Gomez: The Gilda Stories
 - David J. Schwartz: Gooseberry Bluff Community College
@@ -113,8 +113,8 @@ Books I've read
 - Lois McMaster Bujold: Paladin of Souls
 
 ## Next
-- Amberlough
 - Matt Ruff: Sewer, Gas and Electric
+- N. K. Jemisin: The Fifth Season
 
 ## Future
 - Charles Stross: The Delirium Brief
@@ -131,6 +131,5 @@ Books I've read
 - Know This- Scientific discoveries
 - Lois McMaster Bujold: Curse of Chalion
 - Octavia Butler: Parable of the Sower
-- N. K. Jemisin: The Fifth Season
 - Laurie Penny: Bitch Doctrine- Essays for Dissenting Adults
 - Atul Gawande: On Dying
