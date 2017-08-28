@@ -110,7 +110,7 @@ Books I've read
 - Lois McMaster Bujold: Barrayar
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
 - Lois McMaster Bujold: Curse of Chalion
-- Lois McMaster Bujold: Curse of Chalion
+- Lois McMaster Bujold: Paladin of Souls
 
 ## Next
 - Amberlough
