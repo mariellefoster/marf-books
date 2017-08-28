@@ -115,6 +115,7 @@ Books I've read
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: The Fifth Season
+- Lois McMaster Bujold: The Warrior's Apprentice
 
 ## Future
 - Charles Stross: The Delirium Brief
@@ -129,7 +130,6 @@ Books I've read
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
 - Know This- Scientific discoveries
-- Lois McMaster Bujold: Curse of Chalion
 - Octavia Butler: Parable of the Sower
 - Laurie Penny: Bitch Doctrine- Essays for Dissenting Adults
 - Atul Gawande: On Dying
