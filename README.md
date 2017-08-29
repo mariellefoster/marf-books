@@ -125,8 +125,6 @@ Books I've read
 - Greg Orman: Declaration of Independents
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Kameron Hurley: The Stars Are Legion
-- Carlos Ruiz Zafón: The Prisoner of Heaven
-- Carlos Ruiz Zafón: The Angel's Game
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
 - Know This- Scientific discoveries
