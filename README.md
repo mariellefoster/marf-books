@@ -112,6 +112,8 @@ Books I've read
 - Lois McMaster Bujold: Curse of Chalion
 - Lois McMaster Bujold: Paladin of Souls
 
+## September
+
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: The Fifth Season
