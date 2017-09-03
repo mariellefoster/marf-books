@@ -113,11 +113,11 @@ Books I've read
 - Lois McMaster Bujold: Paladin of Souls
 
 ## September
+- Lois McMaster Bujold: The Warrior's Apprentice
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: The Fifth Season
-- Lois McMaster Bujold: The Warrior's Apprentice
 
 ## Future
 - Charles Stross: The Delirium Brief
