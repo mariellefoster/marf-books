@@ -108,7 +108,7 @@ Books I've read
 - David J. Schwartz: Gooseberry Bluff Community College
 - Lois McMaster Bujold: Shards of Honor
 - Lois McMaster Bujold: Barrayar
-- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
+- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 1
 - Lois McMaster Bujold: Curse of Chalion
 - Lois McMaster Bujold: Paladin of Souls
 
@@ -118,6 +118,7 @@ Books I've read
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: The Fifth Season
+- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
 
 ## Future
 - Charles Stross: The Delirium Brief
