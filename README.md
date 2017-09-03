@@ -113,6 +113,7 @@ Books I've read
 - Lois McMaster Bujold: Paladin of Souls
 
 ## September
+(1 this month, 55 YTD)
 - Lois McMaster Bujold: The Warrior's Apprentice
 
 ## Next
