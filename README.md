@@ -115,10 +115,10 @@ Books I've read
 ## September
 (1 this month, 55 YTD)
 - Lois McMaster Bujold: The Warrior's Apprentice
+- N. K. Jemisin: The Fifth Season
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
-- N. K. Jemisin: The Fifth Season
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
 
 ## Future
