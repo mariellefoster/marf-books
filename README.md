@@ -120,6 +120,7 @@ Books I've read
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
+- Lois McMaster Bujold: The Vor Game
 
 ## Future
 - Charles Stross: The Delirium Brief
