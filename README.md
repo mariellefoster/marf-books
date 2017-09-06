@@ -121,9 +121,9 @@ Books I've read
 - Matt Ruff: Sewer, Gas and Electric
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
 - Lois McMaster Bujold: The Vor Game
+- Charles Stross: The Delirium Brief
 
 ## Future
-- Charles Stross: The Delirium Brief
 - Invisible Man, Got the Whole World Watching
 - Ann : The Sparrow
 - How to Win Friends and Influence People
