@@ -122,10 +122,9 @@ Books I've read
 - Matt Ruff: Sewer, Gas and Electric
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
 - Lois McMaster Bujold: The Vor Game
-- N. K. Jemisin: 
-- N. K. Jemisin: 
-- N. K. Jemisin: 
-- N. K. Jemisin: 
+- N. K. Jemisin: The Awakened Kingdom
+- N. K. Jemisin: Shades in Shadow
+- N. K. Jemisin: The Obelisk Gate
 
 
 ## Future
