@@ -116,12 +116,12 @@ Books I've read
 (2 this month, 56 YTD)
 - Lois McMaster Bujold: The Warrior's Apprentice
 - N. K. Jemisin: The Fifth Season
+- Charles Stross: The Delirium Brief
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
 - Lois McMaster Bujold: The Vor Game
-- Charles Stross: The Delirium Brief
 
 ## Future
 - Invisible Man, Got the Whole World Watching
