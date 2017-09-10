@@ -122,6 +122,11 @@ Books I've read
 - Matt Ruff: Sewer, Gas and Electric
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
 - Lois McMaster Bujold: The Vor Game
+- N. K. Jemisin: 
+- N. K. Jemisin: 
+- N. K. Jemisin: 
+- N. K. Jemisin: 
+
 
 ## Future
 - Invisible Man, Got the Whole World Watching
