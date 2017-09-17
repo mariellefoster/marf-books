@@ -117,10 +117,11 @@ Books I've read
 - Lois McMaster Bujold: The Warrior's Apprentice
 - N. K. Jemisin: The Fifth Season
 - Charles Stross: The Delirium Brief
+- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
-- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
+
 - Lois McMaster Bujold: The Vor Game
 - N. K. Jemisin: The Awakened Kingdom
 - N. K. Jemisin: Shades in Shadow
