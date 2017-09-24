@@ -119,6 +119,7 @@ Books I've read
 - Charles Stross: The Delirium Brief
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
 - Lois McMaster Bujold: The Vor Game
+- Charles Stross: The Family Trade
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
