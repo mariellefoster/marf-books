@@ -120,6 +120,7 @@ Books I've read
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy pt 2
 - Lois McMaster Bujold: The Vor Game
 - Charles Stross: The Family Trade
+- Charles Stross: The Hidden Family
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
