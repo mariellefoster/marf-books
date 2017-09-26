@@ -121,6 +121,7 @@ Books I've read
 - Lois McMaster Bujold: The Vor Game
 - Charles Stross: The Family Trade
 - Charles Stross: The Hidden Family
+- Charles Stross: The Clan Corporate
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
