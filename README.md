@@ -113,7 +113,7 @@ Books I've read
 - Lois McMaster Bujold: Paladin of Souls
 
 ## September
-(8 this month, 62 YTD)
+(9 this month, 63 YTD)
 - Lois McMaster Bujold: The Warrior's Apprentice
 - N. K. Jemisin: The Fifth Season
 - Charles Stross: The Delirium Brief
