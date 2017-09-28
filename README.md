@@ -122,6 +122,7 @@ Books I've read
 - Charles Stross: The Family Trade
 - Charles Stross: The Hidden Family
 - Charles Stross: The Clan Corporate
+- Charles Stross: The Merchant's War
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
