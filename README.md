@@ -124,6 +124,9 @@ Books I've read
 - Charles Stross: The Clan Corporate
 - Charles Stross: The Merchant's War
 
+# October
+(1 this month, 64 YTD)
+
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: The Awakened Kingdom
