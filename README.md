@@ -126,6 +126,7 @@ Books I've read
 
 # October
 (1 this month, 64 YTD)
+- Charles Stross: The Revolution Business
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
