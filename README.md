@@ -129,11 +129,15 @@ Books I've read
 - Charles Stross: The Revolution Business
 
 ## Next
+- N. K. Jemisin: The Obelisk Gate
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: The Awakened Kingdom
 - N. K. Jemisin: Shades in Shadow
-- N. K. Jemisin: The Obelisk Gate
-
+- Nnedi Okorafor: Binti
+- Vernor Vinge: A Deepness in the Sky
+- Mothership: Tales From Afrofuturism and Beyond
+- Charles Stross: Empire Games
+- Charles Stross: The Trade of Queens
 
 ## Future
 - Invisible Man, Got the Whole World Watching
