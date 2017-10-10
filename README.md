@@ -138,6 +138,7 @@ Books I've read
 - Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
 - Charles Stross: The Trade of Queens
+- N. K. Jemisin: The Stone Sky
 
 ## Future
 - Invisible Man, Got the Whole World Watching
