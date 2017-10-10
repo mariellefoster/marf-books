@@ -128,13 +128,13 @@ Books I've read
 (1 this month, 64 YTD)
 - Charles Stross: The Revolution Business
 - N. K. Jemisin: The Obelisk Gate
+- Vernor Vinge: A Deepness in the Sky
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: The Awakened Kingdom
 - N. K. Jemisin: Shades in Shadow
 - Nnedi Okorafor: Binti
-- Vernor Vinge: A Deepness in the Sky
 - Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
 - Charles Stross: The Trade of Queens
