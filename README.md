@@ -127,9 +127,9 @@ Books I've read
 # October
 (1 this month, 64 YTD)
 - Charles Stross: The Revolution Business
+- N. K. Jemisin: The Obelisk Gate
 
 ## Next
-- N. K. Jemisin: The Obelisk Gate
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: The Awakened Kingdom
 - N. K. Jemisin: Shades in Shadow
