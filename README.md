@@ -129,10 +129,10 @@ Books I've read
 - Charles Stross: The Revolution Business
 - N. K. Jemisin: The Obelisk Gate
 - Vernor Vinge: A Deepness in the Sky
+- N. K. Jemisin: The Awakened Kingdom
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
-- N. K. Jemisin: The Awakened Kingdom
 - N. K. Jemisin: Shades in Shadow
 - Nnedi Okorafor: Binti
 - Mothership: Tales From Afrofuturism and Beyond
