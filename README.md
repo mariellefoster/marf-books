@@ -125,7 +125,7 @@ Books I've read
 - Charles Stross: The Merchant's War
 
 # October
-(4 this month, 67 YTD)
+(5 this month, 68 YTD)
 - Charles Stross: The Revolution Business
 - N. K. Jemisin: The Obelisk Gate
 - Vernor Vinge: A Deepness in the Sky
