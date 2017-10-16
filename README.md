@@ -129,7 +129,7 @@ Books I've read
 - Charles Stross: The Revolution Business
 - N. K. Jemisin: The Obelisk Gate
 - Vernor Vinge: A Deepness in the Sky
-- N. K. Jemisin: The Awakened Kingdom
+- N. K. Jemisin: The Stone Sky
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
@@ -138,7 +138,7 @@ Books I've read
 - Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
 - Charles Stross: The Trade of Queens
-- N. K. Jemisin: The Stone Sky
+- N. K. Jemisin: The Awakened Kingdom
 
 ## Future
 - Invisible Man, Got the Whole World Watching
