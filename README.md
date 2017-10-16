@@ -129,6 +129,7 @@ Books I've read
 - Charles Stross: The Revolution Business
 - N. K. Jemisin: The Obelisk Gate
 - Vernor Vinge: A Deepness in the Sky
+- Charles Stross: The Trade of Queens
 - N. K. Jemisin: The Stone Sky
 - Hope Nicholson: The Secret Loves of Geek Girls
 
@@ -138,7 +139,6 @@ Books I've read
 - Nnedi Okorafor: Binti
 - Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
-- Charles Stross: The Trade of Queens
 - N. K. Jemisin: The Awakened Kingdom
 
 ## Future
