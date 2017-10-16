@@ -10,6 +10,9 @@ Books I've read
 - Matt Ruff: Set This House in Order
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Matt Ruff: The Mirage
+- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
+- N. K. Jemisin: A Hundred Thousand Kingdoms
+- Lois McMaster Bujold: Shards of Honor
 
 # 2016
 
