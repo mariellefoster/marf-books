@@ -130,6 +130,7 @@ Books I've read
 - N. K. Jemisin: The Obelisk Gate
 - Vernor Vinge: A Deepness in the Sky
 - N. K. Jemisin: The Stone Sky
+- Hope Nicholson: The Secret Loves of Geek Girls
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
