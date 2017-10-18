@@ -143,7 +143,9 @@ Books I've read
 - Nnedi Okorafor: Binti
 - Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
-
+- Lois McMaster Bujold: Cetaganda
+- Lois McMaster Bujold: Ethan of Athos
+- Lois McMaster Bujold: Labyrinth
 
 ## Future
 - Invisible Man, Got the Whole World Watching
