@@ -128,11 +128,12 @@ Books I've read
 - Charles Stross: The Merchant's War
 
 # October
-(6 this month, 69 YTD)
+(7 this month, 70 YTD)
 - Charles Stross: The Revolution Business
 - N. K. Jemisin: The Obelisk Gate
 - Vernor Vinge: A Deepness in the Sky
 - Charles Stross: The Trade of Queens
+- N. K. Jemisin: The Awakened Kingdom
 - N. K. Jemisin: The Stone Sky
 - Hope Nicholson: The Secret Loves of Geek Girls
 
@@ -142,7 +143,7 @@ Books I've read
 - Nnedi Okorafor: Binti
 - Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
-- N. K. Jemisin: The Awakened Kingdom
+
 
 ## Future
 - Invisible Man, Got the Whole World Watching
