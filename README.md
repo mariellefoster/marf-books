@@ -146,6 +146,7 @@ Books I've read
 - Lois McMaster Bujold: Cetaganda
 - Lois McMaster Bujold: Ethan of Athos
 - Lois McMaster Bujold: Labyrinth
+- McGuire, Seanan: Down Among the Sticks and Bones
 
 ## Future
 - Invisible Man, Got the Whole World Watching
