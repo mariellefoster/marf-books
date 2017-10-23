@@ -161,3 +161,5 @@ Books I've read
 - Octavia Butler: Parable of the Sower
 - Laurie Penny: Bitch Doctrine- Essays for Dissenting Adults
 - Atul Gawande: On Dying
+- Shrill
+
