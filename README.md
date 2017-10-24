@@ -141,13 +141,13 @@ Books I've read
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: Shades in Shadow
-
 - Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
 - Lois McMaster Bujold: Cetaganda
 - Lois McMaster Bujold: Ethan of Athos
 - Lois McMaster Bujold: Labyrinth
 - McGuire, Seanan: Down Among the Sticks and Bones
+- Laurie Penny: Bitch Doctrine
 
 ## Future
 - Invisible Man, Got the Whole World Watching
