@@ -136,11 +136,12 @@ Books I've read
 - N. K. Jemisin: The Awakened Kingdom
 - N. K. Jemisin: The Stone Sky
 - Hope Nicholson: The Secret Loves of Geek Girls
+- Nnedi Okorafor: Binti
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: Shades in Shadow
-- Nnedi Okorafor: Binti
+
 - Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
 - Lois McMaster Bujold: Cetaganda
