@@ -138,13 +138,13 @@ Books I've read
 - Hope Nicholson: The Secret Loves of Geek Girls
 - Nnedi Okorafor: Binti
 - Laurie Penny: Bitch Doctrine
+- Lois McMaster Bujold: Cetaganda
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: Shades in Shadow
 - Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
-- Lois McMaster Bujold: Cetaganda
 - Lois McMaster Bujold: Ethan of Athos
 - Lois McMaster Bujold: Labyrinth
 - McGuire, Seanan: Down Among the Sticks and Bones
