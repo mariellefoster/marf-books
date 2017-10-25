@@ -137,6 +137,7 @@ Books I've read
 - N. K. Jemisin: The Stone Sky
 - Hope Nicholson: The Secret Loves of Geek Girls
 - Nnedi Okorafor: Binti
+- Laurie Penny: Bitch Doctrine
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
@@ -147,7 +148,6 @@ Books I've read
 - Lois McMaster Bujold: Ethan of Athos
 - Lois McMaster Bujold: Labyrinth
 - McGuire, Seanan: Down Among the Sticks and Bones
-- Laurie Penny: Bitch Doctrine
 
 ## Future
 - Invisible Man, Got the Whole World Watching
