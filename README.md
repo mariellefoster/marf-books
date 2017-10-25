@@ -143,15 +143,16 @@ Books I've read
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: Shades in Shadow
-- Mothership: Tales From Afrofuturism and Beyond
 - Charles Stross: Empire Games
 - Lois McMaster Bujold: Ethan of Athos
 - Lois McMaster Bujold: Labyrinth
 - McGuire, Seanan: Down Among the Sticks and Bones
+- Nnedi Okorafor: Binti: Home
 
 ## Future
 - Invisible Man, Got the Whole World Watching
 - Ann : The Sparrow
+- Mothership: Tales From Afrofuturism and Beyond
 - How to Win Friends and Influence People
 - Greg Orman: Declaration of Independents
 - Lin Manuel Miranda: Hamilton, the screenplay
