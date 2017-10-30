@@ -148,6 +148,11 @@ Books I've read
 - Lois McMaster Bujold: Labyrinth
 - McGuire, Seanan: Down Among the Sticks and Bones
 - Nnedi Okorafor: Binti: Home
+- Lindy West: Shrill
+- Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
+- Luvvie Ajayi: I'm Judging You, The Do-better Manual
+- Naomi Alderman: The Power
+- Pia Mellody: Facing Love Addiction
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -161,7 +166,6 @@ Books I've read
 - A Good Time For The Truth
 - Know This- Scientific discoveries
 - Octavia Butler: Parable of the Sower
-- Laurie Penny: Bitch Doctrine- Essays for Dissenting Adults
 - Atul Gawande: On Dying
-- Lindy West: Shrill
+
 
