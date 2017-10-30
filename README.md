@@ -139,12 +139,12 @@ Books I've read
 - Nnedi Okorafor: Binti
 - Laurie Penny: Bitch Doctrine
 - Lois McMaster Bujold: Cetaganda
+- Lois McMaster Bujold: Ethan of Athos
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: Shades in Shadow
 - Charles Stross: Empire Games
-- Lois McMaster Bujold: Ethan of Athos
 - Lois McMaster Bujold: Labyrinth
 - McGuire, Seanan: Down Among the Sticks and Bones
 - Nnedi Okorafor: Binti: Home
