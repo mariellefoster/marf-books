@@ -140,9 +140,9 @@ Books I've read
 - Laurie Penny: Bitch Doctrine
 - Lois McMaster Bujold: Cetaganda
 - Lois McMaster Bujold: Ethan of Athos
-- Lindy West: Shrill
 
 # November
+- Lindy West: Shrill
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
