@@ -140,6 +140,7 @@ Books I've read
 - Laurie Penny: Bitch Doctrine
 - Lois McMaster Bujold: Cetaganda
 - Lois McMaster Bujold: Ethan of Athos
+- Lindy West: Shrill
 
 # November
 
@@ -150,7 +151,6 @@ Books I've read
 - Lois McMaster Bujold: Labyrinth
 - McGuire, Seanan: Down Among the Sticks and Bones
 - Nnedi Okorafor: Binti: Home
-- Lindy West: Shrill
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
 - Naomi Alderman: The Power
