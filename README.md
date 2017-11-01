@@ -142,6 +142,7 @@ Books I've read
 - Lois McMaster Bujold: Ethan of Athos
 
 # November
+(1 this month, 75 YTD)
 - Lindy West: Shrill
 
 ## Next
