@@ -145,17 +145,17 @@ Books I've read
 - Lindy West: Shrill
 
 ## Next
+- Nnedi Okorafor: Binti: Home
+- Laurie Penny: Bitch Doctrine
+- Lois McMaster Bujold: Labyrinth
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: Shades in Shadow
 - Charles Stross: Empire Games
-- Lois McMaster Bujold: Labyrinth
 - McGuire, Seanan: Down Among the Sticks and Bones
-- Nnedi Okorafor: Binti: Home
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
 - Naomi Alderman: The Power
 - Pia Mellody: Facing Love Addiction
-- Laurie Penny: Bitch Doctrine
 
 ## Future
 - Invisible Man, Got the Whole World Watching
