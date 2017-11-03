@@ -128,7 +128,7 @@ Books I've read
 - Charles Stross: The Merchant's War
 
 # October
-(11 this month, 74 YTD)
+(10 this month, 73 YTD)
 - Charles Stross: The Revolution Business
 - N. K. Jemisin: The Obelisk Gate
 - Vernor Vinge: A Deepness in the Sky
@@ -137,12 +137,11 @@ Books I've read
 - N. K. Jemisin: The Stone Sky
 - Hope Nicholson: The Secret Loves of Geek Girls
 - Nnedi Okorafor: Binti
-- Laurie Penny: Bitch Doctrine
 - Lois McMaster Bujold: Cetaganda
 - Lois McMaster Bujold: Ethan of Athos
 
 # November
-(1 this month, 75 YTD)
+(1 this month, 74 YTD)
 - Lindy West: Shrill
 
 ## Next
@@ -156,6 +155,7 @@ Books I've read
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
 - Naomi Alderman: The Power
 - Pia Mellody: Facing Love Addiction
+- Laurie Penny: Bitch Doctrine
 
 ## Future
 - Invisible Man, Got the Whole World Watching
