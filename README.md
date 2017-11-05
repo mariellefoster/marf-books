@@ -143,9 +143,9 @@ Books I've read
 # November
 (1 this month, 74 YTD)
 - Lindy West: Shrill
+- Nnedi Okorafor: Binti: Home
 
 ## Next
-- Nnedi Okorafor: Binti: Home
 - Laurie Penny: Bitch Doctrine
 - Lois McMaster Bujold: Labyrinth
 - Matt Ruff: Sewer, Gas and Electric
