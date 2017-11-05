@@ -144,10 +144,10 @@ Books I've read
 (1 this month, 74 YTD)
 - Lindy West: Shrill
 - Nnedi Okorafor: Binti: Home
+- Lois McMaster Bujold: Labyrinth
 
 ## Next
 - Laurie Penny: Bitch Doctrine
-- Lois McMaster Bujold: Labyrinth
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: Shades in Shadow
 - Charles Stross: Empire Games
