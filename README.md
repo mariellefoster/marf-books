@@ -13,6 +13,9 @@ Books I've read
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
 - N. K. Jemisin: A Hundred Thousand Kingdoms
 - Lois McMaster Bujold: Shards of Honor
+- Nnedi Okorafor: Binti: Home
+- Nnedi Okorafor: Binti
+- N. K. Jemisin: The Stone Sky
 
 # 2016
 
