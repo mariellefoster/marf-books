@@ -148,7 +148,6 @@ Books I've read
 - Seanan McGuire: Down Among the Sticks and Bones
 
 ## Next
-- Laurie Penny: Bitch Doctrine
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: Shades in Shadow
 - Charles Stross: Empire Games
@@ -169,6 +168,7 @@ Books I've read
 - A Good Time For The Truth
 - Know This- Scientific discoveries
 - Octavia Butler: Parable of the Sower
-- Atul Gawande: On Dying
+- Atul Gawande: Being Mortal
+- Laurie Penny: Bitch Doctrine
 
 
