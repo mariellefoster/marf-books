@@ -145,13 +145,13 @@ Books I've read
 - Lindy West: Shrill
 - Nnedi Okorafor: Binti: Home
 - Lois McMaster Bujold: Labyrinth
+- Seanan McGuire: Down Among the Sticks and Bones
 
 ## Next
 - Laurie Penny: Bitch Doctrine
 - Matt Ruff: Sewer, Gas and Electric
 - N. K. Jemisin: Shades in Shadow
 - Charles Stross: Empire Games
-- McGuire, Seanan: Down Among the Sticks and Bones
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
 - Naomi Alderman: The Power
