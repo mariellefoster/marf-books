@@ -150,6 +150,7 @@ Books I've read
 - Lois McMaster Bujold: Labyrinth
 - Seanan McGuire: Down Among the Sticks and Bones
 - Pia Mellody: Facing Love Addiction
+- Hiromi Goto and N.K. Jemisin: Systems Fail
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
