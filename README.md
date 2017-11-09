@@ -149,6 +149,7 @@ Books I've read
 - Nnedi Okorafor: Binti: Home
 - Lois McMaster Bujold: Labyrinth
 - Seanan McGuire: Down Among the Sticks and Bones
+- Pia Mellody: Facing Love Addiction
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
@@ -157,7 +158,6 @@ Books I've read
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
 - Naomi Alderman: The Power
-- Pia Mellody: Facing Love Addiction
 
 ## Future
 - Invisible Man, Got the Whole World Watching
