@@ -144,7 +144,7 @@ Books I've read
 - Lois McMaster Bujold: Ethan of Athos
 
 # November
-(6 this month, 79 YTD)
+(7 this month, 80 YTD)
 - Lindy West: Shrill
 - Nnedi Okorafor: Binti: Home
 - Lois McMaster Bujold: Labyrinth
