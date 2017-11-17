@@ -176,5 +176,9 @@ Books I've read
 - Octavia Butler: Parable of the Sower
 - Atul Gawande: Being Mortal
 - Laurie Penny: Bitch Doctrine
-
+- Kai Ashante Wilson: Sorcerer of the Wildeeps
+- Yoon ha Lee:  nine fox gambit
+- Ruthanna Everett: wintertide
+- Megan Walen turner: The thief
+- Martha wells: The murderbot diaries
 
