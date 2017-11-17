@@ -152,6 +152,7 @@ Books I've read
 - Pia Mellody: Facing Love Addiction
 - Hiromi Goto and N.K. Jemisin: Systems Fail
 - Lois McMaster Bujold: Borders of Infinity
+- Angus Deaton: The Great Escape
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
