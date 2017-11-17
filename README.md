@@ -151,6 +151,7 @@ Books I've read
 - Seanan McGuire: Down Among the Sticks and Bones
 - Pia Mellody: Facing Love Addiction
 - Hiromi Goto and N.K. Jemisin: Systems Fail
+- Lois McMaster Bujold: Borders of Infinity
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
