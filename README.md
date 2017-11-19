@@ -144,7 +144,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Ethan of Athos
 
 # November
-(8 this month, 81 YTD)
+(9 this month, 82 YTD)
 - Lindy West: Shrill
 - Nnedi Okorafor: Binti: Home
 - Lois McMaster Bujold: Labyrinth
