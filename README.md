@@ -153,6 +153,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Hiromi Goto and N.K. Jemisin: Systems Fail
 - Lois McMaster Bujold: Borders of Infinity
 - Angus Deaton: The Great Escape
+- Lois McMaster Bujold: Brothers in Arms
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
