@@ -154,6 +154,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Borders of Infinity
 - Angus Deaton: The Great Escape
 - Lois McMaster Bujold: Brothers in Arms
+- Naomi Alderman: The Power
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
@@ -161,7 +162,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charles Stross: Empire Games
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
-- Naomi Alderman: The Power
 
 ## Future
 - Invisible Man, Got the Whole World Watching
