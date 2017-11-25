@@ -157,13 +157,14 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Alderman: The Power
 
 ## Next
-- Matt Ruff: Sewer, Gas and Electric
-- Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
-- Luvvie Ajayi: I'm Judging You, The Do-better Manual
-- Martha Wells: All Systems Red
-- Sy Montgomery: The Soul of An Octopus
 - Ann Leckie: Provenance
+- Sy Montgomery: The Soul of An Octopus
+- Luvvie Ajayi: I'm Judging You, The Do-better Manual
+- Lois McMaster Bujold: Mirror Dance
 - Zeynep Tufekci: Twitter and Tear Gas
+- Martha Wells: All Systems Red
+- Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
+- Matt Ruff: Sewer, Gas and Electric
 
 ## Future
 - Invisible Man, Got the Whole World Watching
