@@ -158,10 +158,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Matt Ruff: Sewer, Gas and Electric
-- N. K. Jemisin: Shades in Shadow
-- Charles Stross: Empire Games
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
+- Martha Wells: All Systems Red
+- Sy Montgomery: The Soul of An Octopus
+- Ann Leckie: Provenance
+- Zeynep Tufekci: Twitter and Tear Gas
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -181,5 +183,5 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Yoon ha Lee:  nine fox gambit
 - Ruthanna Everett: wintertide
 - Megan Walen turner: The thief
-- Martha wells: The murderbot diaries
-
+- Charles Stross: Empire Games
+- N. K. Jemisin: Shades in Shadow
