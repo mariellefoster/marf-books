@@ -165,7 +165,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Future
 - Invisible Man, Got the Whole World Watching
-- Ann : The Sparrow
+- Mary Doria Russell: The Sparrow
 - Mothership: Tales From Afrofuturism and Beyond
 - How to Win Friends and Influence People
 - Greg Orman: Declaration of Independents
