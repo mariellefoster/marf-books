@@ -165,6 +165,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: All Systems Red
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Matt Ruff: Sewer, Gas and Electric
+- Stanley McCrystal: Team of Teams
+- Atul Gawande: Being Mortal
+- Octavia Butler: Parable of the Sower
+- Lin Manuel Miranda: Hamilton, the screenplay
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -172,13 +176,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mothership: Tales From Afrofuturism and Beyond
 - How to Win Friends and Influence People
 - Greg Orman: Declaration of Independents
-- Lin Manuel Miranda: Hamilton, the screenplay
 - Kameron Hurley: The Stars Are Legion
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
-- Know This- Scientific discoveries
-- Octavia Butler: Parable of the Sower
-- Atul Gawande: Being Mortal
 - Laurie Penny: Bitch Doctrine
 - Kai Ashante Wilson: Sorcerer of the Wildeeps
 - Yoon ha Lee:  nine fox gambit
