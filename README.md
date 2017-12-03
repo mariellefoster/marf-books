@@ -158,6 +158,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Provenance
 - Sy Montgomery: The Soul of An Octopus
 
+# December
+
 ## Next
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
 - Lois McMaster Bujold: Mirror Dance
