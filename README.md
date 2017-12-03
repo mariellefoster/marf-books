@@ -16,6 +16,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: Binti: Home
 - Nnedi Okorafor: Binti
 - N. K. Jemisin: The Stone Sky
+- Martha Wells: All Systems Red
 
 # 2016
 
