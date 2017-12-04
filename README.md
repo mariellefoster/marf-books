@@ -162,10 +162,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # December
 (1 this month, 86 YTD)
 - Martha Wells: All Systems Red
+- Lois McMaster Bujold: Mirror Dance
 
 ## Next
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
-- Lois McMaster Bujold: Mirror Dance
 - Zeynep Tufekci: Twitter and Tear Gas
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Matt Ruff: Sewer, Gas and Electric
