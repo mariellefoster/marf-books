@@ -160,7 +160,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sy Montgomery: The Soul of An Octopus
 
 # December
-(1 this month, 86 YTD)
+(2 this month, 87 YTD)
 - Martha Wells: All Systems Red
 - Lois McMaster Bujold: Mirror Dance
 
