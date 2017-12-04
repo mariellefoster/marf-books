@@ -165,14 +165,18 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Mirror Dance
 
 ## Next
-- Luvvie Ajayi: I'm Judging You, The Do-better Manual
 - Zeynep Tufekci: Twitter and Tear Gas
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
+- Lois McMaster Bujold: Memory
+- Lois McMaster Bujold: Komarr
+- Lois McMaster Bujold: A Civil Campaign	
+- Lois McMaster Bujold: Winterfair Gifts
 - Matt Ruff: Sewer, Gas and Electric
 - Stanley McCrystal: Team of Teams
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
+- Luvvie Ajayi: I'm Judging You, The Do-better Manual
 
 ## Future
 - Invisible Man, Got the Whole World Watching
