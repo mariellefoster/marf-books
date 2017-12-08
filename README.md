@@ -163,9 +163,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 87 YTD)
 - Martha Wells: All Systems Red
 - Lois McMaster Bujold: Mirror Dance
+- Zeynep Tufekci: Twitter and Tear Gas
 
 ## Next
-- Zeynep Tufekci: Twitter and Tear Gas
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Lois McMaster Bujold: Memory
 - Lois McMaster Bujold: Komarr
