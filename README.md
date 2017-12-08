@@ -172,6 +172,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Komarr
 - Lois McMaster Bujold: A Civil Campaign	
 - Lois McMaster Bujold: Winterfair Gifts
+- Karyl McBride: Will I Ever Be Good Enough?
 - Matt Ruff: Sewer, Gas and Electric
 - Stanley McCrystal: Team of Teams
 - Atul Gawande: Being Mortal
