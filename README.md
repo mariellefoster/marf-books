@@ -167,10 +167,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Zeynep Tufekci: Twitter and Tear Gas
 - Lois McMaster Bujold: Memory
 - Luvvie Ajayi: I'm Judging You, The Do-better Manual
+- Lois McMaster Bujold: Komarr
 
 ## Next
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
-- Lois McMaster Bujold: Komarr
 - Lois McMaster Bujold: A Civil Campaign	
 - Lois McMaster Bujold: Winterfair Gifts
 - Karyl McBride: Will I Ever Be Good Enough?
