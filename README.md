@@ -166,6 +166,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Mirror Dance
 - Zeynep Tufekci: Twitter and Tear Gas
 - Lois McMaster Bujold: Memory
+- Luvvie Ajayi: I'm Judging You, The Do-better Manual
 
 ## Next
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
@@ -178,7 +179,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Luvvie Ajayi: I'm Judging You, The Do-better Manual
 
 ## Future
 - Invisible Man, Got the Whole World Watching
