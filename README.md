@@ -197,3 +197,20 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Megan Walen turner: The thief
 - Charles Stross: Empire Games
 - N. K. Jemisin: Shades in Shadow
+- Angie Thomas: The Hate U Give
+- Victor Lavalle: The Ballad of Black Tom
+- Neil Gaiman: Coraline
+- Naomi Alderman: Disobedience
+- N. K. Jemisin: The Killing Moon 
+- N. K. Jemisin: The Shadowed Sun
+- Nisi Shawl: Everfair
+- Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
+- Liz Ziemska: Mandelbrot the Magnificent
+- Lois McMaster Bujold: Penric's Demon
+- Catherynne Valente: Six-gun Snow White
+- Lois McMaster Bujold: Diplomatic Immunity
+- Max Gladstone: Three Parts Dead
+- Cixin Liu: The Three-body Problem
+- Ryan North: The Unbeatable Squirrel Girl
+- Laszlo Bock: Work Rules!
+- 
