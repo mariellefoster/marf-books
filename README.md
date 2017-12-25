@@ -171,6 +171,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: A Civil Campaign
 - Lois McMaster Bujold: Winterfair Gifts
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
+- Nick Bantock: The Museum at Purgatory
 
 ## Next
 - Karyl McBride: Will I Ever Be Good Enough?
