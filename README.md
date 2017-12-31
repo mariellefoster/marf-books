@@ -173,9 +173,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jennifer Mather: Octopus: The Ocean's Intelligent Invertebrate
 - Nick Bantock: The Museum at Purgatory
 - Matt Ruff: Sewer, Gas and Electric
+- Karyl McBride: Will I Ever Be Good Enough?
 
 ## Next
-- Karyl McBride: Will I Ever Be Good Enough?
 - Stanley McCrystal: Team of Teams
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
