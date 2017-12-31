@@ -161,7 +161,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sy Montgomery: The Soul of An Octopus
 
 # December
-(12 this month, 97 YTD)
+(13 this month, 98 YTD)
 - Martha Wells: All Systems Red
 - Lois McMaster Bujold: Mirror Dance
 - Zeynep Tufekci: Twitter and Tear Gas
