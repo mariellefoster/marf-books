@@ -174,6 +174,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nick Bantock: The Museum at Purgatory
 - Matt Ruff: Sewer, Gas and Electric
 - Karyl McBride: Will I Ever Be Good Enough?
+- Jacqueline Frances: Striptastic
 
 ## Next
 - Stanley McCrystal: Team of Teams
