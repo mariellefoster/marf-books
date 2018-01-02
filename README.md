@@ -21,29 +21,29 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 # 2016
 
-## September
+## September '16
 - Vernor Vinge: A Fire Upon the Deep
 - Kameron Hurley: God's War
 - Brothers Obermey/ier: Panama Papers
 
-## October
+## October '16
 - Michelle Alexander: The New Jim Crow
 - Vernor Vinge: The Children of the Sky
 - Andy Weir: The Martian
 - Graeme Simieson: The Rosie Project
 
-## November
+## November '16
 - Robert Alter: Strong as Love is Death
 - Charles Stross: Rule 34
 
-## December
+## December '16
 - Ann Leckie: Ancillary Justice
 - Jane Mayer: Dark Money
 - Tom Standage: A History of the World in 6 Glasses
 
 # 2017
 
-## January
+## January '17
 (5 this month, 5 YTD)
 - Ted Chiang: The Lifecycle of Software Objects
 - Anders Ericsson and Robert Pool: Peak
@@ -51,14 +51,14 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Ancillary Sword
 - Ann Leckie: Ancillary Mercy
 
-## February
+## February '17
 (4 this month, 9 YTD)
 - Robert Alter: Genesis
 - Julia Cameron: The Artists's Way
 - Gwyneth Jones: Life
 - Yudhijit Bhattacharjee: The Spy Who Couldn't Spell
 
-## March
+## March '17
 (8 this month, 17 YTD)
 - History of White People
 - Patricia Wrede: Dealing with Dragons
@@ -70,7 +70,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Penny Laurie: Unspeakable Things
 
 
-## April
+## April '17
 (5 this month, 23 YTD)
 - Patrick Weekes: The Palace Job
 - War.exe
@@ -78,7 +78,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ted Chiang: Stories of your Life
 - Charlie Jane Anders: All The Birds In The Sky
 
-## May
+## May '17
 (8 this month, 31 YTD)
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Lois McMaster Bujold: Legacy
@@ -89,7 +89,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Patrick Weekes: The Paladin Caper
 - Matt Ruff: Set This House in Order
 
-## June
+## June '17
 (5 this month, 36 YTD)
 - Paolo Freire: Pedagogy of the Oppressed
 - Robert Sapolsky: Behave
@@ -97,7 +97,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: The DreamWeaver's Dilemma
 - Max Gladstone: Last First Snow
 
-## July
+## July '17
 (9 this month, 45 YTD)
 - Matt Ruff: The Mirage
 - N. K. Jemisin: A Hundred Thousand Kingdoms
@@ -109,7 +109,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Kritzer: Cat Pictures Please and Other Stories
 - N. K. Jemisin: The Broken Kingdoms
 
-## August
+## August '17
 (9 this month, 54 YTD)
 - N. K. Jemisin: The Kingdom of Gods
 - Jewelle Gomez: The Gilda Stories
@@ -120,7 +120,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Curse of Chalion
 - Lois McMaster Bujold: Paladin of Souls
 
-## September
+## September '17
 (9 this month, 63 YTD)
 - Lois McMaster Bujold: The Warrior's Apprentice
 - N. K. Jemisin: The Fifth Season
@@ -132,7 +132,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charles Stross: The Clan Corporate
 - Charles Stross: The Merchant's War
 
-## October
+## October '17
 (10 this month, 73 YTD)
 - Charles Stross: The Revolution Business
 - N. K. Jemisin: The Obelisk Gate
@@ -145,7 +145,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Cetaganda
 - Lois McMaster Bujold: Ethan of Athos
 
-## November
+## November '17
 (12 this month, 85 YTD)
 - Lindy West: Shrill
 - Nnedi Okorafor: Binti: Home
@@ -160,7 +160,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Provenance
 - Sy Montgomery: The Soul of An Octopus
 
-## December
+## December '17
 (12 this month, 97 YTD)
 - Martha Wells: All Systems Red
 - Lois McMaster Bujold: Mirror Dance
@@ -177,7 +177,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 # 2017
 
-## January
+## January '18
 
 ## Next
 - Stanley McCrystal: Team of Teams
