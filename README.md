@@ -132,7 +132,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charles Stross: The Clan Corporate
 - Charles Stross: The Merchant's War
 
-# October
+## October
 (10 this month, 73 YTD)
 - Charles Stross: The Revolution Business
 - N. K. Jemisin: The Obelisk Gate
@@ -145,7 +145,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Cetaganda
 - Lois McMaster Bujold: Ethan of Athos
 
-# November
+## November
 (12 this month, 85 YTD)
 - Lindy West: Shrill
 - Nnedi Okorafor: Binti: Home
@@ -160,7 +160,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Provenance
 - Sy Montgomery: The Soul of An Octopus
 
-# December
+## December
 (12 this month, 97 YTD)
 - Martha Wells: All Systems Red
 - Lois McMaster Bujold: Mirror Dance
@@ -174,6 +174,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nick Bantock: The Museum at Purgatory
 - Matt Ruff: Sewer, Gas and Electric
 - Jacqueline Frances: Striptastic
+
+# 2017
+
+## January
 
 ## Next
 - Stanley McCrystal: Team of Teams
