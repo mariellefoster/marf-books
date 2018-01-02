@@ -180,13 +180,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## January '18
 (1 this month, 1 YTD
 - Karyl McBride: Will I Ever Be Good Enough?
+- Naomi Novik: Uprooted
 
 ## Next
 - Stanley McCrystal: Team of Teams
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Naomi Novik: Uprooted
 
 ## Future
 - Invisible Man, Got the Whole World Watching
