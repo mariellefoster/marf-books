@@ -175,7 +175,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Matt Ruff: Sewer, Gas and Electric
 - Jacqueline Frances: Striptastic
 
-# 2017
+# 2018
 
 ## January '18
 (2 this month, 2 YTD
