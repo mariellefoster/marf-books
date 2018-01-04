@@ -220,4 +220,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Cixin Liu: The Three-body Problem
 - Ryan North: The Unbeatable Squirrel Girl
 - Laszlo Bock: Work Rules!
-- 
+- Kevin Kwan: Crazy Rich Asians
