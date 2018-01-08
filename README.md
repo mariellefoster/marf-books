@@ -181,6 +181,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 2 YTD
 - Karyl McBride: Will I Ever Be Good Enough?
 - Naomi Novik: Uprooted
+- Pia Mellody: Facing Codependence
 
 ## Next
 - Stanley McCrystal: Team of Teams
