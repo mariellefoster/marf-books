@@ -184,7 +184,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Pia Mellody: Facing Codependence
 
 ## Next
-- Stanley McCrystal: Team of Teams
+- Victor Lavalle: The Ballad of Black Tom
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
@@ -206,7 +206,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charles Stross: Empire Games
 - N. K. Jemisin: Shades in Shadow
 - Angie Thomas: The Hate U Give
-- Victor Lavalle: The Ballad of Black Tom
 - Neil Gaiman: Coraline
 - Naomi Alderman: Disobedience
 - N. K. Jemisin: The Killing Moon 
@@ -222,3 +221,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ryan North: The Unbeatable Squirrel Girl
 - Laszlo Bock: Work Rules!
 - Kevin Kwan: Crazy Rich Asians
+- Stanley McCrystal: Team of Teams
