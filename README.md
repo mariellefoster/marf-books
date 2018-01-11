@@ -182,10 +182,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Karyl McBride: Will I Ever Be Good Enough?
 - Naomi Novik: Uprooted
 - Pia Mellody: Facing Codependence
+- Ransom Riggs: Miss Peregrine's Home for Peculiar Children
 
 ## Next
 - Victor Lavalle: The Ballad of Black Tom
-- Ransom Riggs: Miss Peregrine's Home for Peculiar Children
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
