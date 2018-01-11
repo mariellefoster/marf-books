@@ -186,6 +186,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Victor Lavalle: The Ballad of Black Tom
+- Joelle Jones: Diplomatic Immunity
+- Lois McMaster Bujold: Diplomatic Immunity
+- Ryan North: The Unbeatable Squirrel Girl
+- Tamora Pierce: Tortall, A Spy's Guide
+- Elizabeth Gilbert: The Signature of All Things
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
@@ -216,10 +221,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Liz Ziemska: Mandelbrot the Magnificent
 - Lois McMaster Bujold: Penric's Demon
 - Catherynne Valente: Six-gun Snow White
-- Lois McMaster Bujold: Diplomatic Immunity
 - Max Gladstone: Three Parts Dead
 - Cixin Liu: The Three-body Problem
-- Ryan North: The Unbeatable Squirrel Girl
 - Laszlo Bock: Work Rules!
 - Kevin Kwan: Crazy Rich Asians
 - Stanley McCrystal: Team of Teams
