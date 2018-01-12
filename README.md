@@ -178,7 +178,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2018
 
 ## January '18
-(4 this month, 4 YTD
+(5 this month, 5 YTD
 - Karyl McBride: Will I Ever Be Good Enough?
 - Naomi Novik: Uprooted
 - Pia Mellody: Facing Codependence
