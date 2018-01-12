@@ -183,9 +183,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Novik: Uprooted
 - Pia Mellody: Facing Codependence
 - Ransom Riggs: Miss Peregrine's Home for Peculiar Children
+- Victor Lavalle: The Ballad of Black Tom
 
 ## Next
-- Victor Lavalle: The Ballad of Black Tom
 - Joelle Jones: Diplomatic Immunity
 - Lois McMaster Bujold: Diplomatic Immunity
 - Ryan North: The Unbeatable Squirrel Girl
