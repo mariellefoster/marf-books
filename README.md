@@ -186,11 +186,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Victor Lavalle: The Ballad of Black Tom
 - Ryan North: The Unbeatable Squirrel Girl
 - Joelle Jones: Lady Killer
+- Elizabeth Gilbert: The Signature of All Things
 
 ## Next
 - Lois McMaster Bujold: Diplomatic Immunity
 - Tamora Pierce: Tortall, A Spy's Guide
-- Elizabeth Gilbert: The Signature of All Things
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
