@@ -190,10 +190,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Lois McMaster Bujold: Diplomatic Immunity
+- Kai Ashante Wilson: Sorcerer of the Wildeeps
 - Tamora Pierce: Tortall, A Spy's Guide
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
+- Neil Gaiman: Coraline
+- Lois McMaster Bujold: Penric's Demon
+- Kameron Hurley: The Broken Heavens
+- N. K. Jemisin: The Killing Moon 
+- N. K. Jemisin: The Shadowed Sun
+
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -205,21 +212,16 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
 - Laurie Penny: Bitch Doctrine
-- Kai Ashante Wilson: Sorcerer of the Wildeeps
 - Yoon ha Lee:  nine fox gambit
 - Ruthanna Everett: wintertide
 - Megan Walen turner: The thief
 - Charles Stross: Empire Games
 - N. K. Jemisin: Shades in Shadow
 - Angie Thomas: The Hate U Give
-- Neil Gaiman: Coraline
 - Naomi Alderman: Disobedience
-- N. K. Jemisin: The Killing Moon 
-- N. K. Jemisin: The Shadowed Sun
 - Nisi Shawl: Everfair
 - Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
 - Liz Ziemska: Mandelbrot the Magnificent
-- Lois McMaster Bujold: Penric's Demon
 - Catherynne Valente: Six-gun Snow White
 - Max Gladstone: Three Parts Dead
 - Cixin Liu: The Three-body Problem
