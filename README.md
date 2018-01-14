@@ -184,11 +184,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Pia Mellody: Facing Codependence
 - Ransom Riggs: Miss Peregrine's Home for Peculiar Children
 - Victor Lavalle: The Ballad of Black Tom
+- Ryan North: The Unbeatable Squirrel Girl
 
 ## Next
 - Joelle Jones: Lady Killer
 - Lois McMaster Bujold: Diplomatic Immunity
-- Ryan North: The Unbeatable Squirrel Girl
 - Tamora Pierce: Tortall, A Spy's Guide
 - Elizabeth Gilbert: The Signature of All Things
 - Atul Gawande: Being Mortal
