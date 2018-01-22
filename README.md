@@ -201,7 +201,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N. K. Jemisin: The Killing Moon 
 - N. K. Jemisin: The Shadowed Sun
 
-
 ## Future
 - Invisible Man, Got the Whole World Watching
 - Mary Doria Russell: The Sparrow
