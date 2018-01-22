@@ -188,10 +188,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Joelle Jones: Lady Killer
 - Elizabeth Gilbert: The Signature of All Things
 - Tamora Pierce: Tortall, A Spy's Guide
+- Kai Ashante Wilson: Sorcerer of the Wildeeps
 
 ## Next
 - Lois McMaster Bujold: Diplomatic Immunity
-- Kai Ashante Wilson: Sorcerer of the Wildeeps
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
