@@ -178,7 +178,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2018
 
 ## January '18
-(8 this month, 8 YTD
+(9 this month, 9 YTD
 - Karyl McBride: Will I Ever Be Good Enough?
 - Naomi Novik: Uprooted
 - Pia Mellody: Facing Codependence
@@ -187,11 +187,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ryan North and Erica Henderson: The Unbeatable Squirrel Girl
 - Joelle Jones: Lady Killer
 - Elizabeth Gilbert: The Signature of All Things
+- Tamora Pierce: Tortall, A Spy's Guide
 
 ## Next
 - Lois McMaster Bujold: Diplomatic Immunity
 - Kai Ashante Wilson: Sorcerer of the Wildeeps
-- Tamora Pierce: Tortall, A Spy's Guide
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
