@@ -1,6 +1,17 @@
 # Book Playlists:
 This is like a case of homemade CDs a once upon a time generation would burn for their friends. I burned these books together for you.
 
+## Novellas
+- Nnedi Okorafor: Binti
+- Nnedi Okorafor: Binti: Home
+- Martha Wells: All Systems Red
+- Lois McMaster Bujold: The DreamWeaver's Dilemma
+- Octavia Butler: Bloodchild
+- Seannan McGuire: Every Heart A Doorway
+- Ransom Riggs: Miss Peregrine's Home for Peculiar Children
+- Victor Lavalle: The Ballad of Black Tom
+- Kai Ashante Wilson: Sorcerer of the Wildeeps
+
 ## Buoyant and Hilarious
 - Martha Wells: All Systems Red
   - Angsty android just wants to watch tv and not be asked about its feelings. We all know one.
