@@ -178,7 +178,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2018
 
 ## January '18
-(10 this month, 10 YTD
+(10 this month, 10 YTD)
 - Karyl McBride: Will I Ever Be Good Enough?
 - Naomi Novik: Uprooted
 - Pia Mellody: Facing Codependence
@@ -189,6 +189,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Gilbert: The Signature of All Things
 - Tamora Pierce: Tortall, A Spy's Guide
 - Kai Ashante Wilson: Sorcerer of the Wildeeps
+- Tom Siddell: Gunnerkrigg Court, first 15 chapters
 
 ## Next
 - Lois McMaster Bujold: Diplomatic Immunity
