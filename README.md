@@ -189,7 +189,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Gilbert: The Signature of All Things
 - Tamora Pierce: Tortall, A Spy's Guide
 - Kai Ashante Wilson: Sorcerer of the Wildeeps
-- Tom Siddell: Gunnerkrigg Court, first 15 chapters
+- Tom Siddell: Gunnerkrigg Court, Ch. 1-12
+- Tom Siddell: Gunnerkrigg Court, Ch. 13-24
 
 ## Next
 - Lois McMaster Bujold: Diplomatic Immunity
