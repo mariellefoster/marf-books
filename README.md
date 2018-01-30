@@ -191,9 +191,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kai Ashante Wilson: Sorcerer of the Wildeeps
 - Tom Siddell: Gunnerkrigg Court, Ch. 1-12
 - Tom Siddell: Gunnerkrigg Court, Ch. 13-24
+- Lois McMaster Bujold: Diplomatic Immunity
 
 ## Next
-- Lois McMaster Bujold: Diplomatic Immunity
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
