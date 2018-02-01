@@ -178,7 +178,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2018
 
 ## January '18
-(14 this month, 14 YTD)
+(15 this month, 15 YTD)
 - Karyl McBride: Will I Ever Be Good Enough?
 - Naomi Novik: Uprooted
 - Pia Mellody: Facing Codependence
@@ -196,6 +196,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tom Siddell: Gunnerkrigg Court, Reason Ch. 23-31
 
 ## February '18
+(1 this month, 16 YTD)
 - Tom Siddell: Gunnerkrigg Court, Materia Ch. 32-41
 
 ## Next
