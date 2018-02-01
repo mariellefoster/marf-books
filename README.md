@@ -192,6 +192,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tom Siddell: Gunnerkrigg Court, Ch. 1-12
 - Tom Siddell: Gunnerkrigg Court, Ch. 13-24
 - Lois McMaster Bujold: Diplomatic Immunity
+- Eve Ewing: Electric Arches
 
 ## Next
 - Atul Gawande: Being Mortal
