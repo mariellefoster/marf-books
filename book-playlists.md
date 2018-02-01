@@ -8,6 +8,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Lois McMaster Bujold: The DreamWeaver's Dilemma
 - Octavia Butler: Bloodchild
 - Seannan McGuire: Every Heart A Doorway
+- Seannan McGuire: Down Among The Sticks and Bones
 - Ransom Riggs: Miss Peregrine's Home for Peculiar Children
 - Victor Lavalle: The Ballad of Black Tom
 - Kai Ashante Wilson: Sorcerer of the Wildeeps
