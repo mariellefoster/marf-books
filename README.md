@@ -199,6 +199,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 17 YTD)
 - Tom Siddell: Gunnerkrigg Court, Materia Ch. 32-41
 - Tom Siddell: Gunnerkrigg Court, Refine Ch. 42-49
+- Nnedi Okorafor: Binti, The Night Masquerade
 
 ## Next
 - Atul Gawande: Being Mortal
