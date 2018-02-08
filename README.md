@@ -202,6 +202,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: Binti, The Night Masquerade
 - Samuel R. Delany: Tales of Nevèrÿon
 - Tom Siddell: Gunnerkrigg Court, Dissolve
+- Lois McMaster Bujold: Penric's Demon
 
 ## Next
 - Atul Gawande: Being Mortal
