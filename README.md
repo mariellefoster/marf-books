@@ -203,12 +203,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Samuel R. Delany: Tales of Nevèrÿon
 - Tom Siddell: Gunnerkrigg Court, Dissolve
 - Lois McMaster Bujold: Penric's Demon
+- Neil Gaiman: Coraline
 
 ## Next
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Neil Gaiman: Coraline
 - Lois McMaster Bujold: Penric's Demon
 - Kameron Hurley: The Broken Heavens
 - N. K. Jemisin: The Killing Moon 
