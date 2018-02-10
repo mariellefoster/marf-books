@@ -12,6 +12,8 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Ransom Riggs: Miss Peregrine's Home for Peculiar Children
 - Victor Lavalle: The Ballad of Black Tom
 - Kai Ashante Wilson: Sorcerer of the Wildeeps
+- Lois McMaster Bujold: Penric's Demon
+- Neil Gaiman: Coraline
 
 ## Buoyant and Hilarious
 - Martha Wells: All Systems Red
