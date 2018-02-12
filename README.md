@@ -204,6 +204,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tom Siddell: Gunnerkrigg Court, Dissolve
 - Lois McMaster Bujold: Penric's Demon
 - Neil Gaiman: Coraline
+- Ryan North and Erica Henderson: The Unbeatable Squirrel Girl Vol. 2: Squirrel You Know It's True
 
 ## Next
 - Atul Gawande: Being Mortal
