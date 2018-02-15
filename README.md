@@ -205,6 +205,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Demon
 - Neil Gaiman: Coraline
 - Ryan North and Erica Henderson: The Unbeatable Squirrel Girl Vol. 2: Squirrel You Know It's True
+- Tom King: Batman, I am Gotham
 
 ## Next
 - Atul Gawande: Being Mortal
