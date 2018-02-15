@@ -196,7 +196,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tom Siddell: Gunnerkrigg Court, Reason
 
 ## February '18
-(8 this month, 23 YTD)
+(11 this month, 26 YTD)
 - Tom Siddell: Gunnerkrigg Court, Materia
 - Tom Siddell: Gunnerkrigg Court, Refine
 - Nnedi Okorafor: Binti, The Night Masquerade
