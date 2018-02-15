@@ -207,12 +207,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ryan North and Erica Henderson: The Unbeatable Squirrel Girl Vol. 2: Squirrel You Know It's True
 - Tom King: Batman, I am Gotham
 - Lois McMaster Bujold: Penric and the Shaman
+- Ursula Le Guin: A Wizard of Earthsea
 
 ## Next
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
-
 - Kameron Hurley: The Broken Heavens
 - N. K. Jemisin: The Killing Moon 
 - N. K. Jemisin: The Shadowed Sun
