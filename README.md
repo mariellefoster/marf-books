@@ -210,8 +210,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ursula Le Guin: A Wizard of Earthsea
 - Lois McMaster Bujold: Captain Vorpatril's Alliance
 - Sarah Pinsker: And Then There Were (N-One)
+- Marie Kondo: The Life-Changing Magic of Tidying Up
 
 ## Next
+- Lois McMaster Bujold: Cryoburn
+- 
 - Atul Gawande: Being Mortal
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
