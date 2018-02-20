@@ -209,7 +209,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric and the Shaman
 - Ursula Le Guin: A Wizard of Earthsea
 - Lois McMaster Bujold: Captain Vorpatril's Alliance
-
+- Sarah Pinsker: And Then There Were (N-One)
 
 ## Next
 - Atul Gawande: Being Mortal
