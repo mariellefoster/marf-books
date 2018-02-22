@@ -211,6 +211,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Captain Vorpatril's Alliance
 - Sarah Pinsker: And Then There Were (N-One)
 - Marie Kondo: The Life-Changing Magic of Tidying Up
+- Vina Jie-Min Prasad: A Series of Steaks
 
 ## Next
 - Lois McMaster Bujold: Cryoburn
