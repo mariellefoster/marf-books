@@ -18,6 +18,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N. K. Jemisin: The Stone Sky
 - Martha Wells: All Systems Red
 - Lois McMaster Bujold: Mirror Dance
+- Catherynne Valente: The Refrigerator Monologues
 
 # 2016
 
@@ -212,10 +213,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Pinsker: And Then There Were (N-One)
 - Marie Kondo: The Life-Changing Magic of Tidying Up
 - Vina Jie-Min Prasad: A Series of Steaks
+- Catherynne Valente: The Refrigerator Monologues
 
 ## Next
 - Lois McMaster Bujold: Cryoburn
-- Catherynne Valente: The Refrigerator Monologues
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Tamora Pierce: Tempests and Slaughter
 - Ellen Klages: Passing Strange
