@@ -214,12 +214,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Marie Kondo: The Life-Changing Magic of Tidying Up
 - Vina Jie-Min Prasad: A Series of Steaks
 - Catherynne Valente: The Refrigerator Monologues
+- Ellen Klages: Passing Strange
 
 ## Next
 - Lois McMaster Bujold: Cryoburn
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Tamora Pierce: Tempests and Slaughter
-- Ellen Klages: Passing Strange
 - Atul Gawande: Being Mortal
 - Lois McMaster Bujold: Penric's Mission
 - Octavia Butler: Parable of the Sower
