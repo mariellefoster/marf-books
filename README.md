@@ -221,6 +221,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Lois McMaster Bujold: Cryoburn
+- Kevin Kwan: Crazy Rich Asians
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Tamora Pierce: Tempests and Slaughter
 - Atul Gawande: Being Mortal
@@ -255,5 +256,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Max Gladstone: Three Parts Dead
 - Cixin Liu: The Three-body Problem
 - Laszlo Bock: Work Rules!
-- Kevin Kwan: Crazy Rich Asians
 - Stanley McCrystal: Team of Teams
