@@ -223,6 +223,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 - Lois McMaster Bujold: Cryoburn
 - Kevin Kwan: Crazy Rich Asians
+- Jarrett Walker: Human Transit
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Atul Gawande: Being Mortal
 - Lois McMaster Bujold: Penric's Mission
