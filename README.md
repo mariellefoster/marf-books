@@ -226,6 +226,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jarrett Walker: Human Transit
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Atul Gawande: Being Mortal
+- Liz Ziemska: Mandelbrot the Magnificent
+- Catherynne Valente: Six-gun Snow White
 - Lois McMaster Bujold: Penric's Mission
 - Octavia Butler: Parable of the Sower
 - Lin Manuel Miranda: Hamilton, the screenplay
@@ -252,8 +254,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Alderman: Disobedience
 - Nisi Shawl: Everfair
 - Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
-- Liz Ziemska: Mandelbrot the Magnificent
-- Catherynne Valente: Six-gun Snow White
 - Max Gladstone: Three Parts Dead
 - Cixin Liu: The Three-body Problem
 - Laszlo Bock: Work Rules!
