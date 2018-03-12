@@ -220,12 +220,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ellen Klages: Passing Strange
 - Tamora Pierce: Tempests and Slaughter
 - Kevin Kwan: Crazy Rich Asians
+- Atul Gawande: Being Mortal
 
 ## Next
 - Lois McMaster Bujold: Cryoburn
 - Jarrett Walker: Human Transit
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
-- Atul Gawande: Being Mortal
 - Liz Ziemska: Mandelbrot the Magnificent
 - Catherynne Valente: Six-gun Snow White
 
