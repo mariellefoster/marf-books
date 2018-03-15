@@ -16,6 +16,8 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Neil Gaiman: Coraline
 - Lois McMaster Bujold: Penric and the Shaman
 - Sarah Pinsker: And Then There Were (N-One)
+- Vina Jie-Min Prasad: A Series of Steaks
+- Ellen Klages: Passing Strange
 
 ## Buoyant and Hilarious
 - Martha Wells: All Systems Red
@@ -59,6 +61,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Naomi Alderman: The Power
   - This book made me think carefully about my perception and experience of gender. Violent, apocalyptic, it gets the tension and overthrow of a global overclass bang on.
 - Nick Bantock: The Museum at Purgatory
+- Catherynne Valente: The Refrigerator Monologues
 
 ## Galactic Coloratura
 - Ann Leckie: Ancillary Justice
