@@ -14,6 +14,8 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Kai Ashante Wilson: Sorcerer of the Wildeeps
 - Lois McMaster Bujold: Penric's Demon
 - Neil Gaiman: Coraline
+- Lois McMaster Bujold: Penric and the Shaman
+- Sarah Pinsker: And Then There Were (N-One)
 
 ## Buoyant and Hilarious
 - Martha Wells: All Systems Red
