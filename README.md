@@ -229,6 +229,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Liz Ziemska: Mandelbrot the Magnificent
 - Catherynne Valente: Six-gun Snow White
 - Kevin Kwan: China Rich Girlfriend
+- K Arsenault Rivera: The Tiger's Daughter
 
 ## Future
 - Invisible Man, Got the Whole World Watching
