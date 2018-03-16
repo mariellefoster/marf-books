@@ -265,3 +265,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Mission
 - Lois McMaster Bujold: Mira's Last Dance
 - Lois McMaster Bujold: Penric's Fox
+- Annalee Newitz: Autonomous
+- Elizabeth Gilbert: Committed
+- Yasunari Kawabata: Dandelions
+- Patrick Weekes: Feeder
+
