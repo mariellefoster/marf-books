@@ -260,4 +260,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kameron Hurley: The Broken Heavens
 - N. K. Jemisin: The Killing Moon 
 - N. K. Jemisin: The Shadowed Sun
-
+- Del Samatar: Monster Portraits
+- Seanan MacGuire: Beneath the Sugar Sky
+- Lois McMaster Bujold: Penric's Mission
+- Lois McMaster Bujold: Mira's Last Dance
+- Lois McMaster Bujold: Penric's Fox
