@@ -225,11 +225,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherynne Valente: Six-gun Snow White
 - Liz Ziemska: Mandelbrot the Magnificent
 - Kevin Kwan: China Rich Girlfriend
+- Lois McMaster Bujold: Gentleman Jole and the Red Queen
 
 ## Next
 - Jarrett Walker: Human Transit
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
-- Lois McMaster Bujold: Gentleman Jole and the Red Queen
 - K Arsenault Rivera: The Tiger's Daughter
 
 ## Future
