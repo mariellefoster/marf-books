@@ -19,6 +19,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: All Systems Red
 - Lois McMaster Bujold: Mirror Dance
 - Catherynne Valente: The Refrigerator Monologues
+- Lois McMaster Bujold: Gentleman Jole and the Red Queen
 
 # 2016
 
