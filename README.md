@@ -230,6 +230,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 - Jarrett Walker: Human Transit
 - K Arsenault Rivera: The Tiger's Daughter
+- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy, pt 3
 
 ## Future
 - Invisible Man, Got the Whole World Watching
