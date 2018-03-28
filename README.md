@@ -231,6 +231,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 - K Arsenault Rivera: The Tiger's Daughter
 - Kevin Kwan: Rich People Problems
+- Lin Manuel Miranda: Hamilton, the screenplay
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -257,7 +258,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Stanley McCrystal: Team of Teams
 - Lois McMaster Bujold: Penric's Mission
 - Octavia Butler: Parable of the Sower
-- Lin Manuel Miranda: Hamilton, the screenplay
 - Kameron Hurley: The Broken Heavens
 - N. K. Jemisin: The Killing Moon 
 - N. K. Jemisin: The Shadowed Sun
