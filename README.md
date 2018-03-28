@@ -19,7 +19,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: All Systems Red
 - Lois McMaster Bujold: Mirror Dance
 - Catherynne Valente: The Refrigerator Monologues
-- Lois McMaster Bujold: Gentleman Jole and the Red Queen
 
 # 2016
 
@@ -227,11 +226,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Liz Ziemska: Mandelbrot the Magnificent
 - Kevin Kwan: China Rich Girlfriend
 - Lois McMaster Bujold: Gentleman Jole and the Red Queen
+- Jarrett Walker: Human Transit
 
 ## Next
-- Jarrett Walker: Human Transit
 - K Arsenault Rivera: The Tiger's Daughter
-- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy, pt 3
 
 ## Future
 - Invisible Man, Got the Whole World Watching
