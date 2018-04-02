@@ -228,6 +228,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Gentleman Jole and the Red Queen
 - Jarrett Walker: Human Transit
 
+## April '18
+
 ## Next
 - K Arsenault Rivera: The Tiger's Daughter
 - Kevin Kwan: Rich People Problems
