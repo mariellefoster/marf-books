@@ -235,6 +235,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 - Kevin Kwan: Rich People Problems
 - Lin Manuel Miranda: Hamilton, the screenplay
+- Yasunari Kawabata: Dandelions
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -271,7 +272,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Fox
 - Annalee Newitz: Autonomous
 - Elizabeth Gilbert: Committed
-- Yasunari Kawabata: Dandelions
 - Patrick Weekes: Feeder
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - K Arsenault Rivera: The Tiger's Daughter
