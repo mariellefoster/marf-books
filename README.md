@@ -216,7 +216,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherynne Valente: The Refrigerator Monologues
 
 ## March '18
-(10 this month, 41 YTD)
+(9 this month, 40 YTD)
 - Ellen Klages: Passing Strange
 - Tamora Pierce: Tempests and Slaughter
 - Kevin Kwan: Crazy Rich Asians
@@ -226,9 +226,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Liz Ziemska: Mandelbrot the Magnificent
 - Kevin Kwan: China Rich Girlfriend
 - Lois McMaster Bujold: Gentleman Jole and the Red Queen
-- Jarrett Walker: Human Transit
+
 
 ## April '18
+(1 this month, 41 YTD)
+- Jarrett Walker: Human Transit
 
 ## Next
 - K Arsenault Rivera: The Tiger's Daughter
