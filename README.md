@@ -233,7 +233,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jarrett Walker: Human Transit
 
 ## Next
-- K Arsenault Rivera: The Tiger's Daughter
 - Kevin Kwan: Rich People Problems
 - Lin Manuel Miranda: Hamilton, the screenplay
 
@@ -275,3 +274,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Yasunari Kawabata: Dandelions
 - Patrick Weekes: Feeder
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
+- K Arsenault Rivera: The Tiger's Daughter
