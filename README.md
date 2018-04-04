@@ -237,6 +237,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Yasunari Kawabata: Dandelions
 - Ada Palmer: Too Like The Lightning
+- N. K. Jemisin: The Killing Moon 
+- N. K. Jemisin: The Shadowed Sun
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -264,8 +266,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Mission
 - Octavia Butler: Parable of the Sower
 - Kameron Hurley: The Broken Heavens
-- N. K. Jemisin: The Killing Moon 
-- N. K. Jemisin: The Shadowed Sun
 - Del Samatar: Monster Portraits
 - Seanan MacGuire: Beneath the Sugar Sky
 - Lois McMaster Bujold: Penric's Mission
