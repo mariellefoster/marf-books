@@ -236,6 +236,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Yasunari Kawabata: Dandelions
+- Ada Palmer: Too Like The Lightning
 
 ## Future
 - Invisible Man, Got the Whole World Watching
