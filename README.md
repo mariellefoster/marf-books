@@ -226,7 +226,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Liz Ziemska: Mandelbrot the Magnificent
 - Kevin Kwan: China Rich Girlfriend
 - Lois McMaster Bujold: Gentleman Jole and the Red Queen
-
+- Julia Cameron: The Artists's Way
 
 ## April '18
 (2 this month, 42 YTD)
