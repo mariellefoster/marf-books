@@ -239,6 +239,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ada Palmer: Too Like The Lightning
 - N. K. Jemisin: The Killing Moon 
 - N. K. Jemisin: The Shadowed Sun
+- Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -258,7 +259,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Angie Thomas: The Hate U Give
 - Naomi Alderman: Disobedience
 - Nisi Shawl: Everfair
-- Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
 - Max Gladstone: Three Parts Dead
 - Cixin Liu: The Three-body Problem
 - Laszlo Bock: Work Rules!
