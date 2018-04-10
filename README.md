@@ -237,9 +237,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Yasunari Kawabata: Dandelions
+- Angie Thomas: The Hate U Give
+- Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
 - N. K. Jemisin: The Killing Moon 
 - N. K. Jemisin: The Shadowed Sun
-- Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -256,7 +257,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Megan Walen turner: The thief
 - Charles Stross: Empire Games
 - N. K. Jemisin: Shades in Shadow
-- Angie Thomas: The Hate U Give
 - Naomi Alderman: Disobedience
 - Nisi Shawl: Everfair
 - Max Gladstone: Three Parts Dead
