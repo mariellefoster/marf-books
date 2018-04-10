@@ -232,11 +232,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 43 YTD)
 - Jarrett Walker: Human Transit
 - Kevin Kwan: Rich People Problems
+- Ada Palmer: TOO like the lightning
 
 ## Next
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Yasunari Kawabata: Dandelions
-- Ada Palmer: Too Like The Lightning
+-
 - N. K. Jemisin: The Killing Moon 
 - N. K. Jemisin: The Shadowed Sun
 - Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
