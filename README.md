@@ -239,6 +239,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Yasunari Kawabata: Dandelions
 - Angie Thomas: The Hate U Give
 - Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
+- Megan Walen turner: The thief
 - N. K. Jemisin: The Killing Moon 
 - N. K. Jemisin: The Shadowed Sun
 
@@ -254,7 +255,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Laurie Penny: Bitch Doctrine
 - Yoon ha Lee:  nine fox gambit
 - Ruthanna Everett: wintertide
-- Megan Walen turner: The thief
 - Charles Stross: Empire Games
 - N. K. Jemisin: Shades in Shadow
 - Naomi Alderman: Disobedience
