@@ -1,6 +1,10 @@
 # Book Playlists:
 This is like a case of homemade CDs a once upon a time generation would burn for their friends. I burned these books together for you.
 
+## Pride and Prejudice...
+- in space (Vorkosigan Saga)
+- amongst the modern Singaporan billionaire set (Crazy Rich Asians Trilogy)
+
 ## Novellas
 - Nnedi Okorafor: Binti
 - Nnedi Okorafor: Binti: Home
