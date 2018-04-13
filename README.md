@@ -240,6 +240,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Angie Thomas: The Hate U Give
 - Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
 - Megan Walen turner: The thief
+- Nancy Kress: Yesterday's Kin
+- José-Louis Bocquet: Josephine Baker
+- Melissa Gira Grant: Playing the Whore
 - N. K. Jemisin: The Killing Moon 
 - N. K. Jemisin: The Shadowed Sun
 
