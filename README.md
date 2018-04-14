@@ -243,7 +243,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
 - Melissa Gira Grant: Playing the Whore
-- N. K. Jemisin: The Killing Moon 
+- N. K. Jemisin: The Killing Moon
+- JY Yang: The Red Threads of Fortune
+- Marjorie Liu: Monstress
+- Ken Liu: The Paper Menagerie and Other Stories
 - N. K. Jemisin: The Shadowed Sun
 
 ## Future
