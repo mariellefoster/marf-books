@@ -234,10 +234,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kevin Kwan: Rich People Problems
 - Ada Palmer: Too like the lightning
 - Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
+- Yasunari Kawabata: Dandelions
 
 ## Next
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Yasunari Kawabata: Dandelions
 - Angie Thomas: The Hate U Give
 - Megan Walen turner: The thief
 - Nancy Kress: Yesterday's Kin
