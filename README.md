@@ -235,10 +235,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ada Palmer: Too like the lightning
 - Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
 - Yasunari Kawabata: Dandelions
+- Angie Thomas: The Hate U Give
 
 ## Next
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Angie Thomas: The Hate U Give
 - Megan Walen turner: The thief
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
