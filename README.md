@@ -236,10 +236,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Noelle Stevenson: Lumberjanes 1, Beware the Kitten Holy
 - Yasunari Kawabata: Dandelions
 - Angie Thomas: The Hate U Give
+- Megan Walen Turner: The Thief
 
 ## Next
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Megan Walen turner: The thief
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
 - Melissa Gira Grant: Playing the Whore
