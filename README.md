@@ -19,6 +19,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: All Systems Red
 - Lois McMaster Bujold: Mirror Dance
 - Catherynne Valente: The Refrigerator Monologues
+- Angie Thomas: The Hate U Give
 
 # 2016
 
