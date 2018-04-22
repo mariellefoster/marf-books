@@ -240,13 +240,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Megan Walen Turner: The Thief
 - Noelle Stevenson: Lumberjanes 2
 - Marshall Rosenberg: Non-Violent Communication
+- Marjorie Liu: Monstress
 
 ## Next
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
 - Melissa Gira Grant: Playing the Whore
 - JY Yang: The Red Threads of Fortune
-- Marjorie Liu: Monstress
 - Ken Liu: The Paper Menagerie and Other Stories
 - Megan Walen Turner: The Queen of Attolia
 - N. K. Jemisin: The Killing Moon
