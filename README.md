@@ -242,16 +242,16 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Marshall Rosenberg: Non-Violent Communication
 
 ## Next
-- Lin Manuel Miranda: Hamilton, the screenplay
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
 - Melissa Gira Grant: Playing the Whore
-- N. K. Jemisin: The Killing Moon
 - JY Yang: The Red Threads of Fortune
 - Marjorie Liu: Monstress
 - Ken Liu: The Paper Menagerie and Other Stories
-- N. K. Jemisin: The Shadowed Sun
 - Megan Walen Turner: The Queen of Attolia
+- N. K. Jemisin: The Killing Moon
+- N. K. Jemisin: The Shadowed Sun
+- Lin Manuel Miranda: Hamilton, the screenplay
 
 ## Future
 - Invisible Man, Got the Whole World Watching
