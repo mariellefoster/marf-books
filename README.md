@@ -239,6 +239,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Angie Thomas: The Hate U Give
 - Megan Walen Turner: The Thief
 - Noelle Stevenson: Lumberjanes 2
+- Marshall Rosenberg: Non-Violent Communication
 
 ## Next
 - Lin Manuel Miranda: Hamilton, the screenplay
@@ -250,7 +251,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Marjorie Liu: Monstress
 - Ken Liu: The Paper Menagerie and Other Stories
 - N. K. Jemisin: The Shadowed Sun
-- Marshall Rosenberg: Non-Violent Communication
 - Megan Walen Turner: The Queen of Attolia
 
 ## Future
