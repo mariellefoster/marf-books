@@ -242,6 +242,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Marshall Rosenberg: Non-Violent Communication
 - Marjorie Liu: Monstress
 - JY Yang: The Red Threads of Fortune
+- Joelle Jones: Lady Killer 2
 
 ## Next
 - Nancy Kress: Yesterday's Kin
