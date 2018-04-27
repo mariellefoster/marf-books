@@ -255,6 +255,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N. K. Jemisin: The Killing Moon
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
+- Lois McMaster Bujold: Penric's Mission
+- Patrick Weekes: Feeder
+- Elizabeth Gilbert: Committed
+- Marjorie Liu: Monstress 2
+- Tamora Pierce: The First Test
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -276,16 +281,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Cixin Liu: The Three-body Problem
 - Laszlo Bock: Work Rules!
 - Stanley McCrystal: Team of Teams
-- Lois McMaster Bujold: Penric's Mission
 - Octavia Butler: Parable of the Sower
 - Kameron Hurley: The Broken Heavens
 - Del Samatar: Monster Portraits
 - Seanan MacGuire: Beneath the Sugar Sky
-- Lois McMaster Bujold: Penric's Mission
 - Lois McMaster Bujold: Mira's Last Dance
 - Lois McMaster Bujold: Penric's Fox
 - Annalee Newitz: Autonomous
-- Elizabeth Gilbert: Committed
-- Patrick Weekes: Feeder
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - K Arsenault Rivera: The Tiger's Daughter
