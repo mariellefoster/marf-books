@@ -242,9 +242,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Noelle Stevenson: Lumberjanes 2
 - Marshall Rosenberg: Non-Violent Communication
 - Marjorie Liu: Monstress
-- JY Yang: The Red Threads of Fortune
 - Joelle Jones: Lady Killer 2
 - Noelle Stevenson: Lumberjanes 3
+- Marjorie Liu: Monstress 2
 
 ## Next
 - Nancy Kress: Yesterday's Kin
@@ -258,8 +258,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Mission
 - Patrick Weekes: Feeder
 - Elizabeth Gilbert: Committed
-- Marjorie Liu: Monstress 2
 - Tamora Pierce: The First Test
+- JY Yang: The Red Threads of Fortune
 
 ## Future
 - Invisible Man, Got the Whole World Watching
