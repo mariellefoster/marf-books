@@ -245,6 +245,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Joelle Jones: Lady Killer 2
 - Noelle Stevenson: Lumberjanes 3
 - Marjorie Liu: Monstress 2
+- Lois McMaster Bujold: Penric's Mission
 
 ## Next
 - Nancy Kress: Yesterday's Kin
@@ -255,7 +256,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N. K. Jemisin: The Killing Moon
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Lois McMaster Bujold: Penric's Mission
 - Patrick Weekes: Feeder
 - Elizabeth Gilbert: Committed
 - Tamora Pierce: The First Test
