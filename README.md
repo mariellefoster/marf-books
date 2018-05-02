@@ -248,6 +248,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Mission
 
 ## May '18
+(1 this month, 56 YTD)
 - N. K. Jemisin: The Killing Moon
 
 ## Next
