@@ -247,6 +247,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Marjorie Liu: Monstress 2
 - Lois McMaster Bujold: Penric's Mission
 
+## May '18
+
 ## Next
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
