@@ -263,6 +263,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Gilbert: Committed
 - Tamora Pierce: The First Test
 - JY Yang: The Red Threads of Fortune
+- Angela Nagle: Kill All Normies
+- Noelle Stevenson: Lumberjanes 4
+- K Arsenault Rivera: The Tiger's Daughter
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -292,4 +295,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Fox
 - Annalee Newitz: Autonomous
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
-- K Arsenault Rivera: The Tiger's Daughter
+
