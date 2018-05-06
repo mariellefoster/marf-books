@@ -251,6 +251,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 57 YTD)
 - N. K. Jemisin: The Killing Moon
 - Martha Wells: All Systems Red
+- Martha Wells: Artificial Condition
 
 ## Next
 - Nancy Kress: Yesterday's Kin
