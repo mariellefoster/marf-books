@@ -252,6 +252,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N. K. Jemisin: The Killing Moon
 - Martha Wells: All Systems Red
 - Martha Wells: Artificial Condition
+- The Best of McSweeney's Internet Tendency
 
 ## Next
 - Nancy Kress: Yesterday's Kin
