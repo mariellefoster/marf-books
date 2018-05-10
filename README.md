@@ -255,12 +255,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Best of McSweeney's Internet Tendency
 - Melissa Gira Grant: Playing the Whore
 - Patrick Weekes: Feeder
+- Megan Walen Turner: The Queen of Attolia
 
 ## Next
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
 - Ken Liu: The Paper Menagerie and Other Stories
-- Megan Walen Turner: The Queen of Attolia
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Elizabeth Gilbert: Committed
