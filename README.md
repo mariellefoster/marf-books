@@ -257,6 +257,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Melissa Gira Grant: Playing the Whore
 - Patrick Weekes: Feeder
 - Megan Walen Turner: The Queen of Attolia
+- Tamora Pierce: The First Test
 
 ## Next
 - Nancy Kress: Yesterday's Kin
@@ -265,7 +266,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Elizabeth Gilbert: Committed
-- Tamora Pierce: The First Test
+
 - JY Yang: The Red Threads of Fortune
 - Angela Nagle: Kill All Normies
 - Noelle Stevenson: Lumberjanes 4
