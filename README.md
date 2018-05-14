@@ -270,6 +270,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - JY Yang: The Red Threads of Fortune
 - Angela Nagle: Kill All Normies
 - Noelle Stevenson: Lumberjanes 4
+- Seanan MacGuire: Beneath the Sugar Sky
+- Tamora Pierce: Page
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -294,7 +296,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Octavia Butler: Parable of the Sower
 - Kameron Hurley: The Broken Heavens
 - Del Samatar: Monster Portraits
-- Seanan MacGuire: Beneath the Sugar Sky
 - Lois McMaster Bujold: Mira's Last Dance
 - Lois McMaster Bujold: Penric's Fox
 - Annalee Newitz: Autonomous
