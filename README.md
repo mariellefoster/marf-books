@@ -272,6 +272,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Noelle Stevenson: Lumberjanes 4
 - Seanan MacGuire: Beneath the Sugar Sky
 - Tamora Pierce: Page
+- JY Yang: The Black Tides of Heaven
+- Madeline Miller: Circe
+- Fonda Lee: Jade City
 
 ## Future
 - Invisible Man, Got the Whole World Watching
