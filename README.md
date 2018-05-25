@@ -261,6 +261,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - K Arsenault Rivera: The Tiger's Daughter
 - JY Yang: The Red Threads of Fortune
 - Tamora Pierce: Page
+- Madeline Miller: Circe
 
 ## Next
 - Nancy Kress: Yesterday's Kin
@@ -273,7 +274,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Noelle Stevenson: Lumberjanes 4
 - Seanan MacGuire: Beneath the Sugar Sky
 - JY Yang: The Black Tides of Heaven
-- Madeline Miller: Circe
 - Fonda Lee: Jade City
 
 ## Future
