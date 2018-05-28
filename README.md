@@ -262,6 +262,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - JY Yang: The Red Threads of Fortune
 - Tamora Pierce: Page
 - Madeline Miller: Circe
+- Megan Walen Turner: The King of Attolia
 
 ## Next
 - Nancy Kress: Yesterday's Kin
