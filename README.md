@@ -249,7 +249,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Mission
 
 ## May '18
-(12 this month, 67 YTD)
+(13 this month, 68 YTD)
 - N. K. Jemisin: The Killing Moon
 - Martha Wells: All Systems Red
 - Martha Wells: Artificial Condition
