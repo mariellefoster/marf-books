@@ -271,11 +271,16 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ken Liu: The Paper Menagerie and Other Stories
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Angela Nagle: Kill All Normies
 - Noelle Stevenson: Lumberjanes 4
 - Seanan MacGuire: Beneath the Sugar Sky
 - JY Yang: The Black Tides of Heaven
 - Fonda Lee: Jade City
+- Tamora Pierce: Squire
+- Fonda Lee: Jade City
+- Megan Walen Turner: A Conspiracy of Kings
+- Zeynep Ton: The Good Jobs Strategy
+- Lois McMaster Bujold: Penric's Fox
+- Lois McMaster Bujold: The Flowers of Vashnoi
 
 ## Future
 - Invisible Man, Got the Whole World Watching
@@ -304,4 +309,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Fox
 - Annalee Newitz: Autonomous
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
-
+- Angela Nagle: Kill All Normies
