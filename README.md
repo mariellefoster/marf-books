@@ -306,7 +306,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kameron Hurley: The Broken Heavens
 - Del Samatar: Monster Portraits
 - Lois McMaster Bujold: Mira's Last Dance
-- Lois McMaster Bujold: Penric's Fox
 - Annalee Newitz: Autonomous
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Angela Nagle: Kill All Normies
