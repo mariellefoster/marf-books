@@ -263,6 +263,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamora Pierce: Page
 - Madeline Miller: Circe
 - Megan Walen Turner: The King of Attolia
+- Elizabeth Gilbert: Committed
 
 ## Next
 - Nancy Kress: Yesterday's Kin
@@ -270,7 +271,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ken Liu: The Paper Menagerie and Other Stories
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Elizabeth Gilbert: Committed
 - Angela Nagle: Kill All Normies
 - Noelle Stevenson: Lumberjanes 4
 - Seanan MacGuire: Beneath the Sugar Sky
