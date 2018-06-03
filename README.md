@@ -269,6 +269,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 71 YTD)
 - Tamora Pierce: Squire
 - Noelle Stevenson: Lumberjanes 4
+- Seanan MacGuire: Beneath the Sugar Sky
 
 ## Next
 - Nancy Kress: Yesterday's Kin
@@ -276,7 +277,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ken Liu: The Paper Menagerie and Other Stories
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Seanan MacGuire: Beneath the Sugar Sky
 - JY Yang: The Black Tides of Heaven
 - Fonda Lee: Jade City
 - Megan Walen Turner: A Conspiracy of Kings
