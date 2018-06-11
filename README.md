@@ -284,6 +284,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Zeynep Ton: The Good Jobs Strategy
 - Lois McMaster Bujold: Penric's Fox
 - Lois McMaster Bujold: The Flowers of Vashnoi
+- Tamora Pierce: Lady Knight
 
 ## Future
 - Invisible Man, Got the Whole World Watching
