@@ -271,6 +271,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Noelle Stevenson: Lumberjanes 4
 - Seanan MacGuire: Beneath the Sugar Sky
 - JY Yang: The Black Tides of Heaven
+- Maggie Shen King: An Excess Male
 
 ## Next
 - Nancy Kress: Yesterday's Kin
