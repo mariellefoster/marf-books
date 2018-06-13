@@ -278,17 +278,16 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Megan Walen Turner: A Conspiracy of Kings
 - Zeynep Ton: The Good Jobs Strategy
 - Nancy Kress: Yesterday's Kin
-- José-Louis Bocquet: Josephine Baker
-- Ken Liu: The Paper Menagerie and Other Stories
-- N. K. Jemisin: The Shadowed Sun
-- Lin Manuel Miranda: Hamilton, the screenplay
-- Fonda Lee: Jade City
-- Lois McMaster Bujold: Penric's Fox
-- Lois McMaster Bujold: The Flowers of Vashnoi
 - Tamora Pierce: Lady Knight
 - The Prince and the Dressmaker
+- José-Louis Bocquet: Josephine Baker
+- N. K. Jemisin: The Shadowed Sun
+- Lin Manuel Miranda: Hamilton, the screenplay
+- Lois McMaster Bujold: Penric's Fox
+- Lois McMaster Bujold: The Flowers of Vashnoi
 
 ## Future
+- Ken Liu: The Paper Menagerie and Other Stories
 - Invisible Man, Got the Whole World Watching
 - Mary Doria Russell: The Sparrow
 - Mothership: Tales From Afrofuturism and Beyond
@@ -315,3 +314,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Annalee Newitz: Autonomous
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Angela Nagle: Kill All Normies
+- Fonda Lee: Jade City
