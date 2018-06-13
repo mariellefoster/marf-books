@@ -266,7 +266,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Gilbert: Committed
 
 ## June '18
-(5 this month, 74 YTD)
+(6 this month, 75 YTD)
 - Tamora Pierce: Squire
 - Noelle Stevenson: Lumberjanes 4
 - Seanan MacGuire: Beneath the Sugar Sky
