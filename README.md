@@ -274,12 +274,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Maggie Shen King: An Excess Male
 - Tom Taylor: All-new Wolverine 1
 - Tamora Pierce: Lady Knight
+- Jen Wang: The Prince and the Dressmaker
 
 ## Next
 - Megan Walen Turner: A Conspiracy of Kings
 - Zeynep Ton: The Good Jobs Strategy
 - Nancy Kress: Yesterday's Kin
-- The Prince and the Dressmaker
 - José-Louis Bocquet: Josephine Baker
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
