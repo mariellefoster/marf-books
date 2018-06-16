@@ -275,9 +275,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tom Taylor: All-new Wolverine 1
 - Tamora Pierce: Lady Knight
 - Jen Wang: The Prince and the Dressmaker
+- Megan Walen Turner: A Conspiracy of Kings
 
 ## Next
-- Megan Walen Turner: A Conspiracy of Kings
 - Zeynep Ton: The Good Jobs Strategy
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
