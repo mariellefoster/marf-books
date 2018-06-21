@@ -286,6 +286,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Lois McMaster Bujold: Penric's Fox
 - Lois McMaster Bujold: The Flowers of Vashnoi
+- Megan Walen Turner: Thick as Thieves
 
 ## Future
 - Ken Liu: The Paper Menagerie and Other Stories
