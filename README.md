@@ -288,6 +288,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: The Flowers of Vashnoi
 - Megan Walen Turner: Thick as Thieves
 - Roxane Gay: Not That Bad
+- Persopolis
 
 ## Future
 - Ken Liu: The Paper Menagerie and Other Stories
