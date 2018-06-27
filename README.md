@@ -278,6 +278,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Megan Walen Turner: A Conspiracy of Kings
 - Zeynep Ton: The Good Jobs Strategy
 - Lois McMaster Bujold: The Flowers of Vashnoi
+- Kelly Thompson: Hawkeye #1
 - Lois McMaster Bujold: Penric's Fox
 
 ## Next
