@@ -278,12 +278,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Megan Walen Turner: A Conspiracy of Kings
 - Zeynep Ton: The Good Jobs Strategy
 - Lois McMaster Bujold: The Flowers of Vashnoi
+- Lois McMaster Bujold: Penric's Fox
 
 ## Next
 - Marjane Satrapi: Persopolis
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
-- Lois McMaster Bujold: Penric's Fox
 - Megan Walen Turner: Thick as Thieves
 - Roxane Gay: Not That Bad
 - Persopolis
