@@ -277,6 +277,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jen Wang: The Prince and the Dressmaker
 - Megan Walen Turner: A Conspiracy of Kings
 - Zeynep Ton: The Good Jobs Strategy
+- Lois McMaster Bujold: The Flowers of Vashnoi
 
 ## Next
 - Marjane Satrapi: Persopolis
@@ -285,7 +286,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Lois McMaster Bujold: Penric's Fox
-- Lois McMaster Bujold: The Flowers of Vashnoi
 - Megan Walen Turner: Thick as Thieves
 - Roxane Gay: Not That Bad
 - Persopolis
