@@ -281,8 +281,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Marjane Satrapi: Persopolis
-- Nancy Kress: Yesterday's Kin
-- José-Louis Bocquet: Josephine Baker
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Lois McMaster Bujold: Penric's Fox
@@ -319,3 +317,5 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Angela Nagle: Kill All Normies
 - Fonda Lee: Jade City
+- Nancy Kress: Yesterday's Kin
+- José-Louis Bocquet: Josephine Baker
