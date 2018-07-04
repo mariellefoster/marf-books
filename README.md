@@ -281,6 +281,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kelly Thompson: Hawkeye #1
 - Lois McMaster Bujold: Penric's Fox
 
+## July '18
+
 ## Next
 - Marjane Satrapi: Persopolis
 - N. K. Jemisin: The Shadowed Sun
