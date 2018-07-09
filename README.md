@@ -286,6 +286,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Megan Walen Turner: Thick as Thieves
 - Charles Duhigg: The Power of Habit
 - Windows Internals
+- Hell Cat: Patsy Walker
 
 ## Next
 - Marjane Satrapi: Persopolis
