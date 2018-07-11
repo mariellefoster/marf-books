@@ -287,6 +287,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charles Duhigg: The Power of Habit
 - Windows Internals
 - Hell Cat: Patsy Walker
+- Timothy Snyder: On Tyranny
 
 ## Next
 - Marjane Satrapi: Persopolis
@@ -294,7 +295,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Roxane Gay: Not That Bad
 - The Little Book of Lykke
-- Timothy Snyder
 
 ## Future
 - Ken Liu: The Paper Menagerie and Other Stories
