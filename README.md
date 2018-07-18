@@ -295,7 +295,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N. K. Jemisin: The Shadowed Sun
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Roxane Gay: Not That Bad
-- The Little Book of Lykke
 
 ## Future
 - Ken Liu: The Paper Menagerie and Other Stories
