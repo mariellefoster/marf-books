@@ -297,8 +297,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 - Marjane Satrapi: Persopolis
 - N. K. Jemisin: The Shadowed Sun
-- Lin Manuel Miranda: Hamilton, the screenplay
 - Roxane Gay: Not That Bad
+- Max Gladstone: Three Parts Dead
+- Priya Sharma: Rag and Bone
+- Caitlín R. Kiernan: Black Helicopters
+- No So Stories
+- Rebecca Roanhorse: Trail of Lightning
+
 
 ## Future
 - Ken Liu: The Paper Menagerie and Other Stories
@@ -331,3 +336,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Fonda Lee: Jade City
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
+- Lin Manuel Miranda: Hamilton, the screenplay
