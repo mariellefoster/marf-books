@@ -289,6 +289,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Hell Cat: Patsy Walker
 - Timothy Snyder: On Tyranny
 - Meik Wiking: Little Book of Lykke
+- Emily Wilson: The Odyssey
 - N. K. Jemisin: Shades in Shadow
 
 ## Next
