@@ -289,6 +289,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Hell Cat: Patsy Walker
 - Timothy Snyder: On Tyranny
 - Little Book of Lykke
+- N. K. Jemisin: Shades in Shadow
 
 ## Next
 - Marjane Satrapi: Persopolis
