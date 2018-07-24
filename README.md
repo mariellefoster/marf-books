@@ -282,13 +282,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Fox
 
 ## July '18
-(6 this month, 89 YTD)
+(7 this month, 90 YTD)
 - Megan Walen Turner: Thick as Thieves
 - Charles Duhigg: The Power of Habit
 - Windows Internals
 - Hell Cat: Patsy Walker
 - Timothy Snyder: On Tyranny
-- Little Book of Lykke
+- Meik Wiking: Little Book of Lykke
 - N. K. Jemisin: Shades in Shadow
 
 ## Next
