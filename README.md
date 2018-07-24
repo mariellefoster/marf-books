@@ -282,7 +282,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Penric's Fox
 
 ## July '18
-(9 this month, 92 YTD)
+(10 this month, 93 YTD)
 - Megan Walen Turner: Thick as Thieves
 - Charles Duhigg: The Power of Habit
 - Windows Internals
