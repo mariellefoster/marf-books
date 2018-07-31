@@ -304,7 +304,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Caitlín R. Kiernan: Black Helicopters
 - No So Stories
 - Rebecca Roanhorse: Trail of Lightning
-
+- Becky Chambers: Record of a Spaceborn Few
+- Attack of the 50 Foot Blockchain
 
 ## Future
 - Ken Liu: The Paper Menagerie and Other Stories
