@@ -1,6 +1,11 @@
 # Book Playlists:
 This is like a case of homemade CDs a once upon a time generation would burn for their friends. I burned these books together for you.
 
+## Wielders of magic are...
+- Lawyers (Max Gladstone's Craft Sequence)
+- Mathematicians (Charles Stross' The Laundry Files)
+- Geologists (N. K. Jemisin's Broken Earth Trilogy)
+
 ## Pride and Prejudice...
 - in space (Vorkosigan Saga)
 - amongst the modern Singaporan billionaire set (Crazy Rich Asians Trilogy)
