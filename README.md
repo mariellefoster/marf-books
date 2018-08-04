@@ -296,6 +296,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Max Gladstone: Three Parts Dead
 
 ## August '18
+Not So Stories
 
 ## Next
 - Marjane Satrapi: Persopolis
