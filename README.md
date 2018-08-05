@@ -22,6 +22,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Angie Thomas: The Hate U Give
 - Marshall Rosenberg: Non-Violent Communication
 - Martha Wells: Artificial Condition
+- Max Gladstone: Three Parts Dead
 
 # 2016
 
