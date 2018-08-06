@@ -298,7 +298,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## August '18
 (1 this month, 95 year to date)
-Not So Stories
+- David Moore: Not So Stories
 
 ## Next
 - Marjane Satrapi: Persopolis
