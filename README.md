@@ -301,14 +301,14 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - David Moore: Not So Stories
 
 ## Next
-- Marjane Satrapi: Persopolis
-- N. K. Jemisin: The Shadowed Sun
-- Roxane Gay: Not That Bad
+- Becky Chambers: Record of a Spaceborn Few
 - Priya Sharma: Rag and Bone
+- David Gerard: Attack of the 50 Foot Blockchain
+- Lois McMaster Bujold: Mira's Last Dance
+- Lois McMaster Bujold: The Prisoner of Limnos
+- Roxane Gay: Not That Bad
 - Caitlín R. Kiernan: Black Helicopters
 - Rebecca Roanhorse: Trail of Lightning
-- Becky Chambers: Record of a Spaceborn Few
-- Attack of the 50 Foot Blockchain
 
 ## Future
 - Ken Liu: The Paper Menagerie and Other Stories
@@ -332,7 +332,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Octavia Butler: Parable of the Sower
 - Kameron Hurley: The Broken Heavens
 - Del Samatar: Monster Portraits
-- Lois McMaster Bujold: Mira's Last Dance
 - Annalee Newitz: Autonomous
 - Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Angela Nagle: Kill All Normies
@@ -340,3 +339,5 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
 - Lin Manuel Miranda: Hamilton, the screenplay
+- Marjane Satrapi: Persopolis
+- N. K. Jemisin: The Shadowed Sun
