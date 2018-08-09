@@ -297,7 +297,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Max Gladstone: Three Parts Dead
 
 ## August '18
-(2 this month, 96 year to date)
+(3 this month, 97 year to date)
 - David Moore: Not So Stories
 - Becky Chambers: Record of a Spaceborn Few
 - David Gerard: Attack of the 50 Foot Blockchain
