@@ -299,9 +299,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## August '18
 (1 this month, 95 year to date)
 - David Moore: Not So Stories
+- Becky Chambers: Record of a Spaceborn Few
 
 ## Next
-- Becky Chambers: Record of a Spaceborn Few
 - Priya Sharma: Rag and Bone
 - David Gerard: Attack of the 50 Foot Blockchain
 - Lois McMaster Bujold: Mira's Last Dance
