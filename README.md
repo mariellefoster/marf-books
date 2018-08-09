@@ -300,10 +300,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 96 year to date)
 - David Moore: Not So Stories
 - Becky Chambers: Record of a Spaceborn Few
+- David Gerard: Attack of the 50 Foot Blockchain
 
 ## Next
 - Priya Sharma: Rag and Bone
-- David Gerard: Attack of the 50 Foot Blockchain
 - Lois McMaster Bujold: Mira's Last Dance
 - Lois McMaster Bujold: The Prisoner of Limnos
 - Roxane Gay: Not That Bad
