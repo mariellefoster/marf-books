@@ -304,6 +304,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Priya Sharma: Rag and Bone
+- Martha Wells: Rogue Protocol
 - Lois McMaster Bujold: Mira's Last Dance
 - Lois McMaster Bujold: The Prisoner of Limnos
 - Roxane Gay: Not That Bad
