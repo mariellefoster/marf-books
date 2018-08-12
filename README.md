@@ -304,10 +304,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Rogue Protocol
 - David Gerard: Attack of the 50 Foot Blockchain
 - Lois McMaster Bujold: Mira's Last Dance
+- Lois McMaster Bujold: The Prisoner of Limnos
 
 ## Next
 - Priya Sharma: Rag and Bone
-- Lois McMaster Bujold: The Prisoner of Limnos
 - Roxane Gay: Not That Bad
 - Caitlín R. Kiernan: Black Helicopters
 - Rebecca Roanhorse: Trail of Lightning
