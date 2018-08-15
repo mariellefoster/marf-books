@@ -2,28 +2,28 @@
 Books I've read starting September 2016. I learned to read before this, but I didn't keep track then.
 
 # All Time Favorites
+- Lois McMaster Bujold: Beguilement
+- Lois McMaster Bujold: Mirror Dance
+- Lois McMaster Bujold: Shards of Honor
+- Becky Chambers: The Long Way to A Small, Angry Planet
+- Becky Chambers: Record of a Spaceborn Few
+- Max Gladstone: Three Parts Dead
+- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
+- N. K. Jemisin: A Hundred Thousand Kingdoms
+- N. K. Jemisin: The Stone Sky
 - Ann Leckie: Ancillary Justice
 - Ann Leckie: Ancillary Sword
 - Ann Leckie: Ancillary Mercy
-- Matt Ruff: Lovecraft Country
-- Lois McMaster Bujold: Beguilement
-- Matt Ruff: Set This House in Order
-- Becky Chambers: The Long Way to A Small, Angry Planet
-- Matt Ruff: The Mirage
-- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
-- N. K. Jemisin: A Hundred Thousand Kingdoms
-- Lois McMaster Bujold: Shards of Honor
 - Nnedi Okorafor: Binti: Home
 - Nnedi Okorafor: Binti
-- N. K. Jemisin: The Stone Sky
-- Martha Wells: All Systems Red
-- Lois McMaster Bujold: Mirror Dance
-- Catherynne Valente: The Refrigerator Monologues
-- Angie Thomas: The Hate U Give
 - Marshall Rosenberg: Non-Violent Communication
+- Matt Ruff: Lovecraft Country
+- Matt Ruff: Set This House in Order
+- Matt Ruff: The Mirage
+- Angie Thomas: The Hate U Give
+- Martha Wells: All Systems Red
 - Martha Wells: Artificial Condition
-- Max Gladstone: Three Parts Dead
-- Becky Chambers: Record of a Spaceborn Few
+- Catherynne Valente: The Refrigerator Monologues
 
 # 2016
 
