@@ -305,9 +305,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - David Gerard: Attack of the 50 Foot Blockchain
 - Lois McMaster Bujold: Mira's Last Dance
 - Lois McMaster Bujold: The Prisoner of Limnos
+- Matthew Walker: Why We Sleep
 
 ## Next
-- Matthew Walker: Why We Sleep
 - Priya Sharma: Rag and Bone
 - Roxane Gay: Not That Bad
 - Caitlín R. Kiernan: Black Helicopters
