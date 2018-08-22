@@ -309,6 +309,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Priya Sharma: Rag and Bone
+- Ahmed Saladin: Throne of the Crescent Moon
+- Brooke Bolander: The Only Harmless Great Thing
 - Roxane Gay: Not That Bad
 - Caitlín R. Kiernan: Black Helicopters
 - Rebecca Roanhorse: Trail of Lightning
