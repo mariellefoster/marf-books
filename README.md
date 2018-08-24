@@ -307,9 +307,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: The Prisoner of Limnos
 - Matthew Walker: Why We Sleep
 - Priya Sharma: Rag and Bone
+- Ahmed Saladin: Throne of the Crescent Moon
 
 ## Next
-- Ahmed Saladin: Throne of the Crescent Moon
 - Brooke Bolander: The Only Harmless Great Thing
 - Roxane Gay: Not That Bad
 - Caitlín R. Kiernan: Black Helicopters
