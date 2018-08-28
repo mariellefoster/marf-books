@@ -310,6 +310,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Priya Sharma: Rag and Bone
 - Ahmed Saladin: Throne of the Crescent Moon
 - Mur Lafferty: The Shambling Guide to NYC
+- Collins Grammar Guide to German
 
 ## Next
 - Brooke Bolander: The Only Harmless Great Thing
