@@ -314,9 +314,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mur Lafferty: Ghost Train to New Orleans
 
 ## Next
+- Caitlín R. Kiernan: Black Helicopters
+- Rowenna Miller: Torn
 - Brooke Bolander: The Only Harmless Great Thing
 - Roxane Gay: Not That Bad
-- Caitlín R. Kiernan: Black Helicopters
 - Rebecca Roanhorse: Trail of Lightning
 - Seth Dickinson: The Traitor Baru Cormorant
 - Mary Roach: Gulp
