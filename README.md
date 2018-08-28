@@ -312,7 +312,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mur Lafferty: The Shambling Guide to NYC
 - Collins Grammar Guide to German
 - Mur Lafferty: Ghost Train to New Orleans
-- Brian K. Vaughan: Saga 1
+- Brian K. Vaughan, Fiona Staples: Saga 1
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
