@@ -313,6 +313,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Collins Grammar Guide to German
 - Mur Lafferty: Ghost Train to New Orleans
 - Brian K. Vaughan, Fiona Staples: Saga 1
+- Brian K. Vaughan, Fiona Staples: Saga 2
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
