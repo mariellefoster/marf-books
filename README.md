@@ -299,7 +299,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Max Gladstone: Three Parts Dead
 
 ## August '18
-(15 this month, 109 year to date)
+(15 this month, 109 YTD)
 - David Moore: Not So Stories
 - Becky Chambers: Record of a Spaceborn Few
 - Martha Wells: Rogue Protocol
