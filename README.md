@@ -321,6 +321,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Brian K. Vaughan, Fiona Staples: Saga 4
 - Brian K. Vaughan, Fiona Staples: Saga 5
 - Brian K. Vaughan, Fiona Staples: Saga 6
+- Tom Siddell: Gunnerkrigg Court, Synthesis
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
