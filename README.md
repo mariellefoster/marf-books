@@ -320,6 +320,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 111 YTD)
 - Brian K. Vaughan, Fiona Staples: Saga 4
 - Brian K. Vaughan, Fiona Staples: Saga 5
+- Brian K. Vaughan, Fiona Staples: Saga 6
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
