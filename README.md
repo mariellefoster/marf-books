@@ -324,6 +324,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tom Siddell: Gunnerkrigg Court, Synthesis
 - Brian K. Vaughan, Fiona Staples: Saga 7
 - Brian K. Vaughan, Fiona Staples: Saga 8
+- Jenny Han: To All The Boys I've Loved Beofre
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
