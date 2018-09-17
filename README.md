@@ -325,6 +325,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Brian K. Vaughan, Fiona Staples: Saga 8
 - Jenny Han: To All The Boys I've Loved Before
 - Mur Lafferty: Ghost Train to New Orleans
+- Nnedi Okorafor: Binti (in German)
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
