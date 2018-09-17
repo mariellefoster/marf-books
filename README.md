@@ -299,7 +299,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Max Gladstone: Three Parts Dead
 
 ## August '18
-(15 this month, 109 YTD)
+(14 this month, 109 YTD)
 - David Moore: Not So Stories
 - Becky Chambers: Record of a Spaceborn Few
 - Martha Wells: Rogue Protocol
@@ -311,20 +311,20 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ahmed Saladin: Throne of the Crescent Moon
 - Mur Lafferty: The Shambling Guide to NYC
 - Collins Grammar Guide to German
-- Mur Lafferty: Ghost Train to New Orleans
 - Brian K. Vaughan, Fiona Staples: Saga 1
 - Brian K. Vaughan, Fiona Staples: Saga 2
 - Brian K. Vaughan, Fiona Staples: Saga 3
 
 ## September '18
-(7 this month, 116 YTD)
+(8 this month, 116 YTD)
 - Brian K. Vaughan, Fiona Staples: Saga 4
 - Brian K. Vaughan, Fiona Staples: Saga 5
 - Brian K. Vaughan, Fiona Staples: Saga 6
 - Tom Siddell: Gunnerkrigg Court, Synthesis
 - Brian K. Vaughan, Fiona Staples: Saga 7
 - Brian K. Vaughan, Fiona Staples: Saga 8
-- Jenny Han: To All The Boys I've Loved Beofre
+- Jenny Han: To All The Boys I've Loved Before
+- Mur Lafferty: Ghost Train to New Orleans
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
