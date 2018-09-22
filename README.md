@@ -327,6 +327,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mur Lafferty: Ghost Train to New Orleans
 - Nnedi Okorafor: Binti (in German)
 - John Carreyrou: Bad Blood
+- Netzwerk A1.1
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
