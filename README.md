@@ -326,6 +326,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jenny Han: To All The Boys I've Loved Before
 - Mur Lafferty: Ghost Train to New Orleans
 - Nnedi Okorafor: Binti (in German)
+- John Carreyrou: Bad Blood
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
@@ -340,7 +341,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Connie Willis: To Say Nothing of the Dog, Or, How We Found the Bishop's Bird Stump at Last
 - Mary Roach: Bonk
 - Cathrynne Valente: Space Opera
-- John Carreyrou: Bad Blood
 - Tomi Adeyemi: Children of Blood and Bone
 
 ## Future
