@@ -316,7 +316,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Brian K. Vaughan, Fiona Staples: Saga 3
 
 ## September '18
-(10 this month, 118 YTD)
+(11 this month, 119 YTD)
 - Brian K. Vaughan, Fiona Staples: Saga 4
 - Brian K. Vaughan, Fiona Staples: Saga 5
 - Brian K. Vaughan, Fiona Staples: Saga 6
