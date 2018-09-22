@@ -328,6 +328,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: Binti (in German)
 - John Carreyrou: Bad Blood
 - Netzwerk A1.1
+- Netzwerk A1.2
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
