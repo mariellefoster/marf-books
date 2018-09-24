@@ -329,6 +329,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - John Carreyrou: Bad Blood
 - Netzwerk A1.1
 - Netzwerk A1.2
+- Netzwerk A2.2
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
