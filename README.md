@@ -345,6 +345,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Roach: Bonk
 - Cathrynne Valente: Space Opera
 - Tomi Adeyemi: Children of Blood and Bone
+- Dessa: My Own Devices
 
 ## Future
 - Ken Liu: The Paper Menagerie and Other Stories
