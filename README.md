@@ -332,7 +332,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Netzwerk A2.2
 
 ## October '18
-(1 this month, 121 YTD)
+(2 this month, 122 YTD)
 - Brian K. Vaughan, Fiona Staples: Saga 9
 - Connie Willis: To Say Nothing of the Dog, Or, How We Found the Bishop's Bird Stump at Last
 
