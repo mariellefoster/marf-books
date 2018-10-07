@@ -333,6 +333,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## October '18
 (0 this month, 120 YTD)
+- Brian K. Vaughan, Fiona Staples: Saga 9
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
