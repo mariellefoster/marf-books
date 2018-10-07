@@ -332,7 +332,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Netzwerk A2.2
 
 ## October '18
-(0 this month, 120 YTD)
+(1 this month, 121 YTD)
 - Brian K. Vaughan, Fiona Staples: Saga 9
 
 ## Next
