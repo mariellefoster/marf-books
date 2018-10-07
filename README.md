@@ -329,10 +329,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - John Carreyrou: Bad Blood
 - Netzwerk A1.1
 - Netzwerk A1.2
-- Netzwerk A2.2
+- Netzwerk A2.1
 
 ## October '18
 (3 this month, 123 YTD)
+- Netzwerk A2.2
 - Brian K. Vaughan, Fiona Staples: Saga 9
 - Connie Willis: To Say Nothing of the Dog, Or, How We Found the Bishop's Bird Stump at Last
 - Träume in Berlin
