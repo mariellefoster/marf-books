@@ -334,6 +334,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## October '18
 (1 this month, 121 YTD)
 - Brian K. Vaughan, Fiona Staples: Saga 9
+- Connie Willis: To Say Nothing of the Dog, Or, How We Found the Bishop's Bird Stump at Last
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
@@ -345,7 +346,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Roach: Gulp
 - Elizabeth Bear: Karen Memory
 - JY Yang: The Descent of Monsters
-- Connie Willis: To Say Nothing of the Dog, Or, How We Found the Bishop's Bird Stump at Last
 - Mary Roach: Bonk
 - Cathrynne Valente: Space Opera
 - Tomi Adeyemi: Children of Blood and Bone
