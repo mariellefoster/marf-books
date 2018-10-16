@@ -338,6 +338,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Connie Willis: To Say Nothing of the Dog, Or, How We Found the Bishop's Bird Stump at Last
 - Träume in Berlin
 - Aspeckte Neu B1
+- Fredrich von Schiller: Die Räuber
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
