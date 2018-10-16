@@ -339,6 +339,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Träume in Berlin
 - Aspeckte Neu B1
 - Fredrich von Schiller: Die Räuber
+- Goethe: Faust
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
