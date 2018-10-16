@@ -337,6 +337,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Brian K. Vaughan, Fiona Staples: Saga 9
 - Connie Willis: To Say Nothing of the Dog, Or, How We Found the Bishop's Bird Stump at Last
 - Träume in Berlin
+- Aspeckte Neu B1
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
