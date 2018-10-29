@@ -340,7 +340,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aspeckte Neu B1
 - Fredrich von Schiller: Die Räuber
 - Goethe: Faust (easy version)
-- Goethe: Werther (easy version
+- Goethe: Werther (easy version)
+- Dessa: My Own Devices
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
@@ -355,7 +356,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Roach: Bonk
 - Cathrynne Valente: Space Opera
 - Tomi Adeyemi: Children of Blood and Bone
-- Dessa: My Own Devices
 
 ## Future
 - Ken Liu: The Paper Menagerie and Other Stories
