@@ -344,7 +344,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Dessa: My Own Devices
 
 ## November '18
-(0 this month, 129 YTD)
+(1 this month, 130 YTD)
 - Franz Specht: Besserwisser: Carsten Tsara und das scharfe S
 
 ## Next
