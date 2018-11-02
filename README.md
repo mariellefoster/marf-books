@@ -345,6 +345,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## November '18
 (0 this month, 129 YTD)
+- Franz Specht: Besserwisser: Carsten Tsara und das scharfe S
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
