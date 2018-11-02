@@ -343,6 +343,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Goethe: Werther (easy version)
 - Dessa: My Own Devices
 
+## November '18
+
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
 - Rowenna Miller: Torn
