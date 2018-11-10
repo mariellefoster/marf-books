@@ -347,6 +347,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 131 YTD)
 - Franz Specht: Besserwisser: Carsten Tsara und das scharfe S
 - JY Yang: The Descent of Monsters
+- Aspeckte Neu B1.2
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
