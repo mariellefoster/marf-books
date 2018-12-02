@@ -352,6 +352,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## December '18
 (0 this month, 133 YTD)
+- Grammatik aktiv
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
