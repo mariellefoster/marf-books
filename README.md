@@ -350,6 +350,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aspeckte Neu B1.2
 - Becky Albertalli: Nur drei Worte
 
+## December '18
+(0 this month, 133 YTD)
+
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
 - Rowenna Miller: Torn
