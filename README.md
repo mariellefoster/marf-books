@@ -380,7 +380,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
 - Laurie Penny: Bitch Doctrine
-- Yoon ha Lee:  nine fox gambit
+- Yoon ha Lee:  Nine Fox Gambit
 - Ruthanna Everett: wintertide
 - Charles Stross: Empire Games
 - Naomi Alderman: Disobedience
