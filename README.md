@@ -351,7 +351,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Albertalli: Nur drei Worte
 
 ## December '18
-(2 this month, 135 YTD)
+(3 this month, 136 YTD)
 - Grammatik aktiv
 - Python Cookbook
 - The Devil Lies in the Detail
