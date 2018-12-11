@@ -354,6 +354,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 135 YTD)
 - Grammatik aktiv
 - Python Cookbook
+- The Devil Lies in the Detail
 
 ## Next
 - Caitlín R. Kiernan: Black Helicopters
