@@ -372,6 +372,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tomi Adeyemi: Children of Blood and Bone
 
 ## Future
+- N.K. Jemisin: How Long Until Black Future Month
 - Ken Liu: The Paper Menagerie and Other Stories
 - Invisible Man, Got the Whole World Watching
 - Mary Doria Russell: The Sparrow
