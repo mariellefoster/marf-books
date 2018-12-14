@@ -5,6 +5,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Lawyers (Max Gladstone's Craft Sequence)
 - Mathematicians (Charles Stross' The Laundry Files)
 - Geologists (N. K. Jemisin's Broken Earth Trilogy)
+- Seamstresses (Torn)
 
 ## Pride and Prejudice...
 - in space (Vorkosigan Saga)
