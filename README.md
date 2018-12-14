@@ -359,6 +359,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Tamora Pierce: Im Bann der Göttin
+- Tamora Pierce: Das zerbrochene Schwert
 - N.K. Jemisin: How Long Until Black Future Month
 - Caitlín R. Kiernan: Black Helicopters
 - Rowenna Miller: Torn
