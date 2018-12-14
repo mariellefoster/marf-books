@@ -363,9 +363,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamora Pierce: Das Juwel der Macht
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
-- Caitlín R. Kiernan: Black Helicopters
 - Rowenna Miller: Torn
+
+## Future
 - Brooke Bolander: The Only Harmless Great Thing
+- Caitlín R. Kiernan: Black Helicopters
 - Roxane Gay: Not That Bad
 - Rebecca Roanhorse: Trail of Lightning
 - Seth Dickinson: The Traitor Baru Cormorant
@@ -375,8 +377,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Roach: Bonk
 - Cathrynne Valente: Space Opera
 - Tomi Adeyemi: Children of Blood and Bone
-
-## Future
 - Ken Liu: The Paper Menagerie and Other Stories
 - Invisible Man, Got the Whole World Watching
 - Mary Doria Russell: The Sparrow
