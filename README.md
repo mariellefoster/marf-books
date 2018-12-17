@@ -354,7 +354,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (4 this month, 137 YTD)
 - Grammatik aktiv
 - Python Cookbook
-- The Devil Lies in the Detail
 - Tamora Pierce: Die Schwarze Stadt
 
 ## Next
@@ -364,6 +363,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
 - Rowenna Miller: Torn
+- The Devil Lies in the Detail
 
 ## Future
 - Brooke Bolander: The Only Harmless Great Thing
