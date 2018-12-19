@@ -362,6 +362,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamora Pierce: Das Juwel der Macht
 - Antje Szillat: Zusammen sind wir tierisch stark
 - Mary Pope Osborne: Gefahr in der Feuerstadt
+- Monica Hesse: Das Mädchen im blauen Mantel
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
 - Rowenna Miller: Torn
