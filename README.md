@@ -357,7 +357,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamora Pierce: Die Schwarze Stadt
 - Tamora Pierce: Im Bann der Göttin
 - Antje Szillat: Zusammen sind wir tierisch stark
-- Mary Pope Osborne: Gefahr in der Feuerstadt
 
 ## Next
 - Tamora Pierce: Das zerbrochene Schwert
@@ -369,6 +368,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Devil Lies in the Detail
 
 ## Future
+- Mary Pope Osborne: Gefahr in der Feuerstadt
 - Brooke Bolander: The Only Harmless Great Thing
 - Caitlín R. Kiernan: Black Helicopters
 - Roxane Gay: Not That Bad
