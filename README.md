@@ -357,9 +357,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamora Pierce: Die Schwarze Stadt
 - Tamora Pierce: Im Bann der Göttin
 - Antje Szillat: Zusammen sind wir tierisch stark
+- Tamora Pierce: Das zerbrochene Schwert
 
 ## Next
-- Tamora Pierce: Das zerbrochene Schwert
 - Tamora Pierce: Das Juwel der Macht
 - Monica Hesse: Das Mädchen im blauen Mantel
 - Martha Wells: Exit Strategy
