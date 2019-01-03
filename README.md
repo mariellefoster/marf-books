@@ -359,6 +359,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Antje Szillat: Zusammen sind wir tierisch stark
 - Tamora Pierce: Das zerbrochene Schwert
 
+## January '19
+
 ## Next
 - Tamora Pierce: Das Juwel der Macht
 - Monica Hesse: Das Mädchen im blauen Mantel
