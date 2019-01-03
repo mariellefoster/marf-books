@@ -362,9 +362,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2019
 
 ## January '19
+- Tamora Pierce: Das Juwel der Macht
 
 ## Next
-- Tamora Pierce: Das Juwel der Macht
 - Monica Hesse: Das Mädchen im blauen Mantel
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
