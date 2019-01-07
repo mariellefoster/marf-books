@@ -367,13 +367,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Becky Chambers: Der lange Weg zu einem kleinen zornigen Planeten
-- Monica Hesse: Das Mädchen im blauen Mantel
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
 - Rowenna Miller: Torn
 - The Devil Lies in the Detail
 
 ## Future
+- Monica Hesse: Das Mädchen im blauen Mantel
 - Mary Pope Osborne: Gefahr in der Feuerstadt
 - Brooke Bolander: The Only Harmless Great Thing
 - Caitlín R. Kiernan: Black Helicopters
