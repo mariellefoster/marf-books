@@ -366,6 +366,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamora Pierce: Das Juwel der Macht
 
 ## Next
+- Becky Chambers: Der lange Weg zu einem kleinen zornigen Planeten
 - Monica Hesse: Das Mädchen im blauen Mantel
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
