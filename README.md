@@ -366,6 +366,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamora Pierce: Das Juwel der Macht
 
 ## Next
+- Franz Kafka: Erfahrungen
 - Becky Chambers: Der lange Weg zu einem kleinen zornigen Planeten
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
