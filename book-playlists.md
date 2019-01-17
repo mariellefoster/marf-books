@@ -15,6 +15,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Nnedi Okorafor: Binti
 - Nnedi Okorafor: Binti: Home
 - Martha Wells: All Systems Red
+- Martha Wells: Exit Strategy
 - Lois McMaster Bujold: The DreamWeaver's Dilemma
 - Octavia Butler: Bloodchild
 - Seannan McGuire: Every Heart A Doorway
@@ -31,6 +32,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - JY Yang: The Descent of Monsters
 - JY Yang: The Red Threads of Fortune
 - JY Yang: The Black Tides of Heaven
+
 
 ## Buoyant and Hilarious
 - Martha Wells: All Systems Red
