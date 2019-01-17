@@ -30,6 +30,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Ellen Klages: Passing Strange
 - JY Yang: The Descent of Monsters
 - JY Yang: The Red Threads of Fortune
+- JY Yang: The Black Tides of Heaven
 
 ## Buoyant and Hilarious
 - Martha Wells: All Systems Red
