@@ -16,6 +16,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Nnedi Okorafor: Binti: Home
 - Martha Wells: All Systems Red
 - Martha Wells: Exit Strategy
+- Martha Wells: Artificial Condition
 - Lois McMaster Bujold: The DreamWeaver's Dilemma
 - Octavia Butler: Bloodchild
 - Seannan McGuire: Every Heart A Doorway
