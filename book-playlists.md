@@ -51,6 +51,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
   - pretty fun magical mystery
 - Sy Montgomery: The Soul of An Octopus
   - Every chapter is named after an octopus she makes friends with
+- Connie Willis: To Say Nothing of the Dog, Or, How We Found the Bishop's Bird Stump at Last
 
 ## Chewy Soulstuff
 - Matt Ruff: Set This House in Order
