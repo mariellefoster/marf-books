@@ -383,7 +383,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Seth Dickinson: The Traitor Baru Cormorant
 - Mary Roach: Gulp
 - Elizabeth Bear: Karen Memory
-- JY Yang: The Descent of Monsters
 - Mary Roach: Bonk
 - Cathrynne Valente: Space Opera
 - Tomi Adeyemi: Children of Blood and Bone
