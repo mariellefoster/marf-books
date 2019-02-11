@@ -378,6 +378,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N.K. Jemisin: How Long Until Black Future Month
 - Rowenna Miller: Torn
 - The Devil Lies in the Detail
+- The People's Future of the United States
 
 ## Future
 - Monica Hesse: Das Mädchen im blauen Mantel
