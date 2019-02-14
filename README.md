@@ -382,6 +382,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Engineering a Safer World
 - Ödön von Horváth: Der ewige Spießer
 - Ödön von Horváth: Ein Dorf ohne Männer
+- Ödön von Horváth: Jugend ohne Gott
 - Sibylle Berg: Und jetzt: die Welt! oder Es sagt mir nichts, das sogenannte Draußen
 - Sibylle Berg: Und dann kam Mirna
 - Sibylle Berg: Nach uns das All oder Das innere Team kennt keine Pause
