@@ -376,7 +376,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sibylle Berg: Und jetzt: die Welt! oder Es sagt mir nichts, das sogenannte Draußen
 
 ## March '19
-- 
+- Ödön von Horváth: Ein Dorf ohne Männer
 
 ## Next
 - Martha Wells: Exit Strategy
@@ -386,7 +386,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The People's Future of the United States
 - Engineering a Safer World
 - Ödön von Horváth: Der ewige Spießer
-- Ödön von Horváth: Ein Dorf ohne Männer
 - Ödön von Horváth: Jugend ohne Gott
 - Ödön von Horváth: Glaube Liebe Hoffnung
 - Sibylle Berg: Und dann kam Mirna
