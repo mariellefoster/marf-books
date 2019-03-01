@@ -372,7 +372,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (3 this month, 7 YTD)
 - Aspekte C1.2
 - Prüfungstraining: Telc C1 Exam Vorbereitung
-- Lehrbuch: Telc C1 
+- Lehrbuch: Telc C1
+- Sibylle Berg: Und jetzt: die Welt! oder Es sagt mir nichts, das sogenannte Draußen
 
 ## Next
 - Martha Wells: Exit Strategy
@@ -385,7 +386,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ödön von Horváth: Ein Dorf ohne Männer
 - Ödön von Horváth: Jugend ohne Gott
 - Ödön von Horváth: Glaube Liebe Hoffnung
-- Sibylle Berg: Und jetzt: die Welt! oder Es sagt mir nichts, das sogenannte Draußen
 - Sibylle Berg: Und dann kam Mirna
 - Sibylle Berg: Nach uns das All oder Das innere Team kennt keine Pause
 - Thea Dorn: Marleni
