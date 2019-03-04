@@ -378,9 +378,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## March '19
 (1 this month, 9 YTD)
 - Ödön von Horváth: Ein Dorf ohne Männer
+- Ann Leckie: Die Maschinen
 
 ## Next
-- Ann Leckie: Die Maschinen
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
 - Rowenna Miller: Torn
