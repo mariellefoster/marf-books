@@ -379,9 +379,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 10 YTD)
 - Ödön von Horváth: Ein Dorf ohne Männer
 - Ann Leckie: Die Maschinen
+- Martha Wells: Exit Strategy
 
 ## Next
-- Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
 - Rowenna Miller: Torn
 - The Devil Lies in the Detail
