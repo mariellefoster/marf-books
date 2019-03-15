@@ -382,20 +382,19 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
 
-
 ## Next
 - Rowenna Miller: Torn
-- The Devil Lies in the Detail
 - The People's Future of the United States
 - Engineering a Safer World
+- Thea Dorn: Marleni
+
+## Future
 - Ödön von Horváth: Der ewige Spießer
 - Ödön von Horváth: Jugend ohne Gott
 - Ödön von Horváth: Glaube Liebe Hoffnung
 - Sibylle Berg: Und dann kam Mirna
 - Sibylle Berg: Nach uns das All oder Das innere Team kennt keine Pause
-- Thea Dorn: Marleni
-
-## Future
+- The Devil Lies in the Detail
 - Monica Hesse: Das Mädchen im blauen Mantel
 - Mary Pope Osborne: Gefahr in der Feuerstadt
 - Brooke Bolander: The Only Harmless Great Thing
