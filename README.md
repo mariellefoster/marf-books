@@ -382,7 +382,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
 - Charles Montgomery: Happy City
-- Steve Haines: Trauma ist ziemlich strange
+- Steve Haines, Sophie Standing: Trauma ist ziemlich strange
 
 ## Next
 - Rowenna Miller: Torn
