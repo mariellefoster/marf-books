@@ -381,7 +381,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Die Maschinen
 - Martha Wells: Exit Strategy
 - N.K. Jemisin: How Long Until Black Future Month
-- Happy City
+- Charles Montgomery: Happy City
 
 ## Next
 - Rowenna Miller: Torn
