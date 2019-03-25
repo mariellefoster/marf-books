@@ -390,6 +390,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Engineering a Safer World
 - Thea Dorn: Marleni
 - Pia Mellody: The Intimacy Factor
+- Elizabeth Bear: Dust
 
 ## Future
 - Ödön von Horváth: Der ewige Spießer
