@@ -15,3 +15,6 @@
 
 #### Becky Chambers: Record of a Spaceborn Few
 	Third book in the same world as “Long Way…”, can be read stand alone. So lovely, wonderful, human, and for me got at the questions of who am I in the universe and where do we go now that we’re here?
+
+#### Murderbot Diaries
+	Great set of novellas about a grumpy humanoid security bot who just wants to be left alone and watch television
