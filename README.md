@@ -394,6 +394,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Engineering a Safer World
 - Thea Dorn: Marleni
 - Elizabeth Bear: Dust
+- Laszlo Bock: Work Rules!
 
 ## Future
 - Ödön von Horváth: Der ewige Spießer
@@ -430,7 +431,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Alderman: Disobedience
 - Nisi Shawl: Everfair
 - Cixin Liu: The Three-body Problem
-- Laszlo Bock: Work Rules!
 - Stanley McCrystal: Team of Teams
 - Octavia Butler: Parable of the Sower
 - Kameron Hurley: The Broken Heavens
