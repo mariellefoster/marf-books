@@ -395,6 +395,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Bear: Dust
 - Laszlo Bock: Work Rules!
 - The People's Future of the United States
+- Brooke Bolander: The Only Harmless Great Thing
 
 ## Future
 - Ödön von Horváth: Der ewige Spießer
