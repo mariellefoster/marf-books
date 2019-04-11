@@ -387,10 +387,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## April '19
 (2 this month, 16 YTD)
 - Pia Mellody: The Intimacy Factor
+- Rowenna Miller: Torn
 - The People's Future of the United States
 
 ## Next
-- Rowenna Miller: Torn
 - Engineering a Safer World
 - Thea Dorn: Marleni
 - Elizabeth Bear: Dust
