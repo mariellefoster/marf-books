@@ -388,13 +388,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 16 YTD)
 - Pia Mellody: The Intimacy Factor
 - Rowenna Miller: Torn
-- The People's Future of the United States
 
 ## Next
 - Engineering a Safer World
 - Thea Dorn: Marleni
 - Elizabeth Bear: Dust
 - Laszlo Bock: Work Rules!
+- The People's Future of the United States
 
 ## Future
 - Ödön von Horváth: Der ewige Spießer
