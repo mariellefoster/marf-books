@@ -389,11 +389,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Pia Mellody: The Intimacy Factor
 - Rowenna Miller: Torn
 - Brooke Bolander: The Only Harmless Great Thing
+- Elizabeth Bear: Dust
 
 ## Next
 - Engineering a Safer World
 - Thea Dorn: Marleni
-- Elizabeth Bear: Dust
 - Laszlo Bock: Work Rules!
 - The People's Future of the United States
 
