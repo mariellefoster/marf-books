@@ -399,6 +399,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The People's Future of the United States
 
 ## Future
+- Celeste Headley: We Need to Talk
 - Clark P. Djèlí: The Black God's Drums
 - Ödön von Horváth: Der ewige Spießer
 - Ödön von Horváth: Jugend ohne Gott
