@@ -397,6 +397,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Thea Dorn: Marleni
 - Laszlo Bock: Work Rules!
 - The People's Future of the United States
+- Cathrynne Valente: Space Opera
 
 ## Future
 - Celeste Headley: We Need to Talk
@@ -417,7 +418,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Roach: Gulp
 - Elizabeth Bear: Karen Memory
 - Mary Roach: Bonk
-- Cathrynne Valente: Space Opera
 - Tomi Adeyemi: Children of Blood and Bone
 - Ken Liu: The Paper Menagerie and Other Stories
 - Invisible Man, Got the Whole World Watching
@@ -426,9 +426,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - How to Win Friends and Influence People
 - Greg Orman: Declaration of Independents
 - Kameron Hurley: The Stars Are Legion
-- Madeleine L'Engle: A Wrinkle in Time
 - A Good Time For The Truth
-- Laurie Penny: Bitch Doctrine
 - Yoon ha Lee:  Nine Fox Gambit
 - Ruthanna Everett: wintertide
 - Charles Stross: Empire Games
@@ -440,7 +438,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kameron Hurley: The Broken Heavens
 - Del Samatar: Monster Portraits
 - Annalee Newitz: Autonomous
-- Ryan North and Erica Henderson: Vol 3 Squirrel You Really Got Me Now
 - Angela Nagle: Kill All Normies
 - Fonda Lee: Jade City
 - Nancy Kress: Yesterday's Kin
