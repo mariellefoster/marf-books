@@ -390,6 +390,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Rowenna Miller: Torn
 - Brooke Bolander: The Only Harmless Great Thing
 - Elizabeth Bear: Dust
+- Stanislaw Lem: A Puzzle
 
 ## Next
 - Engineering a Safer World
@@ -398,6 +399,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The People's Future of the United States
 
 ## Future
+- 
 - Ödön von Horváth: Der ewige Spießer
 - Ödön von Horváth: Jugend ohne Gott
 - Ödön von Horváth: Glaube Liebe Hoffnung
