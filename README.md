@@ -399,6 +399,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The People's Future of the United States
 - Cathrynne Valente: Space Opera
 - Write Great Code, Volume 1: Understanding the Machine
+- Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 
 ## Future
 - Celeste Headley: We Need to Talk
