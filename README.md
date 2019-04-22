@@ -398,6 +398,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Laszlo Bock: Work Rules!
 - The People's Future of the United States
 - Cathrynne Valente: Space Opera
+- Write Great Code, Volume 1: Understanding the Machine
 
 ## Future
 - Celeste Headley: We Need to Talk
