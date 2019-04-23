@@ -400,9 +400,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Cathrynne Valente: Space Opera
 - Randall Hyde: Write Great Code, Volume 1: Understanding the Machine
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
+- Alyssa Cole
+- Celeste Headley: We Need to Talk
 
 ## Future
-- Celeste Headley: We Need to Talk
 - Clark P. Djèlí: The Black God's Drums
 - Ödön von Horváth: Der ewige Spießer
 - Ödön von Horváth: Jugend ohne Gott
