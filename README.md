@@ -399,6 +399,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Randall Hyde: Write Great Code, Volume 1: Understanding the Machine
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Alyssa Cole
+- Gabriel Garcia Marquez
 - Celeste Headley: We Need to Talk
 
 ## Future
