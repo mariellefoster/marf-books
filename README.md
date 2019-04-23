@@ -394,8 +394,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Engineering a Safer World
-- Thea Dorn: Marleni
-- Laszlo Bock: Work Rules!
 - The People's Future of the United States
 - Cathrynne Valente: Space Opera
 - Randall Hyde: Write Great Code, Volume 1: Understanding the Machine
@@ -404,6 +402,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Celeste Headley: We Need to Talk
 
 ## Future
+- Thea Dorn: Marleni
+- Laszlo Bock: Work Rules!
 - Clark P. Djèlí: The Black God's Drums
 - Ödön von Horváth: Der ewige Spießer
 - Ödön von Horváth: Jugend ohne Gott
