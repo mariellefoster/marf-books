@@ -14,6 +14,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 ## Galactic Coloratura
 - Elizabeth Bear: Dust
 - Nnedi Okorafor: Binti
+- Vorkosigan Saga
 
 ## Novellas
 - Nnedi Okorafor: Binti
