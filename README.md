@@ -402,6 +402,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Alyssa Cole: Let It Shine
 - Gabriel Garcia Marquez: No one writes to the colonel
 - Celeste Headley: We Need to Talk
+- Elizabeth Bear: Chill
 
 ## Future
 - Thea Dorn: Marleni
