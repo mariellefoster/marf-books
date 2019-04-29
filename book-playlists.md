@@ -15,6 +15,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Elizabeth Bear: Dust
 - Nnedi Okorafor: Binti
 - Vorkosigan Saga
+- Martha Wells: All Systems Red
 
 ## Novellas
 - Nnedi Okorafor: Binti
