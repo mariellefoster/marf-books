@@ -391,6 +391,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Brooke Bolander: The Only Harmless Great Thing
 - Elizabeth Bear: Dust
 - Stanislaw Lem: A Puzzle
+- Mary Roach: Bonk
 
 ## Next
 - Engineering a Safer World
@@ -421,7 +422,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Seth Dickinson: The Traitor Baru Cormorant
 - Mary Roach: Gulp
 - Elizabeth Bear: Karen Memory
-- Mary Roach: Bonk
 - Tomi Adeyemi: Children of Blood and Bone
 - Ken Liu: The Paper Menagerie and Other Stories
 - Invisible Man, Got the Whole World Watching
