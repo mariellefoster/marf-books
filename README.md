@@ -404,6 +404,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Celeste Headley: We Need to Talk
 - Elizabeth Bear: Chill
 - Charles Stross: The Labyrinth Index
+- P. Djèlí Clark: The Black God's Drums
 
 ## Future
 - Thea Dorn: Marleni
