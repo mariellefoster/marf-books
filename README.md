@@ -418,9 +418,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sibylle Berg: Und dann kam Mirna
 - Sibylle Berg: Nach uns das All oder Das innere Team kennt keine Pause
 - The Devil Lies in the Detail
-- Monica Hesse: Das Mädchen im blauen Mantel
-- Mary Pope Osborne: Gefahr in der Feuerstadt
-- Brooke Bolander: The Only Harmless Great Thing
 - Caitlín R. Kiernan: Black Helicopters
 - Roxane Gay: Not That Bad
 - Rebecca Roanhorse: Trail of Lightning
@@ -433,7 +430,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Doria Russell: The Sparrow
 - Mothership: Tales From Afrofuturism and Beyond
 - How to Win Friends and Influence People
-- Greg Orman: Declaration of Independents
 - Kameron Hurley: The Stars Are Legion
 - A Good Time For The Truth
 - Yoon ha Lee:  Nine Fox Gambit
@@ -447,7 +443,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kameron Hurley: The Broken Heavens
 - Del Samatar: Monster Portraits
 - Annalee Newitz: Autonomous
-- Angela Nagle: Kill All Normies
 - Fonda Lee: Jade City
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
