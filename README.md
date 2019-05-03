@@ -403,6 +403,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Gabriel Garcia Marquez: No one writes to the colonel
 - Celeste Headley: We Need to Talk
 - Elizabeth Bear: Chill
+- Charles Stross: The Labyrinth Index
 
 ## Future
 - Thea Dorn: Marleni
