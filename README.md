@@ -394,7 +394,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Roach: Bonk
 
 ## May '19
-- P. Djèlí Clark: The Black God's Drums
+- Clark P. Djèlí: The Black God's Drums
 
 ## Next
 - Engineering a Safer World
@@ -411,7 +411,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Future
 - Thea Dorn: Marleni
 - Laszlo Bock: Work Rules!
-- Clark P. Djèlí: The Black God's Drums
 - Ödön von Horváth: Der ewige Spießer
 - Ödön von Horváth: Jugend ohne Gott
 - Ödön von Horváth: Glaube Liebe Hoffnung
