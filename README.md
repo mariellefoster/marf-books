@@ -403,13 +403,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Cathrynne Valente: Space Opera
 - Randall Hyde: Write Great Code, Volume 1: Understanding the Machine
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
-- Alyssa Cole: Let It Shine
-- Gabriel Garcia Marquez: No one writes to the colonel
 - Celeste Headley: We Need to Talk
 - Elizabeth Bear: Chill
 - Charles Stross: The Labyrinth Index
 
 ## Future
+- Alyssa Cole: Let It Shine
+- Gabriel Garcia Marquez: No one writes to the colonel
 - Thea Dorn: Marleni
 - Laszlo Bock: Work Rules!
 - Ödön von Horváth: Der ewige Spießer
