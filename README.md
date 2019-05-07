@@ -399,6 +399,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charles Stross: The Labyrinth Index
 
 ## Next
+- Lois McMaster Bujold: The Knife's Children
 - Engineering a Safer World
 - The People's Future of the United States
 - Cathrynne Valente: Space Opera
