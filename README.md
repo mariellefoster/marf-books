@@ -396,6 +396,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## May '19
 (1 this month, 21 YTD)
 - Clark P. Djèlí: The Black God's Drums
+- Charles Stross: The Labyrinth Index
 
 ## Next
 - Engineering a Safer World
@@ -405,7 +406,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Celeste Headley: We Need to Talk
 - Elizabeth Bear: Chill
-- Charles Stross: The Labyrinth Index
 
 ## Future
 - Alyssa Cole: Let It Shine
