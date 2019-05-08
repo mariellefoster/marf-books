@@ -397,9 +397,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 22 YTD)
 - Clark P. Djèlí: The Black God's Drums
 - Charles Stross: The Labyrinth Index
+- Lois McMaster Bujold: Knife Children
 
 ## Next
-- Lois McMaster Bujold: The Knife's Children
 - Engineering a Safer World
 - The People's Future of the United States
 - Cathrynne Valente: Space Opera
