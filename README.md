@@ -398,18 +398,18 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Clark P. Djèlí: The Black God's Drums
 - Charles Stross: The Labyrinth Index
 - Lois McMaster Bujold: Knife Children
+- Randall Hyde: Write Great Code, Volume 1: Understanding the Machine
 
 ## Next
 - Engineering a Safer World
 - The People's Future of the United States
 - Cathrynne Valente: Space Opera
-- Randall Hyde: Write Great Code, Volume 1: Understanding the Machine
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
-- Celeste Headley: We Need to Talk
 - Elizabeth Bear: Chill
 
 ## Future
 - Alyssa Cole: Let It Shine
+- Celeste Headley: We Need to Talk
 - Gabriel Garcia Marquez: No one writes to the colonel
 - Thea Dorn: Marleni
 - Laszlo Bock: Work Rules!
