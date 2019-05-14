@@ -406,6 +406,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Cathrynne Valente: Space Opera
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Elizabeth Bear: Chill
+- Carmen Maria Machado: Her Body And Other Parties
 
 ## Future
 - Alyssa Cole: Let It Shine
