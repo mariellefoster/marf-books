@@ -399,6 +399,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charles Stross: The Labyrinth Index
 - Lois McMaster Bujold: Knife Children
 - Randall Hyde: Write Great Code, Volume 1: Understanding the Machine
+- Henry Connolly: A Key, an Egg, an Unfortunate Remark
 
 ## Next
 - Engineering a Safer World
@@ -407,7 +408,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Elizabeth Bear: Chill
 - Carmen Maria Machado: Her Body And Other Parties
-- Henry Connolly: A Key, an Egg, an Unfortunate Remark
 
 ## Future
 - Alyssa Cole: Let It Shine
