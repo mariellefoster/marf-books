@@ -42,7 +42,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Lois McMaster Bujold: Knife Children
 - P. Djèlí Clark: The Black God's Drums
 - Brooke Bolander: The Only Harmless Great Thing
-
+- Vina Jie-Min Prasad: A Series of Steaks
 
 
 ## Buoyant and Hilarious
