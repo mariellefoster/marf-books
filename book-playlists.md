@@ -103,3 +103,4 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - N.K. Jemisin: How Long Until Black Future Month
 - Carmen Maria Machado: Her Body And Other Parties
 - David Moore: Not So Stories
+- Naomi Kritzer: Cat Pictures Please and Other Stories
