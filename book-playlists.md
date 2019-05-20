@@ -98,3 +98,5 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Becky Chambers: A Closed and Common Orbit
 - Martha Wells: All Systems Red
+
+## Short Story Collections
