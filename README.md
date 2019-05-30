@@ -404,12 +404,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Bear: Chill
 - Carmen Maria Machado: Her Body And Other Parties
 
-
 ## Next
 - Engineering a Safer World
 - The People's Future of the United States
 - Cathrynne Valente: Space Opera
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
+- Elizabeth Bear: Karen Memory
 
 ## Future
 - Alyssa Cole: Let It Shine
@@ -428,7 +428,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Rebecca Roanhorse: Trail of Lightning
 - Seth Dickinson: The Traitor Baru Cormorant
 - Mary Roach: Gulp
-- Elizabeth Bear: Karen Memory
 - Tomi Adeyemi: Children of Blood and Bone
 - Ken Liu: The Paper Menagerie and Other Stories
 - Invisible Man, Got the Whole World Watching
