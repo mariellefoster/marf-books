@@ -413,6 +413,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Bear: Karen Memory
 - Rebecca Roanhorse: Trail of Lightning
 - Sarah Gailey: River of Teeth
+- Sarah Gailey: Taste of Marrow
 
 ## Future
 - Alyssa Cole: Let It Shine
