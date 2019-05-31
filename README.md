@@ -403,6 +403,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Henry Connolly: A Key, an Egg, an Unfortunate Remark
 - Elizabeth Bear: Chill
 - Carmen Maria Machado: Her Body And Other Parties
+-
 
 ## Next
 - Engineering a Safer World
@@ -410,6 +411,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Cathrynne Valente: Space Opera
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Elizabeth Bear: Karen Memory
+- Rebecca Roanhorse: Trail of Lightning
 
 ## Future
 - Alyssa Cole: Let It Shine
@@ -425,7 +427,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Devil Lies in the Detail
 - Caitlín R. Kiernan: Black Helicopters
 - Roxane Gay: Not That Bad
-- Rebecca Roanhorse: Trail of Lightning
 - Seth Dickinson: The Traitor Baru Cormorant
 - Mary Roach: Gulp
 - Tomi Adeyemi: Children of Blood and Bone
