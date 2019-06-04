@@ -408,6 +408,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 29 YTD)
 - Engineering a Safer World
 - Sarah Gailey: River of Teeth
+- Sarah Gailey: Taste of Marrow
 
 ## Next
 - The People's Future of the United States
@@ -415,7 +416,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Elizabeth Bear: Karen Memory
 - Rebecca Roanhorse: Trail of Lightning
-- Sarah Gailey: Taste of Marrow
 
 ## Future
 - Alyssa Cole: Let It Shine
