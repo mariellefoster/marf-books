@@ -406,9 +406,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## June '19
 (0 this month, 27 YTD)
+- Engineering a Safer World
 
 ## Next
-- Engineering a Safer World
 - The People's Future of the United States
 - Cathrynne Valente: Space Opera
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
