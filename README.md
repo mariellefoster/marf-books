@@ -405,7 +405,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Carmen Maria Machado: Her Body And Other Parties
 
 ## June '19
-(3 this month, 30 YTD)
+(4 this month, 31 YTD)
 - Engineering a Safer World
 - Sarah Gailey: River of Teeth
 - Sarah Gailey: Taste of Marrow
