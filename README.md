@@ -410,6 +410,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Gailey: River of Teeth
 - Sarah Gailey: Taste of Marrow
 - Emily Carroll: Through The Woods
+- Margaret Killjoy: The Lamb Will Slaughter The Lion
 
 ## Next
 - The People's Future of the United States
