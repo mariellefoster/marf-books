@@ -411,13 +411,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Gailey: Taste of Marrow
 - Emily Carroll: Through The Woods
 - Margaret Killjoy: The Lamb Will Slaughter The Lion
+- Rebecca Roanhorse: Trail of Lightning
 
 ## Next
 - The People's Future of the United States
 - Cathrynne Valente: Space Opera
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Elizabeth Bear: Karen Memory
-- Rebecca Roanhorse: Trail of Lightning
 - China Miéville: The Scar
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
