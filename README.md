@@ -26,6 +26,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherynne Valente: The Refrigerator Monologues
 - Matthew Walker: Why We Sleep
 - Henry Connolly: A Key, an Egg, an Unfortunate Remark
+- Rebecca Roanhorse: Trail of Lightning
 
 # 2016
 
