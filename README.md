@@ -422,6 +422,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - China Miéville: The Scar
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
+- Mary Roach: Packing for Mars
 
 ## Future
 - Annalee Newitz: Autonomous
