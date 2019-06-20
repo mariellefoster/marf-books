@@ -7,6 +7,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Shards of Honor
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Becky Chambers: Record of a Spaceborn Few
+- Henry Connolly: A Key, an Egg, an Unfortunate Remark
 - Max Gladstone: Three Parts Dead
 - Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
 - N. K. Jemisin: A Hundred Thousand Kingdoms
@@ -16,6 +17,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Ancillary Mercy
 - Nnedi Okorafor: Binti: Home
 - Nnedi Okorafor: Binti
+- Rebecca Roanhorse: Trail of Lightning
 - Marshall Rosenberg: Non-Violent Communication
 - Matt Ruff: Lovecraft Country
 - Matt Ruff: Set This House in Order
@@ -25,8 +27,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Artificial Condition
 - Catherynne Valente: The Refrigerator Monologues
 - Matthew Walker: Why We Sleep
-- Henry Connolly: A Key, an Egg, an Unfortunate Remark
-- Rebecca Roanhorse: Trail of Lightning
 
 # 2016
 
