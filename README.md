@@ -413,6 +413,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Margaret Killjoy: The Lamb Will Slaughter The Lion
 - Rebecca Roanhorse: Trail of Lightning
 - Randall Hyde: Write Great Code, Volume 1: Understanding the Machine
+- Kai Ashante Wilson: A Taste of Honey
 - Cathrynne Valente: Space Opera
 
 ## Next
