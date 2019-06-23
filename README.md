@@ -415,9 +415,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Randall Hyde: Write Great Code, Volume 1: Understanding the Machine
 - Kai Ashante Wilson: A Taste of Honey
 - Cathrynne Valente: Space Opera
+- Rebecca Roanhorse: Trail of Locusts
 
 ## Next
-- Rebecca Roanhorse: Trail of Locusts
 - The People's Future of the United States
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Elizabeth Bear: Karen Memory
