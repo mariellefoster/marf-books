@@ -417,6 +417,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Cathrynne Valente: Space Opera
 - Rebecca Roanhorse: Trail of Locusts
 - Tade Thompson: The Murders Of Molly Southbourne
+- Atul Gawande: Checklist Manifesto
 
 ## Next
 - Naomi Novik: Spinning Silver
