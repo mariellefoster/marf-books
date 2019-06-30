@@ -419,6 +419,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tade Thompson: The Murders Of Molly Southbourne
 - Atul Gawande: Checklist Manifesto
 
+## July '19
+
 ## Next
 - Naomi Novik: Spinning Silver
 - Kate Griffen: A Madness of Angels
