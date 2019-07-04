@@ -421,9 +421,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## July '19
 (0 this month, 38 YTD)
+- Naomi Novik: Spinning Silver
 
 ## Next
-- Naomi Novik: Spinning Silver
 - Kate Griffen: A Madness of Angels
 - The People's Future of the United States
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
