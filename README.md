@@ -436,6 +436,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - Mary Roach: Packing for Mars
 - Lois McMaster Bujold: Shards of Honor
+- Arkady Martine: A Memory Called Empire
 
 ## Future
 - Annalee Newitz: Autonomous
