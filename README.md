@@ -427,17 +427,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Narcissistic Family
 
 ## Next
-- Kate Griffen: A Madness of Angels
-- The People's Future of the United States
-- Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
-- Elizabeth Bear: Karen Memory
-- Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
-- Kage Baker: The Women of Nell Gwynne's
 - Lois McMaster Bujold: Shards of Honor
 - Arkady Martine: A Memory Called Empire
 - Charlaine Harris: Dead Until Dark
 - Sarah Gailey: Magic for Liars
+- Kate Griffen: A Madness of Angels
+- The People's Future of the United States
+- Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Keith Cooper & Linda Torczon: Engineering A Compiler
+- Elizabeth Bear: Karen Memory
+- Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
+- Kage Baker: The Women of Nell Gwynne's
 
 ## Future
 - China Miéville: The Scar
