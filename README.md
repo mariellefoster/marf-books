@@ -426,6 +426,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Novik: Spinning Silver
 - Tom Siddell: Gunnerkrigg Court, Post-Synthesis Vol
 - The Narcissistic Family
+- Charlaine Harris: Dead After Dark
 
 ## Next
 - Lois McMaster Bujold: Shards of Honor
