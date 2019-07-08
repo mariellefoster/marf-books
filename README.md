@@ -421,7 +421,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Atul Gawande: Checklist Manifesto
 
 ## July '19
-(4 this month, 42 YTD)
+(5 this month, 43 YTD)
 - Suzanne Palmer: The Secret Life of Bots
 - Naomi Novik: Spinning Silver
 - Tom Siddell: Gunnerkrigg Court, Post-Synthesis Vol
