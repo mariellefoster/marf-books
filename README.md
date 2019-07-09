@@ -427,6 +427,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tom Siddell: Gunnerkrigg Court, Post-Synthesis Vol
 - The Narcissistic Family
 - Charlaine Harris: Dead After Dark
+- Arkady Martine: A Memory Called Empire
 
 ## Next
 - Lois McMaster Bujold: Shards of Honor
@@ -442,7 +443,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - Charlaine Harris: Living Dead in Dallas
 - Charlaine Harris: Club Dead
-- Arkady Martine: A Memory Called Empire
 
 ## Future
 - China Miéville: The Scar
