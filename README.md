@@ -440,6 +440,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Bear: Karen Memory
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
+- Charlaine Harris: Living Dead in Dallas
+- Charlaine Harris: Club Dead
+- Arkady Martine: A Memory Called Empire
 
 ## Future
 - China Miéville: The Scar
