@@ -443,6 +443,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - Charlaine Harris: Living Dead in Dallas
 - Charlaine Harris: Club Dead
+- Steve Klabnik, Carol Nichols: The Rust Programming Language
 
 ## Future
 - China Miéville: The Scar
