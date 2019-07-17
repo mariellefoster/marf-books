@@ -433,7 +433,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Shards of Honor
 - Arkady Martine: A Memory Called Empire
 - Charlaine Harris: Dead Until Dark
-- Kate Griffen: A Madness of Angels
 - The People's Future of the United States
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Keith Cooper & Linda Torczon: Engineering A Compiler
@@ -449,3 +448,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Annalee Newitz: Autonomous
 - Fonda Lee: Jade City
 - Mary Roach: Packing for Mars
+- Kate Griffen: A Madness of Angels
