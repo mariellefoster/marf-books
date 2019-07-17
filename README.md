@@ -427,13 +427,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tom Siddell: Gunnerkrigg Court, Post-Synthesis Vol
 - The Narcissistic Family
 - Charlaine Harris: Dead After Dark
-- Arkady Martine: A Memory Called Empire
+- Sarah Gailey: Magic for Liars
 
 ## Next
 - Lois McMaster Bujold: Shards of Honor
 - Arkady Martine: A Memory Called Empire
 - Charlaine Harris: Dead Until Dark
-- Sarah Gailey: Magic for Liars
 - Kate Griffen: A Madness of Angels
 - The People's Future of the United States
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
