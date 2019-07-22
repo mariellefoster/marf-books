@@ -431,15 +431,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charlaine Harris: Living Dead in Dallas
 
 ## Next
-- Lois McMaster Bujold: Shards of Honor
+- Charlaine Harris: Club Dead
 - Arkady Martine: A Memory Called Empire
+- The Library
+- Pia Mellody: Facing Codependency
+- Lois McMaster Bujold: Shards of Honor
 - The People's Future of the United States
-- Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
-- Keith Cooper & Linda Torczon: Engineering A Compiler
 - Elizabeth Bear: Karen Memory
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
-- Charlaine Harris: Club Dead
+- Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
+- Keith Cooper & Linda Torczon: Engineering A Compiler
 - Steve Klabnik, Carol Nichols: The Rust Programming Language
 
 ## Future
