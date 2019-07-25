@@ -429,6 +429,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charlaine Harris: Dead After Dark
 - Sarah Gailey: Magic for Liars
 - Charlaine Harris: Living Dead in Dallas
+- Kelly Robson: God, Monsters, and the Lucky Peach
 
 ## Next
 - Charlaine Harris: Club Dead
