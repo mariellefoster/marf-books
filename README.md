@@ -445,6 +445,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Keith Cooper & Linda Torczon: Engineering A Compiler
 - Steve Klabnik, Carol Nichols: The Rust Programming Language
 - Caroline Criado Perez: Invisible Women
+- Amal El Mohtar, Max Gladstone: This Is How You Lose The Time War
 
 ## Future
 - China Miéville: The Scar
