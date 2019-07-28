@@ -431,9 +431,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charlaine Harris: Living Dead in Dallas
 - Kelly Robson: God, Monsters, and the Lucky Peach
 - Charlaine Harris: Club Dead
+- Arkady Martine: A Memory Called Empire
 
 ## Next
-- Arkady Martine: A Memory Called Empire
 - The Library
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
