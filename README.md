@@ -441,8 +441,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Bear: Karen Memory
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
-- Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
-- Keith Cooper & Linda Torczon: Engineering A Compiler
 - Caroline Criado Perez: Invisible Women
 - Amal El Mohtar, Max Gladstone: This Is How You Lose The Time War
 - The People's Future of the United States
@@ -453,3 +451,5 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Fonda Lee: Jade City
 - Mary Roach: Packing for Mars
 - Kate Griffen: A Madness of Angels
+- Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
+- Keith Cooper & Linda Torczon: Engineering A Compiler
