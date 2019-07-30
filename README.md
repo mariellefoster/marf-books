@@ -421,7 +421,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Atul Gawande: Checklist Manifesto
 
 ## July '19
-(10 this month, 48 YTD)
+(11 this month, 49 YTD)
 - Suzanne Palmer: The Secret Life of Bots
 - Naomi Novik: Spinning Silver
 - Tom Siddell: Gunnerkrigg Court, Post-Synthesis Vol
@@ -432,20 +432,20 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kelly Robson: God, Monsters, and the Lucky Peach
 - Charlaine Harris: Club Dead
 - Arkady Martine: A Memory Called Empire
+- Steve Klabnik, Carol Nichols: The Rust Programming Language
 
 ## Next
 - The Library
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
-- The People's Future of the United States
 - Elizabeth Bear: Karen Memory
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Keith Cooper & Linda Torczon: Engineering A Compiler
-- Steve Klabnik, Carol Nichols: The Rust Programming Language
 - Caroline Criado Perez: Invisible Women
 - Amal El Mohtar, Max Gladstone: This Is How You Lose The Time War
+- The People's Future of the United States
 
 ## Future
 - China Miéville: The Scar
