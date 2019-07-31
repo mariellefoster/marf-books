@@ -435,7 +435,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Steve Klabnik, Carol Nichols: The Rust Programming Language
 
 ## Next
-- The Library
+- Susan Orlean: The Library Book
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
 - Elizabeth Bear: Karen Memory
