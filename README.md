@@ -432,6 +432,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kelly Robson: God, Monsters, and the Lucky Peach
 - Charlaine Harris: Club Dead
 - Arkady Martine: A Memory Called Empire
+
+## August '19
+(0 this month, 49 YTD)
 - Steve Klabnik, Carol Nichols: The Rust Programming Language
 
 ## Next
