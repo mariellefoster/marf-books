@@ -421,7 +421,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Atul Gawande: Checklist Manifesto
 
 ## July '19
-(11 this month, 49 YTD)
+(10 this month, 49 YTD)
 - Suzanne Palmer: The Secret Life of Bots
 - Naomi Novik: Spinning Silver
 - Tom Siddell: Gunnerkrigg Court, Post-Synthesis Vol
@@ -434,7 +434,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Arkady Martine: A Memory Called Empire
 
 ## August '19
-(0 this month, 49 YTD)
+(1 this month, 49 YTD)
 - Steve Klabnik, Carol Nichols: The Rust Programming Language
 
 ## Next
