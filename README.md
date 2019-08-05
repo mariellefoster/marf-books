@@ -450,6 +450,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ben Horowitz: The Hard Thing About Hard Things
 - Sheldon Solomon: The Worm at the Core
 - Sofia Samatar: Monster Portraits
+- John W. Diers: Twin Cities by Trolley
 
 ## Future
 - China Miéville: The Scar
