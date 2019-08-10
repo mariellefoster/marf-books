@@ -437,6 +437,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 50 YTD)
 - Steve Klabnik, Carol Nichols: The Rust Programming Language
 - Amal El Mohtar, Max Gladstone: This Is How You Lose The Time War
+- Ben Horowitz: The Hard Thing About Hard Things
 
 ## Next
 - Susan Orlean: The Library Book
@@ -447,7 +448,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - Caroline Criado Perez: Invisible Women
 - The People's Future of the United States
-- Ben Horowitz: The Hard Thing About Hard Things
 - Sheldon Solomon: The Worm at the Core
 - Sofia Samatar: Monster Portraits
 - John W. Diers: Twin Cities by Trolley
