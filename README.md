@@ -434,7 +434,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Arkady Martine: A Memory Called Empire
 
 ## August '19
-(3 this month, 51 YTD)
+(4 this month, 52 YTD)
 - Steve Klabnik, Carol Nichols: The Rust Programming Language
 - Amal El Mohtar, Max Gladstone: This Is How You Lose The Time War
 - Ben Horowitz: The Hard Thing About Hard Things
