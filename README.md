@@ -440,6 +440,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Amal El Mohtar, Max Gladstone: This Is How You Lose The Time War
 - Ben Horowitz: The Hard Thing About Hard Things
 - Samin Nosrat: Salt, Fat, Acid, Heat
+- Caroline Criado Perez: Invisible Women
+
 
 ## Next
 - Susan Orlean: The Library Book
@@ -448,7 +450,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Bear: Karen Memory
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
-- Caroline Criado Perez: Invisible Women
 - The People's Future of the United States
 - Sheldon Solomon: The Worm at the Core
 - Sofia Samatar: Monster Portraits
