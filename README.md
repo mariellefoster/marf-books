@@ -455,11 +455,14 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sofia Samatar: Monster Portraits
 - John W. Diers: Twin Cities by Trolley
 - Rowenna Miller: Fray
+- Chris McChesney: The 4 Disciplines of Execution
+- Fonda Lee: Jade City
+- Amy Rose Capetta: Once & Future
+- Sabaa Tahir: An Ember in the Ashes
 
 ## Future
 - China Miéville: The Scar
 - Annalee Newitz: Autonomous
-- Fonda Lee: Jade City
 - Mary Roach: Packing for Mars
 - Kate Griffen: A Madness of Angels
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
