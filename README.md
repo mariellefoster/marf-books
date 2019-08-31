@@ -441,7 +441,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ben Horowitz: The Hard Thing About Hard Things
 - Samin Nosrat: Salt, Fat, Acid, Heat
 - Caroline Criado Perez: Invisible Women
-
+- Rowenna Miller: Fray
 
 ## Next
 - Susan Orlean: The Library Book
@@ -454,7 +454,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sheldon Solomon: The Worm at the Core
 - Sofia Samatar: Monster Portraits
 - John W. Diers: Twin Cities by Trolley
-- Rowenna Miller: Fray
 - Chris McChesney: The 4 Disciplines of Execution
 - Fonda Lee: Jade City
 - Amy Rose Capetta: Once & Future
