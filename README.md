@@ -444,6 +444,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Rowenna Miller: Fray
 
 ## September '19
+- Julia Cameron: The Artist's Way
 
 ## Next
 - Susan Orlean: The Library Book
