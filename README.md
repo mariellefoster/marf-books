@@ -446,6 +446,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## September '19
 (1 this month, 55 YTD)
 - Julia Cameron: The Artist's Way
+- Amy Rose Capetta: Once & Future
 
 ## Next
 - Susan Orlean: The Library Book
@@ -460,7 +461,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - John W. Diers: Twin Cities by Trolley
 - Chris McChesney: The 4 Disciplines of Execution
 - Fonda Lee: Jade City
-- Amy Rose Capetta: Once & Future
 - Sabaa Tahir: An Ember in the Ashes
 
 ## Future
