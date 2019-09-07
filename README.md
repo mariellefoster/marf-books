@@ -447,6 +447,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 56 YTD)
 - Julia Cameron: The Artist's Way
 - Amy Rose Capetta: Once & Future
+- Sofia Samatar: Monster Portraits
 
 ## Next
 - Susan Orlean: The Library Book
@@ -457,7 +458,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
 - Sheldon Solomon: The Worm at the Core
-- Sofia Samatar: Monster Portraits
 - John W. Diers: Twin Cities by Trolley
 - Chris McChesney: The 4 Disciplines of Execution
 - Fonda Lee: Jade City
