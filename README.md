@@ -448,6 +448,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Julia Cameron: The Artist's Way
 - Amy Rose Capetta: Once & Future
 - Sofia Samatar: Monster Portraits
+- Fonda Lee: Jade City
 
 ## Next
 - Susan Orlean: The Library Book
@@ -460,7 +461,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sheldon Solomon: The Worm at the Core
 - John W. Diers: Twin Cities by Trolley
 - Chris McChesney: The 4 Disciplines of Execution
-- Fonda Lee: Jade City
 - Sabaa Tahir: An Ember in the Ashes
 
 ## Future
