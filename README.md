@@ -449,6 +449,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Amy Rose Capetta: Once & Future
 - Sofia Samatar: Monster Portraits
 - Fonda Lee: Jade City
+- The Curated Closet
 
 ## Next
 - Susan Orlean: The Library Book
@@ -464,7 +465,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sabaa Tahir: An Ember in the Ashes
 - Ten Types of Innovation
 - The Art of Gathering: How We Meet and Why It Matters
-- The Curated Closet
 - The Orphans of Raspay
 
 ## Future
