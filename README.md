@@ -449,7 +449,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Amy Rose Capetta: Once & Future
 - Sofia Samatar: Monster Portraits
 - Fonda Lee: Jade City
-- The Curated Closet
+- Anuschka Rees: The Curated Closet
 
 ## Next
 - Susan Orlean: The Library Book
