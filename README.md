@@ -468,9 +468,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sheldon Solomon: The Worm at the Core
 - John W. Diers: Twin Cities by Trolley
 - Chris McChesney: The 4 Disciplines of Execution
-- Sabaa Tahir: An Ember in the Ashes
 - The Art of Gathering: How We Meet and Why It Matters
-- The Orphans of Raspay
 
 ## Future
 - China Miéville: The Scar
@@ -479,3 +477,4 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kate Griffen: A Madness of Angels
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
 - Keith Cooper & Linda Torczon: Engineering A Compiler
+- Sabaa Tahir: An Ember in the Ashes
