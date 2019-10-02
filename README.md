@@ -451,6 +451,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Fonda Lee: Jade City
 - Anuschka Rees: The Curated Closet
 - Lois McMaster Bujold: The Orphans of Raspay
+- Becky Chambers: To Be Taught If Fortunate
 
 ## October '19
 
