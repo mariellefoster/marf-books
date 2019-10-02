@@ -454,6 +454,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: To Be Taught If Fortunate
 
 ## October '19
+- Multiple authors: Ten Types of Innovation
 
 ## Next
 - Susan Orlean: The Library Book
@@ -467,7 +468,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - John W. Diers: Twin Cities by Trolley
 - Chris McChesney: The 4 Disciplines of Execution
 - Sabaa Tahir: An Ember in the Ashes
-- Ten Types of Innovation
 - The Art of Gathering: How We Meet and Why It Matters
 - The Orphans of Raspay
 
