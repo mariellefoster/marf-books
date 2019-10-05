@@ -456,6 +456,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## October '19
 (1 this month, 62 YTD)
 - Multiple authors: Ten Types of Innovation
+- Sheldon Solomon et al.: The Worm at the Core
 
 ## Next
 - Susan Orlean: The Library Book
@@ -465,7 +466,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
-- Sheldon Solomon: The Worm at the Core
 - John W. Diers: Twin Cities by Trolley
 - Chris McChesney: The 4 Disciplines of Execution
 - The Art of Gathering: How We Meet and Why It Matters
