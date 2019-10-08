@@ -457,6 +457,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 63 YTD)
 - Multiple authors: Ten Types of Innovation
 - Sheldon Solomon et al.: The Worm at the Core
+- Chris McChesney: The 4 Disciplines of Execution
 
 ## Next
 - Susan Orlean: The Library Book
@@ -467,7 +468,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
 - John W. Diers: Twin Cities by Trolley
-- Chris McChesney: The 4 Disciplines of Execution
 - The Art of Gathering: How We Meet and Why It Matters
 
 ## Future
