@@ -459,6 +459,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sheldon Solomon et al.: The Worm at the Core
 - Chris McChesney: The 4 Disciplines of Execution
 - Renee Gladman: Event Factory
+- Yoon Ha Lee: Ninefox Gambit
 
 ## Next
 - Susan Orlean: The Library Book
