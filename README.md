@@ -461,6 +461,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Renee Gladman: Event Factory
 - Yoon Ha Lee: Ninefox Gambit
 - Anuschka Rees: The Curated Closet
+- Ann Leckie: The Raven Tower
 
 ## Next
 - Susan Orlean: The Library Book
