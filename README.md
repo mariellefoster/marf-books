@@ -464,9 +464,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: The Raven Tower
 - Ivan Brunetti: Cartooning
 - Naomi Ito: The Nani Iro Sewing Studio
+- R. F. Kuang: The Poppy War
 
 ## Next
-- R. F. Kuang: The Poppy War
 - Susan Orlean: The Library Book
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
