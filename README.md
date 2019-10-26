@@ -463,6 +463,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Anuschka Rees: The Curated Closet
 - Ann Leckie: The Raven Tower
 - Ivan Brunetti: Cartooning
+- Naomi Ito: The Nani Iro Sewing Studio
 
 ## Next
 - R. F. Kuang: The Poppy War
