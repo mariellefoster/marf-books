@@ -466,6 +466,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Ito: The Nani Iro Sewing Studio
 - R. F. Kuang: The Poppy War
 - Brian K. Vaughan: Paper Girls Vol 1
+- Brian K. Vaughan: Paper Girls Vol 2
 
 ## Next
 - Susan Orlean: The Library Book
