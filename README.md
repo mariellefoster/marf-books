@@ -469,6 +469,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Brian K. Vaughan: Paper Girls Vol 2
 - J. Y. Yang: The Ascent to Godhood
 
+## November '19
+
 ## Next
 - Brian K. Vaughan: Paper Girls Vol 3
 - C. E. S. Cooney: Desdemona and the Deep
