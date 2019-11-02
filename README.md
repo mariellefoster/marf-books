@@ -470,6 +470,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - J. Y. Yang: The Ascent to Godhood
 
 ## November '19
+(0 this month, 74 YTD)
 
 ## Next
 - Brian K. Vaughan: Paper Girls Vol 3
