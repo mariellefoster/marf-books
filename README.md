@@ -467,11 +467,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - R. F. Kuang: The Poppy War
 - Brian K. Vaughan: Paper Girls Vol 1
 - Brian K. Vaughan: Paper Girls Vol 2
+- J. Y. Yang: The Ascent to Godhood
 
 ## Next
 - Brian K. Vaughan: Paper Girls Vol 3
 - C. E. S. Cooney: Desdemona and the Deep
-- J. Y. Yang: The Ascent to Godhood
 - Max Gladstone: Bookburners
 - Susan Orlean: The Library Book
 - Pia Mellody: Facing Codependency
