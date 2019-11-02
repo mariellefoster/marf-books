@@ -454,7 +454,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: To Be Taught If Fortunate
 
 ## October '19
-(12 this month, 73 YTD)
+(13 this month, 74 YTD)
 - Multiple authors: Ten Types of Innovation
 - Sheldon Solomon et al.: The Worm at the Core
 - Chris McChesney: The 4 Disciplines of Execution
