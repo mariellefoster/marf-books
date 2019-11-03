@@ -471,6 +471,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## November '19
 (0 this month, 74 YTD)
+- Priya Parker: The Art of Gathering
 
 ## Next
 - Brian K. Vaughan: Paper Girls Vol 3
@@ -484,7 +485,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
 - John W. Diers: Twin Cities by Trolley
-- The Art of Gathering: How We Meet and Why It Matters
 
 ## Future
 - China Miéville: The Scar
