@@ -470,7 +470,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - J. Y. Yang: The Ascent to Godhood
 
 ## November '19
-(3 this month, 77 YTD)
+(4 this month, 78 YTD)
 - Priya Parker: The Art of Gathering
 - Brian K. Vaughan: Paper Girls Vol 3
 - Brian K. Vaughan: Paper Girls Vol 4
