@@ -473,6 +473,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (4 this month, 76 YTD)
 - Priya Parker: The Art of Gathering
 - Brian K. Vaughan: Paper Girls Vol 3
+- Brian K. Vaughan: Paper Girls Vol 4
+
 
 ## Next
 - Brian K. Vaughan: Paper Girls Vol 4
