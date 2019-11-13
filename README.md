@@ -476,6 +476,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Brian K. Vaughan: Paper Girls Vol 4
 - Brian K. Vaughan: Paper Girls Vol 5
 - Fonda Lee: Jade War
+- Siobhan Carroll: For He Can Creep
 
 ## Next
 - C. E. S. Cooney: Desdemona and the Deep
