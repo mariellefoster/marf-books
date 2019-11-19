@@ -478,6 +478,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Siobhan Carroll: For He Can Creep
 - C. E. S. Cooney: Desdemona and the Deep
 - Multiple authors: Ten Types of Innovation
+- Naomi Kritzer: The Thing About Ghost Stories
 
 ## Next
 - Max Gladstone: Bookburners
