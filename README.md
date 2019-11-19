@@ -454,8 +454,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: To Be Taught If Fortunate
 
 ## October '19
-(13 this month, 74 YTD)
-- Multiple authors: Ten Types of Innovation
+(12 this month, 73 YTD)
 - Sheldon Solomon et al.: The Worm at the Core
 - Chris McChesney: The 4 Disciplines of Execution
 - Renee Gladman: Event Factory
@@ -470,7 +469,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - J. Y. Yang: The Ascent to Godhood
 
 ## November '19
-(7 this month, 81 YTD)
+(8 this month, 82 YTD)
 - Priya Parker: The Art of Gathering
 - Brian K. Vaughan: Paper Girls Vol 3
 - Brian K. Vaughan: Paper Girls Vol 4
@@ -478,6 +477,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Fonda Lee: Jade War
 - Siobhan Carroll: For He Can Creep
 - C. E. S. Cooney: Desdemona and the Deep
+- Multiple authors: Ten Types of Innovation
 
 ## Next
 - Max Gladstone: Bookburners
