@@ -479,6 +479,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - C. E. S. Cooney: Desdemona and the Deep
 - Multiple authors: Ten Types of Innovation
 - Naomi Kritzer: The Thing About Ghost Stories
+- Naomi Alderman: Disobedience
 
 ## Next
 - Max Gladstone: Bookburners
