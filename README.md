@@ -483,9 +483,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Brian K. Vaughan: Paper Girls Vol 6
 - Max Gladstone: Bookburners, Episodes 1-4
 - Max Gladstone: Bookburners, Episodes 5-8
+- Max Gladstone: Bookburners, Episodes 8-12
 
 ## Next
-- Max Gladstone: Bookburners, Episodes 8-12
 - Max Gladstone: Bookburners, Episodes 13-16
 - Susan Orlean: The Library Book
 - Pia Mellody: Facing Codependency
