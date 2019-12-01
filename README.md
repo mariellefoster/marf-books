@@ -489,6 +489,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lundy Bancroft: Why Does He Do That? Inside the Minds of Angry and Controlling Men
 - Vylar Kaftan: Her Silhouette, Drawn In Water
 - Nisi Shawl: Everfair
+- Aliette de Bodard: The Tea Master and the Detective
 
 ## Next
 - Susan Orlean: The Library Book
