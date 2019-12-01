@@ -493,6 +493,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## December '19
 (0 this month, 94 YTD)
+- Rene Redzepi, David Miller: Noma Guide to Fermentation
 
 ## Next
 - Susan Orlean: The Library Book
