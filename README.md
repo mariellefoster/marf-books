@@ -491,6 +491,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nisi Shawl: Everfair
 - Aliette de Bodard: The Tea Master and the Detective
 
+## December '19
+(0 this month, 94 YTD)
+
 ## Next
 - Susan Orlean: The Library Book
 - Pia Mellody: Facing Codependency
