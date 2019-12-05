@@ -35,3 +35,9 @@
 - Lin Manuel Miranda: Hamilton, the screenplay
 - Marjane Satrapi: Persopolis
 - N. K. Jemisin: The Shadowed Sun
+- China Miéville: The Scar
+- Annalee Newitz: Autonomous
+- Mary Roach: Packing for Mars
+- Kate Griffen: A Madness of Angels
+- Sabaa Tahir: An Ember in the Ashes
+- John W. Diers: Twin Cities by Trolley
