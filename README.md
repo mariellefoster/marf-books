@@ -497,6 +497,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ruthanna Emrys: Winter Tide
 - Ivan Brunetti: Cartooning
 - Priya Sharma: Ormeshadow
+- Max Gladstone: Empress of Forever
 
 ## Next
 - Susan Orlean: The Library Book
