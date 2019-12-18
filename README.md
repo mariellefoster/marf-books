@@ -499,6 +499,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ivan Brunetti: Cartooning
 - Priya Sharma: Ormeshadow
 - Max Gladstone: Empress of Forever
+- Saad Z. Hossain: The Gurkha and the Lord of Tuesday
 
 ## Next
 - Susan Orlean: The Library Book
