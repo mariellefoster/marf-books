@@ -500,10 +500,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Priya Sharma: Ormeshadow
 - Max Gladstone: Empress of Forever
 - Saad Z. Hossain: The Gurkha and the Lord of Tuesday
+- Kerstin Hall: The Border Keeper
 
 ## Next
 - Emily Tesh: Silver in the Wood
-- Kerstin Hall: The Border Keeper
 - Jason Lutes: Berlin
 - Susan Orlean: The Library Book
 - Pia Mellody: Facing Codependency
