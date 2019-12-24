@@ -502,6 +502,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Saad Z. Hossain: The Gurkha and the Lord of Tuesday
 - Kerstin Hall: The Border Keeper
 - Jason Lutes: Berlin
+- Naomi Kritzer: Catfishing on Catnet
 
 ## Next
 - Emily Tesh: Silver in the Wood
