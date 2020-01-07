@@ -508,6 +508,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lina Rather: Sisters of the Vast Black
 - Susan Orlean: The Library Book
 
+## January '20
+
 ## Next
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
