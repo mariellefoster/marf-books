@@ -43,6 +43,12 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - P. Djèlí Clark: The Black God's Drums
 - Brooke Bolander: The Only Harmless Great Thing
 - Vina Jie-Min Prasad: A Series of Steaks
+- Emily Tesh: Silver in the Wood
+- Lina Rather: Sisters of the Vast Black
+- Priya Sharma: Ormeshadow
+- Saad Z. Hossain: The Gurkha and the Lord of Tuesday
+- Kerstin Hall: The Border Keeper
+- Aliette de Bodard: The Tea Master and the Detective
 
 
 ## Buoyant and Hilarious
@@ -98,6 +104,7 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Becky Chambers: A Closed and Common Orbit
 - Martha Wells: All Systems Red
+- Max Gladstone: Empress of Forever
 
 ## Short Story Collections
 - N.K. Jemisin: How Long Until Black Future Month
