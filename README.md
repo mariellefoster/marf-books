@@ -503,9 +503,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kerstin Hall: The Border Keeper
 - Jason Lutes: Berlin
 - Naomi Kritzer: Catfishing on Catnet
+- Emily Tesh: Silver in the Wood
 
 ## Next
-- Emily Tesh: Silver in the Wood
 - Susan Orlean: The Library Book
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
