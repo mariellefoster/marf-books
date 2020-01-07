@@ -20,6 +20,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Novik: Spinning Silver
 - Nnedi Okorafor: Binti: Home
 - Nnedi Okorafor: Binti
+- Lina Rather: Sisters of the Vast Black
 - Rebecca Roanhorse: Trail of Lightning
 - Marshall Rosenberg: Non-Violent Communication
 - Matt Ruff: Lovecraft Country
@@ -505,9 +506,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Kritzer: Catfishing on Catnet
 - Emily Tesh: Silver in the Wood
 - Lina Rather: Sisters of the Vast Black
+- Susan Orlean: The Library Book
 
 ## Next
-- Susan Orlean: The Library Book
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
 - Elizabeth Bear: Karen Memory
