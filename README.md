@@ -511,6 +511,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## January '20
 (1 this month, 1 YTD)
 - Keith Cooper & Linda Torczon: Engineering A Compiler
+- Charlie English: The Book Smugglers of Timbuktu
 
 ## Next
 - Pia Mellody: Facing Codependency
