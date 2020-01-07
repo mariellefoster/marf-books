@@ -493,7 +493,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aliette de Bodard: The Tea Master and the Detective
 
 ## December '19
-(9 this month, 103 YTD)
+(10 this month, 104 YTD)
 - Rene Redzepi, David Zilber: Noma Guide to Fermentation
 - Ruthanna Emrys: Winter Tide
 - Ivan Brunetti: Cartooning
