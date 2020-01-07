@@ -504,6 +504,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jason Lutes: Berlin
 - Naomi Kritzer: Catfishing on Catnet
 - Emily Tesh: Silver in the Wood
+- Lina Rather: Sisters of the Vast Black
 
 ## Next
 - Susan Orlean: The Library Book
