@@ -521,6 +521,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
+- Core Econ Textbook
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
