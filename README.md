@@ -514,12 +514,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charlie English: The Book Smugglers of Timbuktu
 - Jonathan Safran Foer: Everything is Illuminated
 - David Allen: Getting Things Done
+- Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 
 ## Next
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
 - Elizabeth Bear: Karen Memory
-- Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
 - Core Econ Textbook
