@@ -513,6 +513,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Keith Cooper & Linda Torczon: Engineering A Compiler
 - Charlie English: The Book Smugglers of Timbuktu
 - Jonathan Safran Foer: Everything is Illuminated
+- David Allen: Getting Things Done
 
 ## Next
 - Pia Mellody: Facing Codependency
