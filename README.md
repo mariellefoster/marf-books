@@ -509,7 +509,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Susan Orlean: The Library Book
 
 ## January '20
-(7 this month, 7 YTD)
+(8 this month, 8 YTD)
 - Keith Cooper & Linda Torczon: Engineering A Compiler
 - Charlie English: The Book Smugglers of Timbuktu
 - Jonathan Safran Foer: Everything is Illuminated
