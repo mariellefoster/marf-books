@@ -517,6 +517,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Aliette de Bodard: Lullaby for A Lost World
 - Meg Jay: The Defining Decade
+- Jennifer Giesbrecht: Monster of Elendhaven
+
 
 ## Next
 - Pia Mellody: Facing Codependency
@@ -525,6 +527,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
 - Core Econ Textbook
+- Tamsyn Muir: Gideon the Ninth
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
