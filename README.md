@@ -528,6 +528,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The People's Future of the United States
 - Core Econ Textbook
 - Tamsyn Muir: Gideon the Ninth
+- Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
+- Kameron Hurley: The Light Brigade
+- Becky Chambers: Unter uns die Nacht
+- Becky Chambers: Zwischen zwei Sternen
+- Tomi Adeyemi: Children of Blood and Bone
+- Charlie Jane Anders: The City in the Middle of the Night 
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
