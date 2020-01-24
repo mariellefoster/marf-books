@@ -518,7 +518,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aliette de Bodard: Lullaby for A Lost World
 - Meg Jay: The Defining Decade
 - Jennifer Giesbrecht: Monster of Elendhaven
-
+- Aliette de Bodard: Of Wars, and Memories, and Starlight
 
 ## Next
 - Pia Mellody: Facing Codependency
