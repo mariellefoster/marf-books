@@ -516,6 +516,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - David Allen: Getting Things Done
 - Eugie Foster: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
 - Aliette de Bodard: Lullaby for A Lost World
+- Meg Jay: The Defining Decade
 
 ## Next
 - Pia Mellody: Facing Codependency
