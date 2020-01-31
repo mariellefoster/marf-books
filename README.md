@@ -521,6 +521,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aliette de Bodard: Of Wars, and Memories, and Starlight
 - Tamsyn Muir: Gideon the Ninth
 
+## February '20
+
 ## Next
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
