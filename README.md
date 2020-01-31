@@ -519,6 +519,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Meg Jay: The Defining Decade
 - Jennifer Giesbrecht: Monster of Elendhaven
 - Aliette de Bodard: Of Wars, and Memories, and Starlight
+- Tamsyn Muir: Gideon the Ninth
 
 ## Next
 - Pia Mellody: Facing Codependency
@@ -527,7 +528,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
 - Core Econ Textbook
-- Tamsyn Muir: Gideon the Ninth
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Kameron Hurley: The Light Brigade
 - Becky Chambers: Unter uns die Nacht
