@@ -525,18 +525,20 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 12 YTD)
 - Kameron Hurley: The Light Brigade
 - Becky Chambers: Zwischen zwei Sternen
+- Sarah Rees Brennan: In Other Lands
 
 ## Next
+- Elizabeth Bear: Karen Memory
 - Pia Mellody: Facing Codependency
 - Lois McMaster Bujold: Shards of Honor
-- Elizabeth Bear: Karen Memory
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
 - Core Econ Textbook
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Becky Chambers: Unter uns die Nacht
 - Tomi Adeyemi: Children of Blood and Bone
-- Charlie Jane Anders: The City in the Middle of the Night 
+- Charlie Jane Anders: The City in the Middle of the Night
+- Sonia Purnell: A Woman of No Importance
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
