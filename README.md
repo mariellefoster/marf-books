@@ -522,6 +522,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamsyn Muir: Gideon the Ninth
 
 ## February '20
+(1 this month, 10 YTD)
 - Kameron Hurley: The Light Brigade
 
 ## Next
