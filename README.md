@@ -524,6 +524,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## February '20
 (1 this month, 10 YTD)
 - Kameron Hurley: The Light Brigade
+- Becky Chambers: Zwischen zwei Sternen
 
 ## Next
 - Pia Mellody: Facing Codependency
@@ -534,7 +535,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Core Econ Textbook
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Becky Chambers: Unter uns die Nacht
-- Becky Chambers: Zwischen zwei Sternen
 - Tomi Adeyemi: Children of Blood and Bone
 - Charlie Jane Anders: The City in the Middle of the Night 
 
