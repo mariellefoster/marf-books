@@ -526,6 +526,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kameron Hurley: The Light Brigade
 - Becky Chambers: Zwischen zwei Sternen
 - Sarah Rees Brennan: In Other Lands
+- Elizabeth Greenwood: Playing Dead
 
 ## Next
 - Elizabeth Bear: Karen Memory
