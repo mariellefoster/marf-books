@@ -527,6 +527,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: Zwischen zwei Sternen
 - Sarah Rees Brennan: In Other Lands
 - Elizabeth Greenwood: Playing Dead
+- Core Econ Textbook
 
 ## Next
 - Elizabeth Bear: Karen Memory
@@ -534,7 +535,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Shards of Honor
 - Kage Baker: The Women of Nell Gwynne's
 - The People's Future of the United States
-- Core Econ Textbook
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Becky Chambers: Unter uns die Nacht
 - Tomi Adeyemi: Children of Blood and Bone
