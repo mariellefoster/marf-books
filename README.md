@@ -529,6 +529,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Greenwood: Playing Dead
 - Core Econ Textbook
 - Andy Duncan: Close Encounters
+- Nancy Kress: After the Fall, Before the Fall, During the Fall
 
 ## Next
 - Elizabeth Bear: Karen Memory
