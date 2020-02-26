@@ -528,6 +528,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Rees Brennan: In Other Lands
 - Elizabeth Greenwood: Playing Dead
 - Core Econ Textbook
+- Andy Duncan: Close Encounters
 
 ## Next
 - Elizabeth Bear: Karen Memory
