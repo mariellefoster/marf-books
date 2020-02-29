@@ -530,6 +530,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Core Econ Textbook
 - Andy Duncan: Close Encounters
 - Nancy Kress: After the Fall, Before the Fall, During the Fall
+- Lois McMaster Bujold: Shards of Honor
 
 ## Next
 - Elizabeth Bear: Karen Memory
