@@ -552,6 +552,16 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tomi Adeyemi: Children of Blood and Bone
 - Charlie Jane Anders: The City in the Middle of the Night
 - Sonia Purnell: A Woman of No Importance
+- Catherine Asaro: The Space Time Pool 
+- John Kessel: Pride and Prometheus
+- Nina Kiriki Hoffman: Trophy Wives
+- Carolyn Ives Gilman: The Ice Owl
+- Katherine Sparrow: The Migratory Pattern of Dancers
+- Geoff Ryman: What We Found
+- Ferrett Steinmetz: Sauerkraut Station
+- Brad R. Torgersen: Ray of Light
+- Kij Johnson: The Man Who Bridged the Mist
+
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
