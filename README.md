@@ -534,7 +534,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Barrayar
 
 ## March '20
-(0 this month, 19 YTD)
+(1 this month, 20 YTD)
 - Lois McMaster Bujold: The Warrior's Apprentice
 
 ## Next
