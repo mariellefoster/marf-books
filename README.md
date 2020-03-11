@@ -539,6 +539,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: The Vor Game
 - Kelly Robson: A Human Stain
 - China Miéville: This Census Taker
+- Carolyn Ives Gilman: The Ice Owl
 
 ## Next
 - Rivers Solomon: The Deep
@@ -555,7 +556,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherine Asaro: The Space Time Pool 
 - John Kessel: Pride and Prometheus
 - Nina Kiriki Hoffman: Trophy Wives
-- Carolyn Ives Gilman: The Ice Owl
 - Katherine Sparrow: The Migratory Pattern of Dancers
 - Geoff Ryman: What We Found
 - Ferrett Steinmetz: Sauerkraut Station
