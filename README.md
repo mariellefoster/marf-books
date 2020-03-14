@@ -534,7 +534,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Barrayar
 
 ## March '20
-(6 this month, 25 YTD)
+(7 this month, 26 YTD)
 - Lois McMaster Bujold: The Warrior's Apprentice
 - Lois McMaster Bujold: The Vor Game
 - Kelly Robson: A Human Stain
