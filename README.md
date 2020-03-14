@@ -541,6 +541,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - China Miéville: This Census Taker
 - Carolyn Ives Gilman: The Ice Owl
 - P. Djèlí Clark: The Haunting of Tram Car 015
+- Katherine Sparrow: The Migratory Pattern of Dancers
 
 ## Next
 - Rivers Solomon: The Deep
@@ -557,7 +558,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherine Asaro: The Space Time Pool 
 - John Kessel: Pride and Prometheus
 - Nina Kiriki Hoffman: Trophy Wives
-- Katherine Sparrow: The Migratory Pattern of Dancers
 - Geoff Ryman: What We Found
 - Ferrett Steinmetz: Sauerkraut Station
 - Brad R. Torgersen: Ray of Light
