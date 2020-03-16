@@ -543,6 +543,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - P. Djèlí Clark: The Haunting of Tram Car 015
 - Katherine Sparrow: The Migratory Pattern of Dancers
 - Kij Johnson: The Man Who Bridged the Mist
+- John Kessel: Pride and Prometheus
 
 ## Next
 - Rivers Solomon: The Deep
@@ -557,7 +558,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charlie Jane Anders: The City in the Middle of the Night
 - Sonia Purnell: A Woman of No Importance
 - Catherine Asaro: The Space Time Pool 
-- John Kessel: Pride and Prometheus
 - Nina Kiriki Hoffman: Trophy Wives
 - Geoff Ryman: What We Found
 - Ferrett Steinmetz: Sauerkraut Station
