@@ -542,6 +542,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Carolyn Ives Gilman: The Ice Owl
 - P. Djèlí Clark: The Haunting of Tram Car 015
 - Katherine Sparrow: The Migratory Pattern of Dancers
+- Kij Johnson: The Man Who Bridged the Mist
 
 ## Next
 - Rivers Solomon: The Deep
@@ -561,8 +562,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Geoff Ryman: What We Found
 - Ferrett Steinmetz: Sauerkraut Station
 - Brad R. Torgersen: Ray of Light
-- Kij Johnson: The Man Who Bridged the Mist
-
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
