@@ -545,6 +545,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kij Johnson: The Man Who Bridged the Mist
 - John Kessel: Pride and Prometheus
 - David Graeber: Utopia of Rules
+- Operation Manual F400 Brother Innov-is
 
 ## Next
 - Rivers Solomon: The Deep
