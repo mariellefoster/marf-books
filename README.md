@@ -544,6 +544,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Katherine Sparrow: The Migratory Pattern of Dancers
 - Kij Johnson: The Man Who Bridged the Mist
 - John Kessel: Pride and Prometheus
+- David Graeber: Utopia of Rules
 
 ## Next
 - Rivers Solomon: The Deep
