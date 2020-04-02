@@ -548,6 +548,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Operation Manual F400 Brother Innov-is
 - Jenny Odell: How To Do Nothing
 
+## April '20
+
 ## Next
 - Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
