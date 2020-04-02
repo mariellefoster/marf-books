@@ -549,6 +549,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jenny Odell: How To Do Nothing
 
 ## April '20
+(0 this month, 31 YTD)
 
 ## Next
 - Rivers Solomon: The Deep
