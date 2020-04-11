@@ -553,6 +553,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Best Women's Fiction of the Year, Vol 5
 - Oyinkan Braithwaite: My Sister, the Serial Killer
 - Sarah Gailey: Upright Women Wanted
+- Robert Stevenson: The Strange Case of Dr. Jekyll and Mr. Hyde
 
 ## Next
 - Rivers Solomon: The Deep
