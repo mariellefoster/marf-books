@@ -568,6 +568,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sonia Purnell: A Woman of No Importance
 - Rebecca Solnit: Men Explain Things to Me
 - Laurie J. Marks: Fire Logic
+- Kameron Hurley: The Broken Heavens
+- Herman Melville: Bartleby, the Scrivener
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
