@@ -566,6 +566,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tomi Adeyemi: Children of Blood and Bone
 - Charlie Jane Anders: The City in the Middle of the Night
 - Sonia Purnell: A Woman of No Importance
+- Rebecca Solnit: Men Explain Things to Me
+- Laurie J. Marks: Fire Logic
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
