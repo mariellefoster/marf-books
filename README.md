@@ -554,6 +554,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Oyinkan Braithwaite: My Sister, the Serial Killer
 - Sarah Gailey: Upright Women Wanted
 - Robert Stevenson: The Strange Case of Dr. Jekyll and Mr. Hyde
+- Terry Pratchett: Guards! Guards!
 
 ## Next
 - Rivers Solomon: The Deep
@@ -570,7 +571,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Laurie J. Marks: Fire Logic
 - Kameron Hurley: The Broken Heavens
 - Herman Melville: Bartleby, the Scrivener
-- Terry Pratchett: Guards! Guards!
 - Ben Aaronovitch: Midnight Riot
 
 ## Future
