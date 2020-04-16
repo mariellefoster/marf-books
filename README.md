@@ -555,6 +555,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Gailey: Upright Women Wanted
 - Robert Stevenson: The Strange Case of Dr. Jekyll and Mr. Hyde
 - Terry Pratchett: Guards! Guards!
+- Laurie J. Marks: Fire Logic
 
 ## Next
 - Rivers Solomon: The Deep
@@ -568,7 +569,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charlie Jane Anders: The City in the Middle of the Night
 - Sonia Purnell: A Woman of No Importance
 - Rebecca Solnit: Men Explain Things to Me
-- Laurie J. Marks: Fire Logic
 - Kameron Hurley: The Broken Heavens
 - Herman Melville: Bartleby, the Scrivener
 - Ben Aaronovitch: Midnight Riot
