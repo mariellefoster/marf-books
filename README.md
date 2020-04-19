@@ -16,6 +16,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Ancillary Justice
 - Ann Leckie: Ancillary Sword
 - Ann Leckie: Ancillary Mercy
+- Laurie J. Marks: Fire Logic
 - Arkady Martine: A Memory Called Empire
 - Naomi Novik: Spinning Silver
 - Nnedi Okorafor: Binti: Home
