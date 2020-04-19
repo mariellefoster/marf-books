@@ -550,11 +550,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jenny Odell: How To Do Nothing
 
 ## April '20
-(6 this month, 37 YTD)
+(5 this month, 36 YTD)
 - Best Women's Fiction of the Year, Vol 5
 - Oyinkan Braithwaite: My Sister, the Serial Killer
 - Sarah Gailey: Upright Women Wanted
-- Robert Stevenson: The Strange Case of Dr. Jekyll and Mr. Hyde
 - Terry Pratchett: Guards! Guards!
 - Laurie J. Marks: Fire Logic
 
