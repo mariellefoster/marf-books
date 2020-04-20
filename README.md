@@ -556,6 +556,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Gailey: Upright Women Wanted
 - Terry Pratchett: Guards! Guards!
 - Laurie J. Marks: Fire Logic
+- Pia Mellody: Facing Codependence
 - Rebecca Solnit: Men Explain Things to Me
 
 ## Next
