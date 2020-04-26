@@ -559,6 +559,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Pia Mellody: Facing Codependence
 - Rebecca Solnit: Men Explain Things to Me
 - Kameron Hurley: The Broken Heavens
+- P. Djèlí Clark: A Dead Djinn in Cairo
 
 ## Next
 - Rivers Solomon: The Deep
