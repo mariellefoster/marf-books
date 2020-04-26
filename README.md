@@ -550,7 +550,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jenny Odell: How To Do Nothing
 
 ## April '20
-(8 this month, 39 YTD)
+(9 this month, 40 YTD)
 - Best Women's Fiction of the Year, Vol 5
 - Oyinkan Braithwaite: My Sister, the Serial Killer
 - Sarah Gailey: Upright Women Wanted
@@ -565,7 +565,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
 - Elizabeth Bear: Karen Memory
-- Pia Mellody: Facing Codependency
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Becky Chambers: Unter uns die Nacht
