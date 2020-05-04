@@ -561,6 +561,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kameron Hurley: The Broken Heavens
 - P. Djèlí Clark: A Dead Djinn in Cairo
 - Rebecca Solnit: A Field Guide to Getting Lost
+- Steve McConnell: Software Estimation
 
 ## May '20
 
