@@ -564,6 +564,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Steve McConnell: Software Estimation
 
 ## May '20
+- Laurie J. Marks: Earth Logic
 
 ## Next
 - Rivers Solomon: The Deep
