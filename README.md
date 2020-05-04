@@ -562,6 +562,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - P. Djèlí Clark: A Dead Djinn in Cairo
 - Rebecca Solnit: A Field Guide to Getting Lost
 
+## May '20
+
 ## Next
 - Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
