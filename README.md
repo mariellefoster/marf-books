@@ -570,6 +570,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Geoff Manaugh: A Burglar's Guide to the City
 
 ## Next
+- Laurie J. Marks: Water Logic
 - Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
 - Elizabeth Bear: Karen Memory
