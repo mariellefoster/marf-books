@@ -569,6 +569,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Alex Iantaffi and Meg-John Barker: How to Understand Your Gender
 - Geoff Manaugh: A Burglar's Guide to the City
 - Laurie J. Marks: Water Logic
+- E. L. Konigsberg: From the Mixed-up Files of Mrs. Basil E. Frankweiler
 
 ## Next
 - Rivers Solomon: The Deep
