@@ -575,6 +575,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - N. K. Jemisin: The City We Became
 
 ## Next
+- Nghi Vo: The Empress of Salt and Fortune
+- Bruce Bueno de Mesquita: The Dictator's Handbook
+- Rebecca Solnit: A Paradise Built in Hell
 - Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
 - Elizabeth Bear: Karen Memory
