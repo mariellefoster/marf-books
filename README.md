@@ -565,7 +565,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Steve McConnell: Software Estimation
 
 ## May '20
-(7 this month, 49 YTD)
+(8 this month, 50 YTD)
 - Laurie J. Marks: Earth Logic
 - Alex Iantaffi and Meg-John Barker: How to Understand Your Gender
 - Geoff Manaugh: A Burglar's Guide to the City
@@ -573,7 +573,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - E. L. Konigsberg: From the Mixed-up Files of Mrs. Basil E. Frankweiler
 - Martha Wells: Network Effect
 - N. K. Jemisin: The City We Became
-- Bruce Rabin: Stress for Mental and Physical Health and Longevity
+- Bruce Rabin: Coping With Stress for Mental and Physical Health and Longevity
 
 ## Next
 - Nghi Vo: The Empress of Salt and Fortune
