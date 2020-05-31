@@ -10,7 +10,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Henry Connolly: A Key, an Egg, an Unfortunate Remark
 - Max Gladstone: Three Parts Dead
 - Max Gladstone: Empress of Forever
-- Lucy Loh and Patrick Hoverstadt: Patterns of Strategy
 - N. K. Jemisin: A Hundred Thousand Kingdoms
 - N. K. Jemisin: The Stone Sky
 - Ann Leckie: Ancillary Justice
@@ -589,7 +588,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tomi Adeyemi: Children of Blood and Bone
 - Sonia Purnell: A Woman of No Importance
 - Ben Aaronovitch: Midnight Riot
-
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
