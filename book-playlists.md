@@ -17,6 +17,14 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Vorkosigan Saga
 - Martha Wells: All Systems Red
 
+## Queer Friendly
+- Laurie J. Marks: Elemental Logic Series
+- Alex Iantaffi and Meg-John Barker: How to Understand Your Gender
+- Sarah Gailey: Upright Women Wanted
+- Sarah Rees Brennan: In Other Lands
+- Kameron Hurley: The Light Brigade
+- Tamsyn Muir: Gideon the Ninth
+
 ## Novellas
 - Nnedi Okorafor: Binti
 - Nnedi Okorafor: Binti: Home
