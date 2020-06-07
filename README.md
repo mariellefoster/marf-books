@@ -577,9 +577,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## June '20
 (0 this month, 51 YTD)
+- Nghi Vo: The Empress of Salt and Fortune
 
 ## Next
-- Nghi Vo: The Empress of Salt and Fortune
 - Rebecca Solnit: A Paradise Built in Hell
 - Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
