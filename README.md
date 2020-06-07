@@ -578,6 +578,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## June '20
 (1 this month, 52 YTD)
 - Nghi Vo: The Empress of Salt and Fortune
+- Laurie J. Marks: Air Logic
 
 ## Next
 - Rebecca Solnit: A Paradise Built in Hell
