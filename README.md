@@ -579,6 +579,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 53 YTD)
 - Nghi Vo: The Empress of Salt and Fortune
 - Laurie J. Marks: Air Logic
+- Lois McMaster Bujold: The Physicians of Vilnoc
 
 ## Next
 - Rebecca Solnit: A Paradise Built in Hell
