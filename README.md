@@ -580,6 +580,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nghi Vo: The Empress of Salt and Fortune
 - Laurie J. Marks: Air Logic
 - Lois McMaster Bujold: The Physicians of Vilnoc
+- Audre Lorde: Sister Outsider
 
 ## Next
 - Rebecca Solnit: A Paradise Built in Hell
