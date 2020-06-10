@@ -576,7 +576,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Bruce Bueno de Mesquita: The Dictator's Handbook
 
 ## June '20
-(2 this month, 53 YTD)
+(3 this month, 54 YTD)
 - Nghi Vo: The Empress of Salt and Fortune
 - Laurie J. Marks: Air Logic
 - Lois McMaster Bujold: The Physicians of Vilnoc
