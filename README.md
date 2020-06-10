@@ -583,6 +583,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Audre Lorde: Sister Outsider
 
 ## Next
+- Seanan McGuire: Middlegame
+- Ted Chiang: Exhalation
 - Rebecca Solnit: A Paradise Built in Hell
 - Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
