@@ -581,11 +581,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Laurie J. Marks: Air Logic
 - Lois McMaster Bujold: The Physicians of Vilnoc
 - Audre Lorde: Sister Outsider
+- Rebecca Solnit: A Paradise Built in Hell
 
 ## Next
 - Seanan McGuire: Middlegame
 - Ted Chiang: Exhalation
-- Rebecca Solnit: A Paradise Built in Hell
 - Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
 - Elizabeth Bear: Karen Memory
