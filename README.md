@@ -582,6 +582,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: The Physicians of Vilnoc
 - Audre Lorde: Sister Outsider
 - Rebecca Solnit: A Paradise Built in Hell
+- Tomi Adeyemi: Children of Blood and Bone
 
 ## Next
 - Seanan McGuire: Middlegame
@@ -593,7 +594,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Becky Chambers: Unter uns die Nacht
-- Tomi Adeyemi: Children of Blood and Bone
 - Sonia Purnell: A Woman of No Importance
 - Ben Aaronovitch: Midnight Riot
 
