@@ -584,6 +584,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Rebecca Solnit: A Paradise Built in Hell
 - Tomi Adeyemi: Children of Blood and Bone
 - Seanan McGuire: Middlegame
+- Matt Ruff: 88 Names
 
 ## Next
 - Ted Chiang: Exhalation
