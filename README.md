@@ -583,9 +583,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Audre Lorde: Sister Outsider
 - Rebecca Solnit: A Paradise Built in Hell
 - Tomi Adeyemi: Children of Blood and Bone
+- Seanan McGuire: Middlegame
 
 ## Next
-- Seanan McGuire: Middlegame
 - Ted Chiang: Exhalation
 - Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
