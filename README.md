@@ -586,6 +586,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Seanan McGuire: Middlegame
 - Matt Ruff: 88 Names
 
+## July '20
+(0 this month, 59 YTD)
+
 ## Next
 - Ted Chiang: Exhalation
 - Rivers Solomon: The Deep
