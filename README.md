@@ -587,7 +587,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Matt Ruff: 88 Names
 
 ## July '20
-(0 this month, 59 YTD)
+(1 this month, 60 YTD)
 - Tochi Onyebuchi: Riot Baby
 
 ## Next
