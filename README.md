@@ -589,6 +589,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## July '20
 (1 this month, 60 YTD)
 - Tochi Onyebuchi: Riot Baby
+- N. K. Jemisin: Emergency Skin
 
 ## Next
 - Ted Chiang: Exhalation
