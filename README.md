@@ -590,10 +590,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 61 YTD)
 - Tochi Onyebuchi: Riot Baby
 - N. K. Jemisin: Emergency Skin
+- Rivers Solomon: The Deep
 
 ## Next
 - Ted Chiang: Exhalation
-- Rivers Solomon: The Deep
 - Greg Kckeown: Essentialism
 - Elizabeth Bear: Karen Memory
 - Charlie Jane Anders: The City in the Middle of the Night
