@@ -591,6 +591,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tochi Onyebuchi: Riot Baby
 - N. K. Jemisin: Emergency Skin
 - Rivers Solomon: The Deep
+- Lois McMaster Bujold: Cetaganda
+
 
 ## Next
 - Ted Chiang: Exhalation
