@@ -596,6 +596,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Labyrinth
 - Saad Z Hossain: Djinn City
 - Katharine Duckett: Miranda in Milan
+- Lois McMaster Bujold: Brothers In Arms
 
 ## Next
 - Ted Chiang: Exhalation
