@@ -587,7 +587,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Matt Ruff: 88 Names
 
 ## July '20
-(12 this month, 71 YTD)
+(13 this month, 72 YTD)
 - Tochi Onyebuchi: Riot Baby
 - N. K. Jemisin: Emergency Skin
 - Rivers Solomon: The Deep
