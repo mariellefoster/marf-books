@@ -600,9 +600,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Mirror Dance
 - Emily Nagoski: Come As You Are
 - Alix Harrow: The Ten Thousand Doors of January
+- Nino Cipri: Finna
 
 ## Next
-- Nino Cipri: Finna
 - Ted Chiang: Exhalation
 - Greg Kckeown: Essentialism
 - Elizabeth Bear: Karen Memory
