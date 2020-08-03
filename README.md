@@ -606,7 +606,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Marjorie Liu: Monstress Vol 2
 
 ## August '20
-(1 this month, 75 YTD)
+( this month, 75 YTD)
 - Marjorie Liu: Monstress Vol 3
 
 ## Next
