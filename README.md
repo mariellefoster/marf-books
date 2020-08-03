@@ -605,6 +605,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Marjorie Liu: Monstress Vol 1
 - Marjorie Liu: Monstress Vol 2
 
+## August '20
+(0 this month, 75 YTD)
+
 ## Next
 - Ted Chiang: Exhalation
 - Greg Kckeown: Essentialism
