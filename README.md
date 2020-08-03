@@ -603,6 +603,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nino Cipri: Finna
 - Michael Ende: Momo
 - Marjorie Liu: Monstress Vol 1
+- Marjorie Liu: Monstress Vol 2
 
 ## Next
 - Ted Chiang: Exhalation
