@@ -608,6 +608,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## August '20
 ( this month, 75 YTD)
 - Marjorie Liu: Monstress Vol 3
+- Marjorie Liu: Monstress Vol 4
 
 ## Next
 - Ted Chiang: Exhalation
