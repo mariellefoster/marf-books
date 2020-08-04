@@ -609,6 +609,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 77 YTD)
 - Marjorie Liu: Monstress Vol 3
 - Marjorie Liu: Monstress Vol 4
+- Katherine Addison: The Goblin Emperor
 
 ## Next
 - Ted Chiang: Exhalation
