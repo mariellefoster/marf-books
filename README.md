@@ -607,7 +607,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Marjorie Liu: Monstress Vol 2
 
 ## August '20
-(6 this month, 81 YTD)
+(7 this month, 82 YTD)
 - Marjorie Liu: Monstress Vol 3
 - Marjorie Liu: Monstress Vol 4
 - Katherine Addison: The Goblin Emperor
