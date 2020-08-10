@@ -612,6 +612,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Marjorie Liu: Monstress Vol 4
 - Katherine Addison: The Goblin Emperor
 - Cat Rambo: Carpe Glitter
+- Flash Fiction Project: Nevertheless She Persisted
 - Alyssa Cole: A Prince on Paper
 
 ## Next
