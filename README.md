@@ -614,10 +614,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Cat Rambo: Carpe Glitter
 - Flash Fiction Project: Nevertheless She Persisted
 - Alyssa Cole: A Prince on Paper
+- Greg Kckeown: Essentialism
 
 ## Next
 - Ted Chiang: Exhalation
-- Greg Kckeown: Essentialism
 - Elizabeth Bear: Karen Memory
 - Charlie Jane Anders: The City in the Middle of the Night
 - Kage Baker: The Women of Nell Gwynne's
