@@ -6,6 +6,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Beguilement
 - Lois McMaster Bujold: Mirror Dance
 - Lois McMaster Bujold: Shards of Honor
+- Octavia Butler: Fledgling
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Becky Chambers: Record of a Spaceborn Few
 - Henry Connolly: A Key, an Egg, an Unfortunate Remark
