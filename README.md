@@ -622,6 +622,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Richard Bowes: Dirty Old Town
 - Sarah Pinsker: Wind Will Rove
 
+## September '20
+(0 this month, 88 YTD)
+
 ## Next
 - Ted Chiang: Exhalation
 - Elizabeth Bear: Karen Memory
