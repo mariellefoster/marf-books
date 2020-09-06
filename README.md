@@ -626,6 +626,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## September '20
 (1 this month, 89 YTD)
 - Octavia Butler: Fledgling
+- Sonia Purnell: A Woman of No Importance
 
 ## Next
 - Ted Chiang: Exhalation
