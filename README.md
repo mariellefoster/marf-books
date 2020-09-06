@@ -617,6 +617,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Greg Kckeown: Essentialism
 - Hilary Mantel: Wolf Hall
 - Daniel Kahnemann: Thinking Fast and Slow
+- Deborah Harkness: A Discovery of Witches
+
 
 ## Next
 - Ted Chiang: Exhalation
