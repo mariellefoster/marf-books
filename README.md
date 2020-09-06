@@ -623,7 +623,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Pinsker: Wind Will Rove
 
 ## September '20
-(0 this month, 88 YTD)
+(1 this month, 89 YTD)
+- Octavia Butler: Fledgling
 
 ## Next
 - Ted Chiang: Exhalation
