@@ -620,6 +620,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Deborah Harkness: A Discovery of Witches
 - Jonathan Brazee: Weaponized Math
 - Richard Bowes: Dirty Old Town
+- Sarah Pinsker: Wind Will Rove
 
 ## Next
 - Ted Chiang: Exhalation
