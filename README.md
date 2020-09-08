@@ -628,6 +628,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Octavia Butler: Fledgling
 - Sonia Purnell: A Woman of No Importance
 - Terry Matlen: Queen of Distraction
+- Anne Carson: Norma Jeane Baker of Troy
 
 ## Next
 - Ted Chiang: Exhalation
