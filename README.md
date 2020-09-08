@@ -637,7 +637,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Becky Chambers: Unter uns die Nacht
-- Sonia Purnell: A Woman of No Importance
 - Ben Aaronovitch: Midnight Riot
 
 ## Future
