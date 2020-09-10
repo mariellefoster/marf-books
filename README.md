@@ -629,6 +629,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sonia Purnell: A Woman of No Importance
 - Terry Matlen: Queen of Distraction
 - Anne Carson: Norma Jeane Baker of Troy
+- Fran Wilde: The Jewel and Her Lapidary
 
 ## Next
 - Ted Chiang: Exhalation
