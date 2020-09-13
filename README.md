@@ -631,6 +631,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Anne Carson: Norma Jeane Baker of Troy
 - Fran Wilde: The Jewel and Her Lapidary
 - Robin Wall Kimmerer: Braiding Sweetgrass
+- Ben Aaronovitch: Midnight Riot
 
 ## Next
 - Ted Chiang: Exhalation
@@ -639,7 +640,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Becky Chambers: Unter uns die Nacht
-- Ben Aaronovitch: Midnight Riot
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
