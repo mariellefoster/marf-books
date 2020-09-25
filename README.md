@@ -624,7 +624,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Pinsker: Wind Will Rove
 
 ## September '20
-(7 this month, 95 YTD)
+(8 this month, 96 YTD)
 - Octavia Butler: Fledgling
 - Sonia Purnell: A Woman of No Importance
 - Terry Matlen: Queen of Distraction
