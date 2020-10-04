@@ -635,7 +635,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: Zwischen zwei Sternen
 
 ## October '20
-(0 this month, 96 YTD)
+(1 this month, 97 YTD)
 - Gabor Maté: Distracted
 
 ## Next
