@@ -634,6 +634,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ben Aaronovitch: Midnight Riot
 - Becky Chambers: Zwischen zwei Sternen
 
+## October '20
+
 ## Next
 - Ted Chiang: Exhalation
 - Elizabeth Bear: Karen Memory
