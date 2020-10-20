@@ -636,12 +636,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## October '20
 (4 this month, 100 YTD)
-- Gabor Maté: Distracted
+- Gabor Maté: Scattered
 - C1 Deutsch book
 - Lois McMaster Bujold: Komarr
 - Lois McMaster Bujold: Memory
 
 ## Next
+- Deborah Harkness: Shadow of Night
+- Elizabeth Gilbert: Big Magic
+- Cherie Dimaline: The Marrow Thieves
+- Sari Solden: Radical Guide to Women With ADHD
+- Alyssa Cole: A Duke by Default
 - Ted Chiang: Exhalation
 - Elizabeth Bear: Karen Memory
 - Charlie Jane Anders: The City in the Middle of the Night
