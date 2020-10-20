@@ -653,6 +653,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Becky Chambers: Unter uns die Nacht
+- Yoon Ha Lee, Becky Chambers, Rivers Solomon, SL Huang: The Vela
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
