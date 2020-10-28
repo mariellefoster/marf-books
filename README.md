@@ -643,12 +643,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: A Civil Campaign
 - Lois McMaster Bujold: Winterfair Gifts
 - Emily Tesh: Drowned Country
-
+- Cherie Dimaline: The Marrow Thieves
 
 ## Next
 - Deborah Harkness: Shadow of Night
 - Elizabeth Gilbert: Big Magic
-- Cherie Dimaline: The Marrow Thieves
 - Sari Solden: Radical Guide to Women With ADHD
 - Alyssa Cole: A Duke by Default
 - Ted Chiang: Exhalation
