@@ -635,7 +635,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: Zwischen zwei Sternen
 
 ## October '20
-(7 this month, 103 YTD)
+(8 this month, 104 YTD)
 - Gabor Maté: Scattered
 - C1 Deutsch book
 - Lois McMaster Bujold: Komarr
