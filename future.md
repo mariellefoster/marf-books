@@ -17,7 +17,6 @@
 - Roxane Gay: Not That Bad
 - Seth Dickinson: The Traitor Baru Cormorant
 - Mary Roach: Gulp
-- Tomi Adeyemi: Children of Blood and Bone
 - Ken Liu: The Paper Menagerie and Other Stories
 - Invisible Man, Got the Whole World Watching
 - Mary Doria Russell: The Sparrow
@@ -29,7 +28,6 @@
 - Cixin Liu: The Three-body Problem
 - Stanley McCrystal: Team of Teams
 - Octavia Butler: Parable of the Sower
-- Kameron Hurley: The Broken Heavens
 - Nancy Kress: Yesterday's Kin
 - José-Louis Bocquet: Josephine Baker
 - Lin Manuel Miranda: Hamilton, the screenplay
