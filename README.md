@@ -646,6 +646,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Cherie Dimaline: The Marrow Thieves
 - Elizabeth Gilbert: Big Magic
 
+## November '20
+(0 this month, 105 YTD)
+
 ## Next
 - Deborah Harkness: Shadow of Night
 - Sari Solden: Radical Guide to Women With ADHD
