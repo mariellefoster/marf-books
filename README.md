@@ -647,7 +647,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Gilbert: Big Magic
 
 ## November '20
-(0 this month, 105 YTD)
+(1 this month, 106 YTD)
 - Mary Robinette Kowal: The Calculating Stars
 
 ## Next
