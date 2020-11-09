@@ -647,7 +647,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Gilbert: Big Magic
 
 ## November '20
-(1 this month, 106 YTD)
+(2 this month, 107 YTD)
 - Mary Robinette Kowal: The Calculating Stars
 - Alyssa Cole: A Duke by Default
 
