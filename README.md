@@ -430,7 +430,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (10 this month, 49 YTD)
 - Suzanne Palmer: The Secret Life of Bots
 - Naomi Novik: Spinning Silver
-- Tom Siddell: Gunnerkrigg Court, Post-Synthesis Vol
+- Tom Siddell: Gunnerkrigg Court, Catalysis Vol
 - The Narcissistic Family
 - Charlaine Harris: Dead After Dark
 - Sarah Gailey: Magic for Liars
