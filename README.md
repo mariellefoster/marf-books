@@ -651,6 +651,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Robinette Kowal: The Calculating Stars
 - Alyssa Cole: A Duke by Default
 - Tom Siddell: Gunnerkrigg Court, Book 9
+- Lois McMaster Bujold: Diplomatic Immunity
 
 ## Next
 - Deborah Harkness: Shadow of Night
