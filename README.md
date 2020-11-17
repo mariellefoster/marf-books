@@ -652,12 +652,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Alyssa Cole: A Duke by Default
 - Tom Siddell: Gunnerkrigg Court, Book 9
 - Lois McMaster Bujold: Diplomatic Immunity
+- Elizabeth Bear: Karen Memory
 
 ## Next
 - Deborah Harkness: Shadow of Night
 - Sari Solden: Radical Guide to Women With ADHD
 - Ted Chiang: Exhalation
-- Elizabeth Bear: Karen Memory
 - Charlie Jane Anders: The City in the Middle of the Night
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
