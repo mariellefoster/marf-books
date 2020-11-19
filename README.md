@@ -654,6 +654,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Diplomatic Immunity
 - Elizabeth Bear: Karen Memory
 - Deborah Harkness: Shadow of Night
+- Becky Chambers: Unter uns die Nacht
 
 ## Next
 - Sari Solden: Radical Guide to Women With ADHD
@@ -661,7 +662,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charlie Jane Anders: The City in the Middle of the Night
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
-- Becky Chambers: Unter uns die Nacht
 - Yoon Ha Lee, Becky Chambers, Rivers Solomon, SL Huang: The Vela
 
 ## Future
