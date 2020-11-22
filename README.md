@@ -655,6 +655,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Bear: Karen Memory
 - Deborah Harkness: Shadow of Night
 - Becky Chambers: Unter uns die Nacht
+- Lois McMaster Bujold: Captain Vorpatril's Alliance
+
 
 ## Next
 - Sari Solden: Radical Guide to Women With ADHD
