@@ -656,11 +656,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Deborah Harkness: Shadow of Night
 - Becky Chambers: Unter uns die Nacht
 - Lois McMaster Bujold: Captain Vorpatril's Alliance
+- Ted Chiang: Exhalation
 
 
 ## Next
 - Sari Solden: Radical Guide to Women With ADHD
-- Ted Chiang: Exhalation
 - Charlie Jane Anders: The City in the Middle of the Night
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
