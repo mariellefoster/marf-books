@@ -657,6 +657,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: Unter uns die Nacht
 - Lois McMaster Bujold: Captain Vorpatril's Alliance
 - Ted Chiang: Exhalation
+- Tamsyn Muir: Harrow the Ninth
 
 
 ## Next
