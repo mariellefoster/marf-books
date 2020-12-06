@@ -662,6 +662,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## December '20
 (1 this month, 116 YTD)
 - Henrik Ibsen: Ein Puppenheim, oder Nora
+- Claire B. Shaeffer: Couture Sewing Techniques
 
 ## Next
 - Sari Solden: Radical Guide to Women With ADHD
