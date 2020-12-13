@@ -671,6 +671,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Katherine Addison: The Angel of the Crows
 - Kelly Link: Magic for Beginners
 - Michael Chabon: The Yiddish Policemen's Union
+- Kim Scott: Radical Candor
+- Mieko Kawakami: Breasts and Eggs
+- Meghan Whalen Turner: Return of the Thief
+- Roman Mars: The 99% Invisible City
+- Alyssa Cole: A Princess in Theory
 - Charlie Jane Anders: The City in the Middle of the Night
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
