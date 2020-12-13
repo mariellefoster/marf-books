@@ -665,7 +665,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Claire B. Shaeffer: Couture Sewing Techniques
 - Mary Robinette Kowal: The Lady Astronaut of Mars
 
+
 ## Next
+- Leah Lakshmi Piepzna-Samarasinha: Care Work
+- Katherine Addison: The Angel of the Crows
+- Kelly Link: Magic for Beginners
+- Michael Chabon: The Yiddish Policemen's Union
 - Charlie Jane Anders: The City in the Middle of the Night
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
