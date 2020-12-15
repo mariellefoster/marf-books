@@ -667,6 +667,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 
 ## Next
+- Lois McMaster Bujold: Masquerade in Lodi
 - Leah Lakshmi Piepzna-Samarasinha: Care Work
 - Katherine Addison: The Angel of the Crows
 - Kelly Link: Magic for Beginners
@@ -681,7 +682,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Yoon Ha Lee, Becky Chambers, Rivers Solomon, SL Huang: The Vela
 - Zeynep Tufekci: Twitter and Tear Gas
-- Lois McMaster Bujold: Masquerade in Lodi
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
