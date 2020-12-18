@@ -668,15 +668,15 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Lois McMaster Bujold: Masquerade in Lodi
-- Leah Lakshmi Piepzna-Samarasinha: Care Work
+- Alyssa Cole: A Princess in Theory
+- Meghan Whalen Turner: Return of the Thief
 - Katherine Addison: The Angel of the Crows
+- Leah Lakshmi Piepzna-Samarasinha: Care Work
 - Kelly Link: Magic for Beginners
 - Michael Chabon: The Yiddish Policemen's Union
 - Kim Scott: Radical Candor
 - Mieko Kawakami: Breasts and Eggs
-- Meghan Whalen Turner: Return of the Thief
 - Roman Mars: The 99% Invisible City
-- Alyssa Cole: A Princess in Theory
 - Charlie Jane Anders: The City in the Middle of the Night
 - Kage Baker: The Women of Nell Gwynne's
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
