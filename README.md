@@ -665,7 +665,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Claire B. Shaeffer: Couture Sewing Techniques
 - Mary Robinette Kowal: The Lady Astronaut of Mars
 - Elizabeth Bear: Stone Mad
-
+- Naomi Ito: The Nani Iro Sewing Studio
 
 ## Next
 - Lois McMaster Bujold: Masquerade in Lodi
