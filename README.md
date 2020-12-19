@@ -664,6 +664,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Henrik Ibsen: Ein Puppenheim, oder Nora
 - Claire B. Shaeffer: Couture Sewing Techniques
 - Mary Robinette Kowal: The Lady Astronaut of Mars
+- Elizabeth Bear: Stone Mad
 
 
 ## Next
