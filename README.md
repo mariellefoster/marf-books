@@ -666,11 +666,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Robinette Kowal: The Lady Astronaut of Mars
 - Elizabeth Bear: Stone Mad
 - Naomi Ito: The Nani Iro Sewing Studio
+- Meghan Whalen Turner: Return of the Thief
+
 
 ## Next
 - Lois McMaster Bujold: Masquerade in Lodi
 - Alyssa Cole: A Princess in Theory
-- Meghan Whalen Turner: Return of the Thief
 - Katherine Addison: The Angel of the Crows
 - Leah Lakshmi Piepzna-Samarasinha: Care Work
 - Kelly Link: Magic for Beginners
