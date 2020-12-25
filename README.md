@@ -667,6 +667,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Elizabeth Bear: Stone Mad
 - Naomi Ito: The Nani Iro Sewing Studio
 - Meghan Whalen Turner: Return of the Thief
+- Kim Scott: Radical Candor
 
 
 ## Next
@@ -676,7 +677,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Leah Lakshmi Piepzna-Samarasinha: Care Work
 - Kelly Link: Magic for Beginners
 - Michael Chabon: The Yiddish Policemen's Union
-- Kim Scott: Radical Candor
 - Mieko Kawakami: Breasts and Eggs
 - Roman Mars: The 99% Invisible City
 - Charlie Jane Anders: The City in the Middle of the Night
