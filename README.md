@@ -660,7 +660,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamsyn Muir: Harrow the Ninth
 
 ## December '20
-(6 this month, 121 YTD)
+(7 this month, 122 YTD)
 - Henrik Ibsen: Ein Puppenheim, oder Nora
 - Claire B. Shaeffer: Couture Sewing Techniques
 - Mary Robinette Kowal: The Lady Astronaut of Mars
