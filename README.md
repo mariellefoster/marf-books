@@ -668,10 +668,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Ito: The Nani Iro Sewing Studio
 - Meghan Whalen Turner: Return of the Thief
 - Kim Scott: Radical Candor
-
+- Lois McMaster Bujold: Masquerade in Lodi
 
 ## Next
-- Lois McMaster Bujold: Masquerade in Lodi
 - Alyssa Cole: A Princess in Theory
 - Katherine Addison: The Angel of the Crows
 - Leah Lakshmi Piepzna-Samarasinha: Care Work
