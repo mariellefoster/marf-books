@@ -671,6 +671,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Masquerade in Lodi
 
 ## January '21
+-  P. Clark Djèlí: Ring Shout
 
 ## Next
 - Alyssa Cole: A Princess in Theory
