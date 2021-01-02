@@ -672,7 +672,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## January '21
 (1 this month, 1 YTD)
--  P. Clark Djèlí: Ring Shout
+- P. Clark Djèlí: Ring Shout
+- Alyssa Cole: Once Ghosted, Twice Shy
 
 ## Next
 - Alyssa Cole: A Princess in Theory
