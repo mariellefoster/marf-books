@@ -670,6 +670,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kim Scott: Radical Candor
 - Lois McMaster Bujold: Masquerade in Lodi
 
+## January '21
+
 ## Next
 - Alyssa Cole: A Princess in Theory
 - Katherine Addison: The Angel of the Crows
