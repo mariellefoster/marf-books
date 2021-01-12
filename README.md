@@ -674,10 +674,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 2 YTD)
 - P. Clark Djèlí: Ring Shout
 - Alyssa Cole: Once Ghosted, Twice Shy
+- Katherine Addison: The Angel of the Crows
+
 
 ## Next
 - Alyssa Cole: A Princess in Theory
-- Katherine Addison: The Angel of the Crows
 - Leah Lakshmi Piepzna-Samarasinha: Care Work
 - Kelly Link: Magic for Beginners
 - Michael Chabon: The Yiddish Policemen's Union
