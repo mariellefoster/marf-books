@@ -675,11 +675,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - P. Clark Djèlí: Ring Shout
 - Alyssa Cole: Once Ghosted, Twice Shy
 - Katherine Addison: The Angel of the Crows
+- Leah Lakshmi Piepzna-Samarasinha: Care Work
 
 
 ## Next
 - Alyssa Cole: A Princess in Theory
-- Leah Lakshmi Piepzna-Samarasinha: Care Work
 - Kelly Link: Magic for Beginners
 - Michael Chabon: The Yiddish Policemen's Union
 - Mieko Kawakami: Breasts and Eggs
