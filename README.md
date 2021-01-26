@@ -677,6 +677,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Katherine Addison: The Angel of the Crows
 - Leah Lakshmi Piepzna-Samarasinha: Care Work
 - Nghi Vo: When the Tiger Came Down the Mountain
+- Alyssa Cole: Can't Escape Love
 
 ## Next
 - Alyssa Cole: A Princess in Theory
