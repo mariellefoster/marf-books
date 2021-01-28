@@ -678,6 +678,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Leah Lakshmi Piepzna-Samarasinha: Care Work
 - Nghi Vo: When the Tiger Came Down the Mountain
 - Alyssa Cole: Can't Escape Love
+- Alyssa Cole: The AI Who Loved Me
 
 ## Next
 - Alyssa Cole: A Princess in Theory
