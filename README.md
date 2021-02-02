@@ -671,7 +671,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Masquerade in Lodi
 
 ## January '21
-(7 this month, 7 YTD)
+(8 this month, 8 YTD)
 - P. Clark Djèlí: Ring Shout
 - Alyssa Cole: Once Ghosted, Twice Shy
 - Katherine Addison: The Angel of the Crows
