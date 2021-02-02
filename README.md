@@ -675,6 +675,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - P. Clark Djèlí: Ring Shout
 - Alyssa Cole: Once Ghosted, Twice Shy
 - Katherine Addison: The Angel of the Crows
+- Patti Palmer: Guide to Fitting
 - Leah Lakshmi Piepzna-Samarasinha: Care Work
 - Nghi Vo: When the Tiger Came Down the Mountain
 - Alyssa Cole: Can't Escape Love
