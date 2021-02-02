@@ -682,6 +682,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Alyssa Cole: The AI Who Loved Me
 - The Sewing Book
 
+## February '21
+(0 this month, 9 YTD)
+
 ## Next
 - Alyssa Cole: A Princess in Theory
 - Kelly Link: Magic for Beginners
