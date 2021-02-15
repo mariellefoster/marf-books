@@ -687,6 +687,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Atul Gawande: Better
 - Casey McQuiston: Red White and Royal Blue
 - Alyssa Cole: How to Catch a Queen
+- Katherine Addison: The Goblin Emperor
+
 
 ## Next
 - Alyssa Cole: A Princess in Theory
