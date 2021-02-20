@@ -683,11 +683,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Sewing Book
 
 ## February '21
-(4 this month, 14 YTD)
+(5 this month, 14 YTD)
 - Atul Gawande: Better
 - Casey McQuiston: Red White and Royal Blue
 - Alyssa Cole: How to Catch a Queen
 - Katherine Addison: The Goblin Emperor
+- Susanna Clarke: Piranesi
 
 
 ## Next
