@@ -689,6 +689,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Alyssa Cole: How to Catch a Queen
 - Katherine Addison: The Goblin Emperor
 - Susanna Clarke: Piranesi
+- Adam Kucharski: The Rules of Contagion
 
 
 ## Next
