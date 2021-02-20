@@ -690,6 +690,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Katherine Addison: The Goblin Emperor
 - Susanna Clarke: Piranesi
 - Adam Kucharski: The Rules of Contagion
+- Charles Stross: Dead Lies Dreaming
 
 
 ## Next
