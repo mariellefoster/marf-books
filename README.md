@@ -695,16 +695,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Hennesey and Patternson: Computer Architecture
 
 ## Next
-- Alyssa Cole: A Princess in Theory
-- Kelly Link: Magic for Beginners
-- Michael Chabon: The Yiddish Policemen's Union
-- Mieko Kawakami: Breasts and Eggs
-- Roman Mars: The 99% Invisible City
-- Charlie Jane Anders: The City in the Middle of the Night
-- Kage Baker: The Women of Nell Gwynne's
-- Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
-- Yoon Ha Lee, Becky Chambers, Rivers Solomon, SL Huang: The Vela
-- Zeynep Tufekci: Twitter and Tear Gas
+
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
