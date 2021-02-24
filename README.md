@@ -692,6 +692,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Adam Kucharski: The Rules of Contagion
 - Charles Stross: Dead Lies Dreaming
 - Sarah Hogle: You Deserve Each Other
+- Hennesey and Patternson: Computer Architecture
 
 ## Next
 - Alyssa Cole: A Princess in Theory
