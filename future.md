@@ -40,7 +40,6 @@
 - Sabaa Tahir: An Ember in the Ashes
 - John W. Diers: Twin Cities by Trolley
 - The People's Future of the United States
-- Alyssa Cole: A Princess in Theory
 - Kelly Link: Magic for Beginners
 - Michael Chabon: The Yiddish Policemen's Union
 - Mieko Kawakami: Breasts and Eggs
