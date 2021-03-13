@@ -24,6 +24,18 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Sarah Rees Brennan: In Other Lands
 - Kameron Hurley: The Light Brigade
 - Tamsyn Muir: Gideon the Ninth
+- Tamsyn Muir: Harrow the Ninth
+- Martha Wells: All Systems Red
+- Laurie J. Marks: Fire Logic
+- Arkady Martine: A Memory Called Empire
+- Max Gladstone: Empress of Forever
+- Everina Maxwell: Winter's Orbit
+- Lina Rather: Sisters of the Vast Black
+- Matt Ruff: Set This House in Order
+- Alyssa Cole: Once Ghosted, Twice Shy
+- Nghi Vo: When the Tiger Came Down the Mountain
+
+
 
 ## Novellas
 - Nnedi Okorafor: Binti
@@ -57,6 +69,9 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Saad Z. Hossain: The Gurkha and the Lord of Tuesday
 - Kerstin Hall: The Border Keeper
 - Aliette de Bodard: The Tea Master and the Detective
+- Alyssa Cole: Can't Escape Love
+- Alyssa Cole: Once Ghosted, Twice Shy
+- Elizabeth Bear: Stone Mad
 
 
 ## Buoyant and Hilarious
@@ -76,6 +91,8 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Sy Montgomery: The Soul of An Octopus
   - Every chapter is named after an octopus she makes friends with
 - Connie Willis: To Say Nothing of the Dog, Or, How We Found the Bishop's Bird Stump at Last
+- Casey McQuiston: Red White and Royal Blue
+- Sarah Hogle: You Deserve Each Other
 
 ## Chewy Soulstuff
 - Matt Ruff: Set This House in Order
@@ -103,6 +120,9 @@ This is like a case of homemade CDs a once upon a time generation would burn for
   - This book made me think carefully about my perception and experience of gender. Violent, apocalyptic, it gets the tension and overthrow of a global overclass bang on.
 - Nick Bantock: The Museum at Purgatory
 - Catherynne Valente: The Refrigerator Monologues
+- Katherine Addison: The Goblin Emperor
+- Octavia Butler: Fledgling
+
 
 ## Galactic Coloratura
 - Ann Leckie: Ancillary Justice
@@ -119,3 +139,5 @@ This is like a case of homemade CDs a once upon a time generation would burn for
 - Carmen Maria Machado: Her Body And Other Parties
 - David Moore: Not So Stories
 - Naomi Kritzer: Cat Pictures Please and Other Stories
+- Ted Chiang: Exhalation
+
