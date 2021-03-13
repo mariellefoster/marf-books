@@ -698,6 +698,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 20 YTD)
 - Lois McMaster Bujold: Cryoburn
 - Alyssa Cole: A Princess In Theory
+- Everina Maxwell: Winter's Orbit
 
 ## Next
 
