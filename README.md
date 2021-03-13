@@ -19,6 +19,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Ancillary Mercy
 - Laurie J. Marks: Fire Logic
 - Arkady Martine: A Memory Called Empire
+- Everina Maxwell: Winter's Orbit
 - Naomi Novik: Spinning Silver
 - Nnedi Okorafor: Binti: Home
 - Nnedi Okorafor: Binti
