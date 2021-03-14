@@ -700,6 +700,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Cryoburn
 - Alyssa Cole: A Princess In Theory
 - Everina Maxwell: Winter's Orbit
+- André Leon Talley: The Chiffon Trenches
 
 ## Next
 
