@@ -704,6 +704,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Roger Scuton: Spinoza, A Very Short Introduction
 - Max Gladstone: Empress of Forever
 
+## April '21
+
 ## Next
 
 
