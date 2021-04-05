@@ -703,6 +703,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - André Leon Talley: The Chiffon Trenches
 - Roger Scuton: Spinoza, A Very Short Introduction
 - Max Gladstone: Empress of Forever
+- Workbook: Managing Your Adult Attention Issues
 
 ## April '21
 (1 this month, 25 YTD)
