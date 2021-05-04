@@ -714,6 +714,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tor Best of 2020 Fiction
 - Merlin Sheldrake: Entangled Life
 
+
+## May '21
+(0 this month, 31 YTD)
+
 ## Next
 
 
