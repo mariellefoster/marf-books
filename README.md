@@ -713,6 +713,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Arkady Martine: A Desolation Called Peace
 - Tor Best of 2020 Fiction
 - Merlin Sheldrake: Entangled Life
+- Yotam Ottolenghi: Simple
 
 
 ## May '21
