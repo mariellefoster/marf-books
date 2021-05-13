@@ -721,6 +721,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 - Becky Chambers: The Galaxy, and the Ground Within
+- Martha Wells: Tagebuch eines Killerbots
 
 
 ## Future
