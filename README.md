@@ -720,6 +720,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (1 this month, 33 YTD)
 - The Scapegracers: Hannah Abigail Clarke
 - Sarah Gailey: Worth Her Weight in Gold
+- Theodora Goss: Red as Blood and White as Bone
 
 ## Next
 - Becky Chambers: The Galaxy, and the Ground Within
