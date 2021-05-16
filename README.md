@@ -722,6 +722,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Gailey: Worth Her Weight in Gold
 - Theodora Goss: Red as Blood and White as Bone
 - Kij Johnson: The Cat Who Walked a Thousand Miles
+- Neon Yang: Circus Girl, The Hunter, and Mirror Boy:
 
 ## Next
 - Becky Chambers: The Galaxy, and the Ground Within
