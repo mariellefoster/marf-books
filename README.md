@@ -719,6 +719,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## May '21
 (1 this month, 33 YTD)
 - The Scapegracers: Hannah Abigail Clarke
+- Sarah Gailey: Worth Her Weight in Gold
 
 ## Next
 - Becky Chambers: The Galaxy, and the Ground Within
