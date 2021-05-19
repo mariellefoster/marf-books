@@ -730,6 +730,15 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 - Becky Chambers: The Galaxy, and the Ground Within
 - Martha Wells: Tagebuch eines Killerbots
+- Zitkala-Sa: American Indian Stories
+- KJ Charles: Any Old Diamonds
+- Nino Cipri: Defekt
+- Sue Burke: Semiosis
+- Sue Burke: Interference
+- Nnedi Okorafor: Remote Control
+- Mary Robinette Kowal: The Fated Sky
+- Mary Robinette Kowal: The Relentless Moon
+- Alix Harrow: The Once and Future Witches
 
 
 ## Future
