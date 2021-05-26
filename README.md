@@ -733,7 +733,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: The Galaxy, and the Ground Within
 - Martha Wells: Tagebuch eines Killerbots
 - Zitkala-Sa: American Indian Stories
-- KJ Charles: Any Old Diamonds
 - Nino Cipri: Defekt
 - Sue Burke: Semiosis
 - Sue Burke: Interference
