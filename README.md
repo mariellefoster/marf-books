@@ -728,7 +728,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Rebecca Roanhorse: Black Sun
 - KJ Charles: Any Old Diamonds
 - Nino Cipri: Defekt
-
+- KJ Charles: Gilded Cage
 
 ## Next
 - Becky Chambers: The Galaxy, and the Ground Within
