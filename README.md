@@ -729,6 +729,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - KJ Charles: Any Old Diamonds
 - Nino Cipri: Defekt
 - KJ Charles: Gilded Cage
+- Nnedi Okorafor: Remote Control
 
 ## June '21
 (0 this month, 43 YTD)
@@ -740,7 +741,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nino Cipri: Defekt
 - Sue Burke: Semiosis
 - Sue Burke: Interference
-- Nnedi Okorafor: Remote Control
 - Mary Robinette Kowal: The Fated Sky
 - Mary Robinette Kowal: The Relentless Moon
 - Alix Harrow: The Once and Future Witches
