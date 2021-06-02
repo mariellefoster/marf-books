@@ -730,6 +730,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nino Cipri: Defekt
 - KJ Charles: Gilded Cage
 
+## June '21
+
 ## Next
 - Becky Chambers: The Galaxy, and the Ground Within
 - Martha Wells: Tagebuch eines Killerbots
