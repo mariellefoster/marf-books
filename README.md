@@ -732,7 +732,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: Remote Control
 
 ## June '21
-(1 this month, 45 YTD)
+(2 this month, 46 YTD)
 - Sue Burke: Semiosis
 - Sue Burke: Interference
 
@@ -742,8 +742,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: The Galaxy, and the Ground Within
 - Martha Wells: Tagebuch eines Killerbots
 - Zitkala-Sa: American Indian Stories
-- Nino Cipri: Defekt
-- Sue Burke: Interference
 - Mary Robinette Kowal: The Fated Sky
 - Mary Robinette Kowal: The Relentless Moon
 - Alix Harrow: The Once and Future Witches
