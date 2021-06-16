@@ -735,6 +735,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 46 YTD)
 - Sue Burke: Semiosis
 - Sue Burke: Interference
+- Alix Harrow: The Once and Future Witches
 
 
 
@@ -744,7 +745,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Zitkala-Sa: American Indian Stories
 - Mary Robinette Kowal: The Fated Sky
 - Mary Robinette Kowal: The Relentless Moon
-- Alix Harrow: The Once and Future Witches
 
 
 ## Future
