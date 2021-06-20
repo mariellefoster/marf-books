@@ -732,7 +732,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: Remote Control
 
 ## June '21
-(6 this month, 50 YTD)
+(7 this month, 51 YTD)
 - Sue Burke: Semiosis
 - Sue Burke: Interference
 - Alix Harrow: The Once and Future Witches
