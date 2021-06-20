@@ -739,6 +739,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - KJ Charles: An Unseen Attraction
 - The Vela: First Season
 - KJ Charles: An Unnatural Vice
+- KJ Charles: An Unsuitable Heir
 
 
 ## Next
