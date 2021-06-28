@@ -740,10 +740,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Vela: First Season
 - KJ Charles: An Unnatural Vice
 - KJ Charles: An Unsuitable Heir
+- Becky Chambers: The Galaxy, and the Ground Within
 
 
 ## Next
-- Becky Chambers: The Galaxy, and the Ground Within
 - Martha Wells: Tagebuch eines Killerbots
 - Zitkala-Sa: American Indian Stories
 - Mary Robinette Kowal: The Fated Sky
