@@ -748,7 +748,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 56 YTD)
 - KJ Charles: Proper English
 - Bessel van der Kolk: The Body Keeps Score
-
+- Martha Wells: Fugitive Telemetry
 
 ## Next
 (already acquired)
