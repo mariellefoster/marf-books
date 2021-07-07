@@ -744,6 +744,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - David Page Coffin: Making Trousers for Men & Women
 - Paul Stamets: Growing Gourmet and Medicinal Mushrooms
 
+## July '21
+(0 this month, 54 YTD)
+
 
 ## Next
 - Martha Wells: Tagebuch eines Killerbots
