@@ -745,7 +745,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Paul Stamets: Growing Gourmet and Medicinal Mushrooms
 
 ## July '21
-(2 this month, 56 YTD)
+(3 this month, 57 YTD)
 - KJ Charles: Proper English
 - Bessel van der Kolk: The Body Keeps Score
 - Martha Wells: Fugitive Telemetry
