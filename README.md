@@ -760,6 +760,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Zitkala-Sa: American Indian Stories
 - Mary Robinette Kowal: The Fated Sky
 - Mary Robinette Kowal: The Relentless Moon
+- Lois McMaster Bujold: Cordelias Ehre
 
 
 ## Future
