@@ -754,7 +754,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 (already acquired)
-- Leigh Bardugo: Six of Crows
+- Isabel Wilkerson: Caste
+- Richard Rothstein: The Color of Law
 - Maria Dahvana Headley: Beowulf
 - Der Vogel Gott
 - Charlie Jane Anders: The City In The Middle Of The Night
