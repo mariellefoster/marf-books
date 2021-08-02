@@ -752,6 +752,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - KJ Charles: Think of England
 - Leigh Bardugo: Six of Crows
 
+## August '21
+
 ## Next
 (already acquired)
 - Isabel Wilkerson: Caste
