@@ -751,6 +751,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Fugitive Telemetry
 - KJ Charles: Think of England
 - Leigh Bardugo: Six of Crows
+- Sönke Ahrens: How to take better notes
 
 ## August '21
 
