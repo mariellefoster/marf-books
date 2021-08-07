@@ -759,6 +759,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 (already acquired)
+- Benjamin Rosenbaum: The Ant King
+- P. Djèlí Clark: A Master of Djinn
 - Isabel Wilkerson: Caste
 - Richard Rothstein: The Color of Law
 - Maria Dahvana Headley: Beowulf
