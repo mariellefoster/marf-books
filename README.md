@@ -754,7 +754,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sönke Ahrens: How to take better notes
 
 ## August '21
-- The Ratcatcher's Daughter
+- KJ Charles: The Ratcatcher's Daughter
 
 ## Next
 (already acquired)
