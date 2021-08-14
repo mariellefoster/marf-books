@@ -757,11 +757,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 72 YTD)
 - KJ Charles: The Ratcatcher's Daughter
 - P. Djèlí Clark: A Master of Djinn
+- Kelly Link: Magic for Beginners
 
 
 ## Next
 (already acquired)
-- Kelly Link: Magic for Beginners
+
 - Benjamin Rosenbaum: The Ant King
 - P. Djèlí Clark: A Master of Djinn
 - Der Vogel Gott
