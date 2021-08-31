@@ -761,6 +761,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Isabel Wilkerson: The Warmth of Other Suns
 - José Luis Zárate: The Route of Ice and Salt
 - Aimee Ogden: Sun-Daughters, Sea-Daughters
+- Nghi Vo: The Chosen and the Beautiful
 
 ## Next
 (already acquired)
