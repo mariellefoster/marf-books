@@ -754,7 +754,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sönke Ahrens: How to take better notes
 
 ## August '21
-(7 this month, 77 YTD)
+(8 this month, 78 YTD)
 - KJ Charles: The Ratcatcher's Daughter
 - P. Djèlí Clark: A Master of Djinn
 - Kelly Link: Magic for Beginners
