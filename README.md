@@ -764,6 +764,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nghi Vo: The Chosen and the Beautiful
 - Isabel Wilkerson: Caste
 
+## September '21
+
 ## Next
 (already acquired)
 
