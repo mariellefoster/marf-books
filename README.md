@@ -766,7 +766,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Isabel Wilkerson: Caste
 
 ## September '21
-(1 this month, 79 YTD)
+(2 this month, 80 YTD)
 - Naomi Novik: A Deadly Education
 - Katherine Addison: The Goblin Emperor
 
