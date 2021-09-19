@@ -773,6 +773,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 (already acquired)
 - Aliette de Bodard: Fireheart Tiger
+- Leigh Bardugo: Ninth House
+- Naomi Novik: Tödliche Lektion
+- Django Wexler: Hard Reboot
+- Chimamanda Ngozi Adichie: The Visit
 - Benjamin Rosenbaum: The Ant King
 - Der Vogel Gott
 - Charlie Jane Anders: The City In The Middle Of The Night
