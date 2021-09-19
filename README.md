@@ -777,6 +777,14 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Novik: Tödliche Lektion
 - Django Wexler: Hard Reboot
 - Chimamanda Ngozi Adichie: The Visit
+- Nalo Hopkinson: Clapback
+- Nnedi Okorafor: The Black Pages
+- Nisi Shawl: 2043...(A Merman I Should Turn to Be)
+- C. T. Rwizi: These Alien Skies
+- Victor Lavalle: We Travel the Spaceways
+- Kristen Richardson: The Season: A Social History of the Debutante
+- Stephen Graham Jones: Night of the Mannequins
+- Richard Rothstein: The Color of Law: A Forgotten History of How Our Government Segregated America
 - Benjamin Rosenbaum: The Ant King
 - Der Vogel Gott
 - Charlie Jane Anders: The City In The Middle Of The Night
