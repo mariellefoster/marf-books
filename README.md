@@ -772,6 +772,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aliette de Bodard: Fireheart Tiger
 - Naomi Novik: Tödliche Lektion
 - Victor Lavalle: We Travel the Spaceways
+- Kristen Richardson: The Season: A Social History of the Debutante
+
 
 ## Next
 (already acquired)
@@ -782,7 +784,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: The Black Pages
 - Nisi Shawl: 2043...(A Merman I Should Turn to Be)
 - C. T. Rwizi: These Alien Skies
-- Kristen Richardson: The Season: A Social History of the Debutante
 - Stephen Graham Jones: Night of the Mannequins
 - Richard Rothstein: The Color of Law: A Forgotten History of How Our Government Segregated America
 - Benjamin Rosenbaum: The Ant King
