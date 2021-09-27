@@ -769,11 +769,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (3 this month, 81 YTD)
 - Naomi Novik: A Deadly Education
 - Katherine Addison: The Goblin Emperor
+- Aliette de Bodard: Fireheart Tiger
 - Naomi Novik: Tödliche Lektion
 
 ## Next
 (already acquired)
-- Aliette de Bodard: Fireheart Tiger
 - Leigh Bardugo: Ninth House
 - Django Wexler: Hard Reboot
 - Chimamanda Ngozi Adichie: The Visit
