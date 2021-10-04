@@ -766,7 +766,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Isabel Wilkerson: Caste
 
 ## September '21
-(8 this month, 86 YTD)
+(9 this month, 87 YTD)
 - Naomi Novik: A Deadly Education
 - Katherine Addison: The Goblin Emperor
 - Aliette de Bodard: Fireheart Tiger
@@ -777,8 +777,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: A Psalm for the Wild-Built
 - Sarah Hogle: Twice Shy
 
-
 ## October '21
+(
 
 ## Next
 (already acquired)
