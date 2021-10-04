@@ -773,6 +773,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Novik: Tödliche Lektion
 - Victor Lavalle: We Travel the Spaceways
 - Kristen Richardson: The Season: A Social History of the Debutante
+- Naomi Novik: The Last Graduate
+
 
 ## October '21
 
