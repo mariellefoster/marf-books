@@ -775,6 +775,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kristen Richardson: The Season: A Social History of the Debutante
 - Naomi Novik: The Last Graduate
 - Becky Chambers: A Psalm for the Wild-Built
+- Sarah Hogle: Twice Shy
 
 
 ## October '21
