@@ -774,6 +774,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Victor Lavalle: We Travel the Spaceways
 - Kristen Richardson: The Season: A Social History of the Debutante
 
+## October '21
 
 ## Next
 (already acquired)
