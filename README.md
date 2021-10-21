@@ -781,6 +781,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (1 this month, 88 YTD)
 - Katherine Addison: The Witness For The Dead
 - Christopher Buehlman: The Blacktongue Thief
+- Helene Wecker: The Hidden Palace
 
 ## Next
 (already acquired)
