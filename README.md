@@ -785,6 +785,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aliya Whiteley: Skyward Inn
 - Oglaf: Vol 1
 - Octavia Butler: Fledgling
+- Oglaf: Vol 1
 
 
 ## Next
