@@ -778,7 +778,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Hogle: Twice Shy
 
 ## October '21
-(4 this month, 91 YTD)
+(5 this month, 92 YTD)
 - Katherine Addison: The Witness For The Dead
 - Christopher Buehlman: The Blacktongue Thief
 - Helene Wecker: The Hidden Palace
