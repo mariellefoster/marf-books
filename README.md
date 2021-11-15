@@ -791,11 +791,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 96 YTD)
 - Catherynne M. Valente: The Past Is Red
 - Chimamanda Ngozi Adichie: The Visit
-
+- Everina Maxwell: Winter's Orbit
 
 ## Next
 (already acquired)
-- Leigh Bardugo: Ninth House
 - Django Wexler: Hard Reboot
 - Nalo Hopkinson: Clapback
 - Nnedi Okorafor: The Black Pages
