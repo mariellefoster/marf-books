@@ -792,6 +792,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherynne M. Valente: The Past Is Red
 - Chimamanda Ngozi Adichie: The Visit
 - Everina Maxwell: Winter's Orbit
+- Lois McMaster Bujold: The Assasins of Thasalon
 
 ## Next
 (already acquired)
