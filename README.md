@@ -790,13 +790,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## November '21
 (1 this month, 95 YTD)
 - Catherynne M. Valente: The Past Is Red
+- Chimamanda Ngozi Adichie: The Visit
 
 
 ## Next
 (already acquired)
 - Leigh Bardugo: Ninth House
 - Django Wexler: Hard Reboot
-- Chimamanda Ngozi Adichie: The Visit
 - Nalo Hopkinson: Clapback
 - Nnedi Okorafor: The Black Pages
 - Nisi Shawl: 2043...(A Merman I Should Turn to Be)
