@@ -788,7 +788,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Oglaf: Vol 2
 
 ## November '21
-(4 this month, 98 YTD)
+(5 this month, 99 YTD)
 - Catherynne M. Valente: The Past Is Red
 - Chimamanda Ngozi Adichie: The Visit
 - Everina Maxwell: Winter's Orbit
