@@ -794,6 +794,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Everina Maxwell: Winter's Orbit
 - Lois McMaster Bujold: The Assasins of Thasalon
 - Lois McMaster Bujold: Knot of Shadows
+- Casey McQuiston: One Last Stop
+
 
 ## Next
 (already acquired)
