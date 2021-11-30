@@ -796,6 +796,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Knot of Shadows
 - Casey McQuiston: One Last Stop
 
+## December '21
+(0 this month, 100 YTD)
+
 
 ## Next
 (already acquired)
