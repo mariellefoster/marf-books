@@ -797,7 +797,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Casey McQuiston: One Last Stop
 
 ## December '21
-(2 this month, 102 YTD)
+(3 this month, 103 YTD)
 - Ursula Leguin: The Carrier Bag Theory Of Fiction
 - Becky Chambers: A Psalm for the Wild-Built
 - Seth Dickinson: The Traitor Baru Cormorant
