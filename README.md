@@ -802,11 +802,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ursula Leguin: The Carrier Bag Theory Of Fiction
 - Becky Chambers: A Psalm for the Wild-Built
 - Seth Dickinson: The Traitor Baru Cormorant
+- Lisa Feldman Barrett: How Emotions are Made
+
 
 
 ## Next
 (already acquired)
-- How Emotions are Made
 - Django Wexler: Hard Reboot
 - Nalo Hopkinson: Clapback
 - Nnedi Okorafor: The Black Pages
