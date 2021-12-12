@@ -808,6 +808,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 (already acquired)
+- Freya Marske: A Marvellous Light
+- Charlie Jane Anders: Never Say You Can't Survive
 - Django Wexler: Hard Reboot
 - Nalo Hopkinson: Clapback
 - Nnedi Okorafor: The Black Pages
