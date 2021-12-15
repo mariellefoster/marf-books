@@ -820,16 +820,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - C. T. Rwizi: These Alien Skies
 - Stephen Graham Jones: Night of the Mannequins
 - Richard Rothstein: The Color of Law: A Forgotten History of How Our Government Segregated America
-- Benjamin Rosenbaum: The Ant King
-- Der Vogel Gott
 - Charlie Jane Anders: The City In The Middle Of The Night
 - Martha Wells: Tagebuch eines Killerbots
-- Zitkala-Sa: American Indian Stories
 - Mary Robinette Kowal: The Fated Sky
 - Mary Robinette Kowal: The Relentless Moon
 - Lois McMaster Bujold: Cordelias Ehre
 - Richard Rothstein: The Color of Law
-- Maria Dahvana Headley: Beowulf
 
 
 ## Future
