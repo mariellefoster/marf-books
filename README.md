@@ -808,6 +808,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (already acquired)
 - Carrie Vaughn: The Ghosts of Sherwood
 - S. L. Huang: Burning Roses
+- Kerstin Hall: Star Eater
 - Seth Dickinson: The Monster Baru Cormorant
 - Freya Marske: A Marvellous Light
 - Charlie Jane Anders: Never Say You Can't Survive
