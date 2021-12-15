@@ -35,8 +35,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Artificial Condition
 - Martha Wells: Network Effect
 - Catherynne Valente: The Refrigerator Monologues
-- Matthew Walker: Why We Sleep
-
 
 # 2016
 
