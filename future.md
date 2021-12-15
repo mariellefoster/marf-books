@@ -49,3 +49,7 @@
 - Aliette de Bodard: Of Birthdays, and Fungus, and Kindness
 - Yoon Ha Lee, Becky Chambers, Rivers Solomon, SL Huang: The Vela
 - Zeynep Tufekci: Twitter and Tear Gas
+- Benjamin Rosenbaum: The Ant King
+- Maria Dahvana Headley: Beowulf
+- Zitkala-Sa: American Indian Stories
+- Der Vogel Gott
