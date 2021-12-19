@@ -806,6 +806,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 (already acquired)
+- Professional Baking
+- Nikole Hannah-Jones: The 1619 Project
 - Carrie Vaughn: The Ghosts of Sherwood
 - S. L. Huang: Burning Roses
 - Kerstin Hall: Star Eater
