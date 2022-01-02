@@ -806,6 +806,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2022
 
 ## January 2022
+(0 this month, 0 YTD)
 
 ## Next
 (already acquired)
