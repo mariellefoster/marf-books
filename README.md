@@ -806,6 +806,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## January 2022
 (0 this month, 0 YTD)
+- Freya Marske: A Marvellous Light
 
 ## Next
 (already acquired)
@@ -818,7 +819,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - S. L. Huang: Burning Roses
 - Kerstin Hall: Star Eater
 - Seth Dickinson: The Monster Baru Cormorant
-- Freya Marske: A Marvellous Light
 - Charlie Jane Anders: Never Say You Can't Survive
 - Django Wexler: Hard Reboot
 - Nalo Hopkinson: Clapback
