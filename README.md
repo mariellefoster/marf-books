@@ -809,7 +809,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Freya Marske: A Marvellous Light
 - S. L. Huang: Burning Roses
 
-
 ## Next
 (already acquired)
 - Professional Baking
@@ -835,7 +834,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Robinette Kowal: The Relentless Moon
 - Lois McMaster Bujold: Cordelias Ehre
 - Richard Rothstein: The Color of Law
-
 
 ## Future
 - Randall Hyde: Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
