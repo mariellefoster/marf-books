@@ -805,7 +805,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2022
 
 ## January 2022
-(1 this month, 1 YTD)
+(2 this month, 2 YTD)
 - Freya Marske: A Marvellous Light
 - S. L. Huang: Burning Roses
 
