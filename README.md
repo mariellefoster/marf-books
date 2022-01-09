@@ -805,9 +805,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2022
 
 ## January 2022
-(2 this month, 2 YTD)
+(3 this month, 2 YTD)
 - Freya Marske: A Marvellous Light
 - S. L. Huang: Burning Roses
+- Kerstin Hall: Star Eater
 
 ## Next
 (already acquired)
@@ -817,8 +818,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Emily Nagoski: Burnout
 - Isabel Wilkerson: Caste
 - Carrie Vaughn: The Ghosts of Sherwood
-- S. L. Huang: Burning Roses
-- Kerstin Hall: Star Eater
 - Seth Dickinson: The Monster Baru Cormorant
 - Charlie Jane Anders: Never Say You Can't Survive
 - Django Wexler: Hard Reboot
