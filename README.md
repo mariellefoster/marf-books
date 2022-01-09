@@ -809,13 +809,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Freya Marske: A Marvellous Light
 - S. L. Huang: Burning Roses
 - Kerstin Hall: Star Eater
+- Emily Nagoski: Burnout
 
 ## Next
 (already acquired)
 - Professional Baking
 - Nikole Hannah-Jones: The 1619 Project
 - Kyla Schuller: The Trouble with White Women
-- Emily Nagoski: Burnout
 - Isabel Wilkerson: Caste
 - Carrie Vaughn: The Ghosts of Sherwood
 - Seth Dickinson: The Monster Baru Cormorant
