@@ -811,6 +811,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kerstin Hall: Star Eater
 - Emily Nagoski: Burnout
 - Daryl Gregory: The Album of Dr. Moreau
+- Sarah Pinsker: We Are Satellites
 
 ## Next
 (already acquired)
