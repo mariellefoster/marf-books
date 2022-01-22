@@ -6,10 +6,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Beguilement
 - Lois McMaster Bujold: Mirror Dance
 - Lois McMaster Bujold: Shards of Honor
+- Sue Burke: Semiosis
 - Octavia Butler: Fledgling
+- Becky Chambers: A Psalm for the Wild-Built
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Becky Chambers: Record of a Spaceborn Few
-- Henry Connolly: A Key, an Egg, an Unfortunate Remark
+- Becky Chambers: The Galaxy, and the Ground Within
+- P. Djèlí Clark: A Master of Djinn
 - Max Gladstone: Three Parts Dead
 - Max Gladstone: Empress of Forever
 - N. K. Jemisin: A Hundred Thousand Kingdoms
@@ -19,11 +22,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Ancillary Mercy
 - Laurie J. Marks: Fire Logic
 - Arkady Martine: A Memory Called Empire
+- Arkady Martine: A Desolation Called Peace
 - Everina Maxwell: Winter's Orbit
 - Naomi Novik: A Deadly Education
 - Naomi Novik: Spinning Silver
 - Nnedi Okorafor: Binti: Home
 - Nnedi Okorafor: Binti
+- Yotam Ottolenghi: Simple
 - Lina Rather: Sisters of the Vast Black
 - Rebecca Roanhorse: Trail of Lightning
 - Marshall Rosenberg: Non-Violent Communication
@@ -35,6 +40,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Artificial Condition
 - Martha Wells: Network Effect
 - Catherynne Valente: The Refrigerator Monologues
+- Nghi Vo: When the Tiger Came Down the Mountain
+
 
 # 2016
 
@@ -718,7 +725,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## May '21
 (12 this month, 44 YTD)
-- The Scapegracers: Hannah Abigail Clarke
+- Hannah Abigail Clarke: The Scapegracers
 - Sarah Gailey: Worth Her Weight in Gold
 - Theodora Goss: Red as Blood and White as Bone
 - Kij Johnson: The Cat Who Walked a Thousand Miles
