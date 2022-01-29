@@ -820,6 +820,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Daryl Gregory: The Album of Dr. Moreau
 - Sarah Pinsker: We Are Satellites
 - S. Qiouyi Lu: In the Watchful City
+- Zin E. Rocklyn: Flowers for the Sea
 
 ## Next
 (already acquired)
