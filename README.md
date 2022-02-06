@@ -826,6 +826,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## February 2022
 (1 this month, 10 YTD)
 - Fonda Lee: Jade Legacy
+- Battle of Berlin ebook
 
 ## Next
 (already acquired)
