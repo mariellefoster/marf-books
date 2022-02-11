@@ -827,6 +827,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 11 YTD)
 - Fonda Lee: Jade Legacy
 - Battle of Berlin ebook
+- Antony Beevor: The Fall of Berlin 1945
 
 ## Next
 (already acquired)
