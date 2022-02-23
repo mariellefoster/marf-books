@@ -840,8 +840,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 (already acquired)
 - Professional Baking
+- Tochi Onyebuchi: Goliath
+- Premee Mohamed: The Annual Migration of Clouds
 - Kyla Schuller: The Trouble with White Women
+- Catherynne M. Valente: Comfort Me With Apples
+- Premee Mohamed: These Lifeless Things
+- Italo Calvino: Invisible Cities
+- TJ Klune: The House in the Cerulean Sea
 - Isabel Wilkerson: Caste
+- Ryka Aoki: Light From Uncommon Stars
+- Marina & Sergey Dyachenko: Vita Nostra
+- Charles Stross: Quantum of Nightmares
 - Seth Dickinson: The Monster Baru Cormorant
 - Charlie Jane Anders: Never Say You Can't Survive
 - Django Wexler: Hard Reboot
