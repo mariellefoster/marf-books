@@ -831,6 +831,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Systemausfall
 - Daryl Gregory: Nine Last Days on Planet Earth
 - Nikole Hannah-Jones: The 1619 Project
+- Stephen Graham Jones: Night of the Mannequins
 
 
 ## Next
@@ -846,7 +847,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: The Black Pages
 - Nisi Shawl: 2043...(A Merman I Should Turn to Be)
 - C. T. Rwizi: These Alien Skies
-- Stephen Graham Jones: Night of the Mannequins
 - Richard Rothstein: The Color of Law: A Forgotten History of How Our Government Segregated America
 - Charlie Jane Anders: The City In The Middle Of The Night
 - Martha Wells: Tagebuch eines Killerbots
