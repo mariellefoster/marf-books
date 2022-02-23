@@ -833,6 +833,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Daryl Gregory: Nine Last Days on Planet Earth
 - Nikole Hannah-Jones: The 1619 Project
 - Stephen Graham Jones: Night of the Mannequins
+- Carrie Vaughn: The Ghosts of Sherwood
+
 
 
 ## Next
@@ -840,7 +842,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Professional Baking
 - Kyla Schuller: The Trouble with White Women
 - Isabel Wilkerson: Caste
-- Carrie Vaughn: The Ghosts of Sherwood
 - Seth Dickinson: The Monster Baru Cormorant
 - Charlie Jane Anders: Never Say You Can't Survive
 - Django Wexler: Hard Reboot
