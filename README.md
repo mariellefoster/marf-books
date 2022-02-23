@@ -830,11 +830,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Antony Beevor: The Fall of Berlin 1945
 - Martha Wells: Systemausfall
 - Daryl Gregory: Nine Last Days on Planet Earth
+- Nikole Hannah-Jones: The 1619 Project
+
 
 ## Next
 (already acquired)
 - Professional Baking
-- Nikole Hannah-Jones: The 1619 Project
 - Kyla Schuller: The Trouble with White Women
 - Isabel Wilkerson: Caste
 - Carrie Vaughn: The Ghosts of Sherwood
