@@ -835,6 +835,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Stephen Graham Jones: Night of the Mannequins
 - Carrie Vaughn: The Ghosts of Sherwood
 - Lina Rather: Sisters of the Vast Black
+- Lina Rather: Sisters of the Forsaken Stars
 
 
 ## Next
