@@ -3,6 +3,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 # All Time Favorites
 - Katherine Addison: The Goblin Emperor
+- Ryka Aoki: Light From Uncommon Stars
 - Lois McMaster Bujold: Beguilement
 - Lois McMaster Bujold: Mirror Dance
 - Lois McMaster Bujold: Shards of Honor
