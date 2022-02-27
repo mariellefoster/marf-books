@@ -837,6 +837,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lina Rather: Sisters of the Vast Black
 - Lina Rather: Sisters of the Forsaken Stars
 - Tony Le Tissier: Race to the Reichstag
+- Ryka Aoki: Light From Uncommon Stars
+
 
 
 ## Next
@@ -850,7 +852,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Italo Calvino: Invisible Cities
 - TJ Klune: The House in the Cerulean Sea
 - Isabel Wilkerson: Caste
-- Ryka Aoki: Light From Uncommon Stars
 - Marina & Sergey Dyachenko: Vita Nostra
 - Charles Stross: Quantum of Nightmares
 - Seth Dickinson: The Monster Baru Cormorant
