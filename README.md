@@ -825,7 +825,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sebastian Felix Ernst, Jonas Tratz, FAKT: Berlin Maps
 
 ## February 2022
-(12 this month, 21 YTD)
+(13 this month, 22 YTD)
 - Fonda Lee: Jade Legacy
 - Battle of Berlin ebook
 - Antony Beevor: The Fall of Berlin 1945
