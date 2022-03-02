@@ -842,6 +842,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## March 2022
 (0 this month, 22 YTD)
+- TJ Klune: The House in the Cerulean Sea
 
 ## Next
 (already acquired)
@@ -852,7 +853,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherynne M. Valente: Comfort Me With Apples
 - Premee Mohamed: These Lifeless Things
 - Italo Calvino: Invisible Cities
-- TJ Klune: The House in the Cerulean Sea
 - Isabel Wilkerson: Caste
 - Marina & Sergey Dyachenko: Vita Nostra
 - Charles Stross: Quantum of Nightmares
