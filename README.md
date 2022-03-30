@@ -43,7 +43,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherynne Valente: The Refrigerator Monologues
 - Nghi Vo: When the Tiger Came Down the Mountain
 
-
 # 2016
 
 ## September '16
