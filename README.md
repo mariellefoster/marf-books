@@ -845,6 +845,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Italo Calvino: Invisible Cities
 - Martha Wells: Auf Paranoia programmiert
 - Martha Wells: Exit-Szenario
+- Martha Wells: Schneller Abgang 
 - Becky Chambers: The Galaxy, and the Ground Within
 
 
