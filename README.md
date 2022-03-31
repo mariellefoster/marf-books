@@ -842,6 +842,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## March 2022
 (2 this month, 24 YTD)
 - TJ Klune: The House in the Cerulean Sea
+- Italo Calvino: Invisible Cities
 - Becky Chambers: The Galaxy, and the Ground Within
 
 
@@ -853,7 +854,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kyla Schuller: The Trouble with White Women
 - Catherynne M. Valente: Comfort Me With Apples
 - Premee Mohamed: These Lifeless Things
-- Italo Calvino: Invisible Cities
 - Isabel Wilkerson: Caste
 - Marina & Sergey Dyachenko: Vita Nostra
 - Charles Stross: Quantum of Nightmares
