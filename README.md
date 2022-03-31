@@ -843,6 +843,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (3 this month, 25 YTD)
 - TJ Klune: The House in the Cerulean Sea
 - Italo Calvino: Invisible Cities
+- Martha Wells: Auf Paranoia programmiert
 - Becky Chambers: The Galaxy, and the Ground Within
 
 
@@ -866,7 +867,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - C. T. Rwizi: These Alien Skies
 - Richard Rothstein: The Color of Law: A Forgotten History of How Our Government Segregated America
 - Charlie Jane Anders: The City In The Middle Of The Night
-- Martha Wells: Tagebuch eines Killerbots
 - Mary Robinette Kowal: The Fated Sky
 - Mary Robinette Kowal: The Relentless Moon
 - Lois McMaster Bujold: Cordelias Ehre
