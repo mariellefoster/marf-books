@@ -855,6 +855,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Tamsyn Muir: Princess Floralinda and the Forty-flight Tower
 - Shelby Parker-Chan: She Who Became the Sun
 - Marina & Sergey Dyachenko: Vita Nostra
+- V. E. Schwab: The Invisible Life of Addie Larue
 
 ## Next
 (already acquired)
