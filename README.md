@@ -854,6 +854,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 (2 this month, 32 YTD)
 - Tamsyn Muir: Princess Floralinda and the Forty-flight Tower
 - Shelby Parker-Chan: She Who Became the Sun
+- Marina & Sergey Dyachenko: Vita Nostra
 
 ## Next
 (already acquired)
@@ -864,7 +865,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherynne M. Valente: Comfort Me With Apples
 - Premee Mohamed: These Lifeless Things
 - Isabel Wilkerson: Caste
-- Marina & Sergey Dyachenko: Vita Nostra
 - Charles Stross: Quantum of Nightmares
 - Seth Dickinson: The Monster Baru Cormorant
 - Charlie Jane Anders: Never Say You Can't Survive
