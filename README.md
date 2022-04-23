@@ -856,6 +856,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Shelby Parker-Chan: She Who Became the Sun
 - Marina & Sergey Dyachenko: Vita Nostra
 - V. E. Schwab: The Invisible Life of Addie Larue
+- Premee Mohamed: These Lifeless Things
 
 ## Next
 (already acquired)
@@ -864,8 +865,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Premee Mohamed: The Annual Migration of Clouds
 - Kyla Schuller: The Trouble with White Women
 - Catherynne M. Valente: Comfort Me With Apples
-- Premee Mohamed: These Lifeless Things
-- Isabel Wilkerson: Caste
+- Isabelw Wilkerson: Caste
 - Charles Stross: Quantum of Nightmares
 - Seth Dickinson: The Monster Baru Cormorant
 - Charlie Jane Anders: Never Say You Can't Survive
