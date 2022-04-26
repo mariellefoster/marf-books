@@ -852,7 +852,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: The Galaxy, and the Ground Within
 
 ## April 2022
-(7 this month, 37 YTD)
+(8 this month, 38 YTD)
 - Tamsyn Muir: Princess Floralinda and the Forty-flight Tower
 - Shelby Parker-Chan: She Who Became the Sun
 - Marina & Sergey Dyachenko: Vita Nostra
