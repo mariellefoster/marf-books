@@ -864,6 +864,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## Next
 (already acquired)
+- Marion Deeds: Comeuppance Served Cold
+- Ma-Nee Chacaby: A Two-Spirit Journey
+- George M. Johnson: All Boys Aren't Blue
 - Professional Baking
 - Tochi Onyebuchi: Goliath
 - Premee Mohamed: The Annual Migration of Clouds
