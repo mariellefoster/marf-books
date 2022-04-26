@@ -859,6 +859,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - V. E. Schwab: The Invisible Life of Addie Larue
 - Premee Mohamed: These Lifeless Things
 - Kate Elliott: Servant Mage
+- Gabby Rivera: Juliet Takes A Breath
 
 ## Next
 (already acquired)
