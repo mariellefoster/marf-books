@@ -861,6 +861,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kate Elliott: Servant Mage
 - Gabby Rivera: Juliet Takes A Breath
 - Donella Meadows: Thinking in Systems
+- Stina Leicht: Persephone Station
 
 ## Next
 (already acquired)
