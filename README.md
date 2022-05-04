@@ -863,6 +863,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Donella Meadows: Thinking in Systems
 - Stina Leicht: Persephone Station
 
+## May 2022
+
 ## Next
 (already acquired)
 - Marion Deeds: Comeuppance Served Cold
