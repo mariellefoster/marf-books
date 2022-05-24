@@ -864,7 +864,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Stina Leicht: Persephone Station
 
 ## May 2022
-(1 this month, 40 YTD)
+(2 this month, 41 YTD)
 - Nicola Griffith: Spear
 - Ma-Nee Chacaby: A Two-Spirit Journey
 -
