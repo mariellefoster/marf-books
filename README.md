@@ -43,6 +43,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Network Effect
 - Catherynne Valente: The Refrigerator Monologues
 - Nghi Vo: When the Tiger Came Down the Mountain
+- Xiran Jay Zhao: Iron Widow
+
 
 # 2016
 
