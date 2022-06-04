@@ -876,6 +876,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Novik: Throne of Jade
 
 
+## June 2022
+(0 this month, 46 YTD)
+
 ## Next
 (already acquired)
 - Marion Deeds: Comeuppance Served Cold
