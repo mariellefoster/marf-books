@@ -877,7 +877,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 
 ## June 2022
-(0 this month, 46 YTD)
+(1 this month, 47 YTD)
 - Naomi Novik: Black Powder War
 
 ## Next
