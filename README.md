@@ -872,6 +872,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ma-Nee Chacaby: A Two-Spirit Journey
 - Xiran Jay Zhao: Iron Widow
 - Michael Bazzett: The Echo Chamber
+- Naomi Novik: In His Majesty's Service
 
 
 ## Next
