@@ -884,6 +884,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Charles Stross: Quantum of Nightmares
 - Katherine Addison: The Grief of Stones
 - Alfie Kohn: Punished By Rewards
+- Saad Z. Hossain: Kundo Wakes Up
 
 ## Next
 (already acquired)
