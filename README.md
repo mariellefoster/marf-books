@@ -878,7 +878,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 
 ## June 2022
-(5 this month, 51 YTD)
+(6 this month, 52 YTD)
 - Naomi Novik: Black Powder War
 - Alfie Kohn: The Homework Myth
 - Charles Stross: Quantum of Nightmares
