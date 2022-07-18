@@ -888,6 +888,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## July 2022
 (0 this month, 52 YTD)
+- Katherine Addison: The Goblin Emperor
+
 
 ## Next
 (already acquired)
