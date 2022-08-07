@@ -878,16 +878,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 
 ## June 2022
-(6 this month, 52 YTD)
+(7 this month, 53 YTD)
 - Naomi Novik: Black Powder War
 - Alfie Kohn: The Homework Myth
 - Charles Stross: Quantum of Nightmares
 - Katherine Addison: The Grief of Stones
+- Ma-Nee Chacaby: A Two-Spirit Journey
 - Alfie Kohn: Punished By Rewards
 - Saad Z. Hossain: Kundo Wakes Up
 
 ## July 2022
-(5 this month, 57 YTD)
+(5 this month, 58 YTD)
 - Katherine Addison: The Goblin Emperor
 - Sebastian Felix Ernst, Jonas Tratz, FAKT: Berlin Maps
 - Federal Office of Civil Protection and Disaster Assistance: Disasters
@@ -895,10 +896,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Max Gladstone: Last Exit
 
 
+
+
 ## Next
 (already acquired)
 - Marion Deeds: Comeuppance Served Cold
-- Ma-Nee Chacaby: A Two-Spirit Journey
 - George M. Johnson: All Boys Aren't Blue
 - Professional Baking
 - Premee Mohamed: The Annual Migration of Clouds
