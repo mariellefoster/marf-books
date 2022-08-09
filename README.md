@@ -888,16 +888,20 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Saad Z. Hossain: Kundo Wakes Up
 
 ## July 2022
-(5 this month, 58 YTD)
+(6 this month, 59 YTD)
 - Katherine Addison: The Goblin Emperor
 - Sebastian Felix Ernst, Jonas Tratz, FAKT: Berlin Maps
 - Federal Office of Civil Protection and Disaster Assistance: Disasters
 - David Richo: How to Be An Adult in Relationships
 - Max Gladstone: Last Exit
+- Yoko Tawada: Scattered All Over the Earth
 
 ## August 2022
-(0 this month, 58 TYD)
-
+(4 this month, 63 TYD)
+- Abhijit Banerjee, Esther Duflo: Poor Economics
+- C. J. Cherryh: Foreigner
+- Melissa Fehr: Sew Your Own Activewear
+- Tom Wolf, Manuel Roy, Roberto Sassi: Secret Berlin
 
 
 ## Next
