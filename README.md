@@ -908,13 +908,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## Next
 (already acquired)
 - Marion Deeds: Comeuppance Served Cold
-- George M. Johnson: All Boys Aren't Blue
 - Professional Baking
-- Premee Mohamed: The Annual Migration of Clouds
 - Kyla Schuller: The Trouble with White Women
-- Catherynne M. Valente: Comfort Me With Apples
-- Isabelw Wilkerson: Caste
-- Charles Stross: Quantum of Nightmares
+- Isabel Wilkerson: Caste
 - Seth Dickinson: The Monster Baru Cormorant
 - Charlie Jane Anders: Never Say You Can't Survive
 - Django Wexler: Hard Reboot
