@@ -897,11 +897,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Yoko Tawada: Scattered All Over the Earth
 
 ## August 2022
-(4 this month, 63 TYD)
+(5 this month, 64 TYD)
 - Abhijit Banerjee, Esther Duflo: Poor Economics
 - C. J. Cherryh: Foreigner
 - Melissa Fehr: Sew Your Own Activewear
 - Tom Wolf, Manuel Roy, Roberto Sassi: Secret Berlin
+- Tiago Forte: Building A Second Brain
 
 
 ## Next
