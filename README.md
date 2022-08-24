@@ -903,6 +903,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Melissa Fehr: Sew Your Own Activewear
 - Tom Wolf, Manuel Roy, Roberto Sassi: Secret Berlin
 - Tiago Forte: Building A Second Brain
+- Marion Deeds: Comeuppance Served Cold
 
 
 ## Next
