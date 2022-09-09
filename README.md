@@ -897,7 +897,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Yoko Tawada: Scattered All Over the Earth
 
 ## August 2022
-(8 this month, 67 TYD)
+(8 this month, 67 YTD)
 - Abhijit Banerjee, Esther Duflo: Poor Economics
 - C. J. Cherryh: Foreigner
 - Melissa Fehr: Sew Your Own Activewear
@@ -907,10 +907,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Jessie Mihalik: Hunt the Stars
 - David Richo: How to Be an Adult in Relationships
 
+## September 2022
+(1 this month, 68 YTD)
+- Casey McQuiston: I Kissed Shara Wheeler
 
 ## Next
 (already acquired)
-- Marion Deeds: Comeuppance Served Cold
 - Professional Baking
 - Kyla Schuller: The Trouble with White Women
 - Isabel Wilkerson: Caste
