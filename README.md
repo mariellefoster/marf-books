@@ -910,6 +910,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## September 2022
 (1 this month, 68 YTD)
 - Casey McQuiston: I Kissed Shara Wheeler
+- Rhiannon A. Grist: The Queen of the High Fields
+- Juno Dawson: Her Majesty's Royal Coven
+- Aliette de Bodard: The Citadel of Weeping Pearls
 
 ## Next
 (already acquired)
