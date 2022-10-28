@@ -29,6 +29,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Everina Maxwell: Winter's Orbit
 - Naomi Novik: A Deadly Education
 - Naomi Novik: Spinning Silver
+- Naomi Novik: The Golden Enclaves
 - Nnedi Okorafor: Binti: Home
 - Nnedi Okorafor: Binti
 - Yotam Ottolenghi: Simple
@@ -38,6 +39,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Matt Ruff: Lovecraft Country
 - Matt Ruff: Set This House in Order
 - Matt Ruff: The Mirage
+- Adrian Tchaikovsky: Elder Race
 - Angie Thomas: The Hate U Give
 - Martha Wells: All Systems Red
 - Martha Wells: Artificial Condition
