@@ -908,11 +908,25 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - David Richo: How to Be an Adult in Relationships
 
 ## September 2022
-(1 this month, 68 YTD)
+(7 this month, 74 YTD)
 - Casey McQuiston: I Kissed Shara Wheeler
 - Rhiannon A. Grist: The Queen of the High Fields
 - Juno Dawson: Her Majesty's Royal Coven
 - Aliette de Bodard: The Citadel of Weeping Pearls
+- Becky Chambers: Prayer for the Crown Shy
+- Eliot Schrefer: The Darkness Outside Us
+- Aliette de Bodard: Ghosts, Charms and Grievances
+
+## October 2022
+(8 this month, 82 YTD)
+- Naomi Novik: The Golden Enclaves
+- Tamsyn Muir: Nona the Ninth
+- TJ Klune: Under the Whispering Door
+- Kate Mangino: Equal Partners
+- Adrian Tchaikovsky: Elder Race
+- Courtney Milan: The Lady Always Wins
+- Connie Willis: Inside Job
+- Olivia Dade: Spoiler Alert
 
 ## Next
 (already acquired)
