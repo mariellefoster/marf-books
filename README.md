@@ -920,7 +920,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aliette de Bodard: Ghosts, Charms and Grievances
 
 ## October 2022
-(8 this month, 82 YTD)
+(9 this month, 83 YTD)
 - Naomi Novik: The Golden Enclaves
 - Tamsyn Muir: Nona the Ninth
 - TJ Klune: Under the Whispering Door
@@ -929,6 +929,18 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Courtney Milan: The Lady Always Wins
 - Connie Willis: Inside Job
 - Olivia Dade: Spoiler Alert
+- Eclipse The Moon: Jessie Mihalik
+
+## November 2022
+(8 this month, 91 YTD)
+- Carolyn Denham: Merchant and Mills Sewing Book
+- Everina Maxwell: Ocean's Echo
+- James C. Scott: Seeing Like A State
+- Adrian Tchaikovsky: The Expert System's Brother
+- Alyssa Cole: How to Find a Princess
+- L. David Marquet: Turn the Ship Around
+- The Quilting Manual
+- Nghi Vo: Into The Riverlands
 
 ## Next
 (already acquired)
