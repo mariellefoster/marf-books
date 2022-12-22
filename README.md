@@ -942,6 +942,15 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Quilting Manual
 - Nghi Vo: Into The Riverlands
 
+## December 2022
+(6 this month, 97 YTD)
+- Adrian Tchaikovsky: The Expert System's Champion
+- H. Clarke: The Scratch Daughters
+- Ruthanna Emrys: A Half-Built Garden
+- Sharbreon Plummer: Diasporic Threads
+- Olivia Dade: All The Feels
+- Will Larson: Staff Engineer
+
 ## Next
 (already acquired)
 - Professional Baking
