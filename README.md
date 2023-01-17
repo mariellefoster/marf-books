@@ -943,13 +943,25 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nghi Vo: Into The Riverlands
 
 ## December 2022
-(6 this month, 97 YTD)
+(10 this month, 101 YTD)
 - Adrian Tchaikovsky: The Expert System's Champion
 - H. Clarke: The Scratch Daughters
 - Ruthanna Emrys: A Half-Built Garden
 - Sharbreon Plummer: Diasporic Threads
 - Olivia Dade: All The Feels
 - Will Larson: Staff Engineer
+- Georgia Bonesteel: Lap Quilting
+- Carolyn Forster: Big Stitch Quilting
+- Isaac Fellman: Dead Collections
+- Renaissance Woman
+
+## January 2022
+(5 this month, 5 YTD)
+- Silvia Moreno-Garcia: The Daughter of Doctor Moreau
+- Joanne Lee Molinaro: The Korean Vegan
+- Dara Horn: People Love Dead Jews
+- Hannah Che: The Vegan Chinese Kitchen
+- Andrea Lawler: Paul Takes the Form of a Mortal Girl
 
 ## Next
 (already acquired)
