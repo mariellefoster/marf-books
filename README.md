@@ -11,6 +11,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Shards of Honor
 - Sue Burke: Semiosis
 - Octavia Butler: Fledgling
+- S. A. Chakraborty: City of Brass
+- S. A. Chakraborty: Kingdom of Copper
+- S. A. Chakraborty: Empire of Gold
 - Becky Chambers: A Psalm for the Wild-Built
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Becky Chambers: Record of a Spaceborn Few
@@ -46,6 +49,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: Network Effect
 - Catherynne Valente: The Refrigerator Monologues
 - Nghi Vo: When the Tiger Came Down the Mountain
+- Nghi Vo: Into The Riverlands
 - Xiran Jay Zhao: Iron Widow
 
 
@@ -956,12 +960,36 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Renaissance Woman
 
 ## January 2022
-(5 this month, 5 YTD)
+(8 this month, 8 YTD)
 - Silvia Moreno-Garcia: The Daughter of Doctor Moreau
 - Joanne Lee Molinaro: The Korean Vegan
 - Dara Horn: People Love Dead Jews
 - Hannah Che: The Vegan Chinese Kitchen
 - Andrea Lawler: Paul Takes the Form of a Mortal Girl
+- Chaz Brenchley: Three Twins at the Crater School
+- Mary Robinette-Kowal: The Spare Man
+- Renaissance Periodization: Renaissance Woman
+
+
+## February 2022
+(12 this month, 20 YTD)
+- Naomi Novik: A Deadly Education
+- Naomi Novik: Spinning Silver
+- Naomi Novik: The Golden Enclaves
+- Annie Duke: How to Decide
+- Freya Marske: A Restless Truth
+- KJ Charles: Gilded Cage
+- Naseem Jamnia: The Bruising of Qilwa
+- Hilary Sumner-Boyd, John Freely: Strolling Through Istanbul
+- James Scott Bell: Plot and Structure
+- S. A. Chakraborty: City of Brass
+- S. A. Chakraborty: Kingdom of Copper
+- S. A. Chakraborty: Empire of Gold
+
+
+## March 2022
+(1 this month, 21 YTD)
+- Orhan Pamuk: Memories of Istanbul
 
 ## Next
 (already acquired)
