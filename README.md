@@ -959,7 +959,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Isaac Fellman: Dead Collections
 - Renaissance Woman
 
-## January 2022
+# 2023
+
+## January 2023
 (8 this month, 8 YTD)
 - Silvia Moreno-Garcia: The Daughter of Doctor Moreau
 - Joanne Lee Molinaro: The Korean Vegan
@@ -971,7 +973,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Renaissance Periodization: Renaissance Woman
 
 
-## February 2022
+## February 2023
 (12 this month, 20 YTD)
 - Naomi Novik: A Deadly Education
 - Naomi Novik: Spinning Silver
@@ -987,7 +989,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - S. A. Chakraborty: Empire of Gold
 
 
-## March 2022
+## March 2023
 (5 this month, 25 YTD)
 - Orhan Pamuk: Memories of Istanbul
 - KJ Charles: Masters in this Hall
