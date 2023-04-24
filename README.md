@@ -1000,6 +1000,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: The Siren Depths
 - S. A. Chakraborty: River of Silver
 
+
+## April 2023
+(7 this month, 35 YTD)
+- Martha Wells: The Edge of Worlds
+- Martha Wells: Harbors of the Sun
+- Martha Wells: Stories of the Raksura
+- Malka Older: The Mimicking of Known Successes
+- Travis Baldree: Legends and Lattes
+- Pema Chödrön: How to Meditate
+- Shannon Chakraborty: The Adventures of Amina al-Sirafi
+
 ## Next
 (already acquired)
 - Professional Baking
