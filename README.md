@@ -1002,7 +1002,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 
 ## April 2023
-(7 this month, 35 YTD)
+(8 this month, 36 YTD)
 - Martha Wells: The Edge of Worlds
 - Martha Wells: Harbors of the Sun
 - Martha Wells: Stories of the Raksura
@@ -1010,6 +1010,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Travis Baldree: Legends and Lattes
 - Pema Chödrön: How to Meditate
 - Shannon Chakraborty: The Adventures of Amina al-Sirafi
+- Fonda Lee: Untethered Sky
+
+## May 2023
+(2 this month, 38 YTD)
+- The Remarkable Retirement of Edna Fischer
+- Victoria Goddard: The Hands of the Emperor
+
 
 ## Next
 (already acquired)
