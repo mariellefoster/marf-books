@@ -1014,8 +1014,23 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## May 2023
 (2 this month, 38 YTD)
-- The Remarkable Retirement of Edna Fischer
+- EM Anderson: The Remarkable Retirement of Edna Fischer
 - Victoria Goddard: The Hands of the Emperor
+- Joss Lake: Future Feeling
+- Martha Wells: Stories of the Raksura 2
+- Arkady Martine: Rose/House
+- Fonda Lee: The Jadesetter of Janloon
+
+## June 2023
+- Isaac Fellman: The Two Doctors Gorski
+- John Bellairs: The House with the Clock in its Walls
+- David Macaulay: Motel of the Mysteries
+- Arkady Martine: Im Herzen des Imperiums
+
+## July 2023
+- Max Gladstone: Dead Country
+- Robert Storr: Intimate Geometries: The Art and Life of Louise Bourgeois
+- Parini Shroff: The Bandit Queens
 
 
 ## Next
