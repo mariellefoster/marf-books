@@ -1033,10 +1033,23 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Matt Ruff: Destroyer of Worlds
 
 ## July 2023
-(3 this month, 52 YTD)
+(10 this month, 59 YTD)
 - Max Gladstone: Dead Country
 - Robert Storr: Intimate Geometries: The Art and Life of Louise Bourgeois
 - Parini Shroff: The Bandit Queens
+- Kai Cheng Thom: Fierce Femmes and Notorious Liars
+- Natalie Zina Walschots: Hench
+- Ann Leckie: The Long Game
+- Ann Leckie: Translation State
+- Amara Solari and Matthew Restall: The Maya
+- Valerie Valdes: Chilling Effect
+- Eknath Easwaran: Bhagavad Gita
+
+## August 2023
+(3 this month, 62 YTD)
+- Kirthana Ramisetti: Advika and the Hollywood Wives
+- Charles Stross: Season of Skulls
+- Cory Doctorow: Red Team Blues
 
 
 ## Next
