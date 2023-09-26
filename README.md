@@ -1050,6 +1050,22 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Kirthana Ramisetti: Advika and the Hollywood Wives
 - Charles Stross: Season of Skulls
 - Cory Doctorow: Red Team Blues
+- MIT Press: Plastics
+- Sarah Pinsker: Two Truths and a Lie
+- T. Kingfisher: Swordheart
+- Leslye Penelope: The Monsters We Defy
+- Aliette de Bodard: The Red Scholar's Wake
+
+## September 2023
+- Nathan H. Lents: Human Errors
+- Martha Wells: Witch King
+- Ann Leckie: Ancillary Justice
+- Nghi Vo: Mammoths at the Gates
+- Tressie McMillan Cottom: Thick
+- Will Larsen: Staff Engineer
+
+
+## October 2023
 
 
 ## Next
