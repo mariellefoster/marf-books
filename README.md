@@ -1046,7 +1046,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Eknath Easwaran: Bhagavad Gita
 
 ## August 2023
-(3 this month, 62 YTD)
+(8 this month, 67 YTD)
 - Kirthana Ramisetti: Advika and the Hollywood Wives
 - Charles Stross: Season of Skulls
 - Cory Doctorow: Red Team Blues
@@ -1057,15 +1057,23 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Aliette de Bodard: The Red Scholar's Wake
 
 ## September 2023
+(9 this month, 76 YTD)
 - Nathan H. Lents: Human Errors
 - Martha Wells: Witch King
 - Ann Leckie: Ancillary Justice
 - Nghi Vo: Mammoths at the Gates
 - Tressie McMillan Cottom: Thick
 - Will Larsen: Staff Engineer
+- Arik Kerschenbaum: The Zoologists Guide to the Galaxy
+- Imari Walker-Franklin, Jenna Jambeck: Plastics
+- Karen Lord: The Best of All Possible Worlds
 
 
 ## October 2023
+- Charles Yu: How to Live Safely in a Science Fictional Universe
+- Everina Maxwell: Winter's Orbit
+- John Bellairs: The Figure in the Shadows
+- Nalo Hopkinson: Brown Girl in the Ring
 
 
 ## Next
