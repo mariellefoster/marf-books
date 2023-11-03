@@ -1070,10 +1070,19 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 
 ## October 2023
+(8 this month, 84 YTD)
 - Charles Yu: How to Live Safely in a Science Fictional Universe
 - Everina Maxwell: Winter's Orbit
 - John Bellairs: The Figure in the Shadows
 - Nalo Hopkinson: Brown Girl in the Ring
+- Ursula LeGuin: The Word for World is Forest
+- Zen Cho: Sorceror to the Crown
+- Patricia Wrede: The Dark Lord's Daughter
+- Introduction to Quilting
+
+## November 2023
+()
+- John Scalzi: The Kaiju Preservation Society
 
 
 ## Next
