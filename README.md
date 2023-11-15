@@ -1083,6 +1083,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## November 2023
 ()
 - John Scalzi: The Kaiju Preservation Society
+- Zen Cho: The True Queen
+- Cassie Thornton: The Hologram
+- Zen Cho: The Order of the Pure Moon Reflected in Water
+- Naomi Salman: Nothing But The Rain
+- Martha Wells: System Collapse
 
 
 ## Next
