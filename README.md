@@ -1088,6 +1088,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Margaret Lee: Wool Quilts
 - Zen Cho: The Order of the Pure Moon Reflected in Water
 - Naomi Salman: Nothing But The Rain
+- Martha Wells: Network Effect
 - Martha Wells: System Collapse
 
 
