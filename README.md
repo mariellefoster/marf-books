@@ -1090,6 +1090,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Salman: Nothing But The Rain
 - Martha Wells: Network Effect
 - Martha Wells: System Collapse
+- Nathaniel Flakin: Revolutionary Berlin
+- Bernadette Banner: Make, Sew, Mend
+- Joy Demorra: Hunger Pangs
 
 
 ## Next
