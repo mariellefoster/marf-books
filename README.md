@@ -1093,6 +1093,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nathaniel Flakin: Revolutionary Berlin
 - Bernadette Banner: Make, Sew, Mend
 - Joy Demorra: Hunger Pangs
+- Zed Shaw: Learn C The Hard Way
 
 
 ## Next
