@@ -1081,7 +1081,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Introduction to Quilting
 
 ## November 2023
-()
+(12 this month, 96 YTD)
 - John Scalzi: The Kaiju Preservation Society
 - Zen Cho: The True Queen
 - Cassie Thornton: The Hologram
@@ -1096,21 +1096,25 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Zed Shaw: Learn C The Hard Way
 
 ## December 2023
-()
+(9 this month, 105 YTD)
 - Drew Hayes: Fred the Vampire Accountant #1
 - Tade Thompson: Rosewater
 - Gina Perkes: Appli-Quilting
 - Big Stitch Quilting
 - Improv Quilting
-- 
+- Ann Leckie: Ancillary Mercy
+- Ann Leckie: Ancillary Sword
+- John Scalzi: Unlocked
+- Adrian Tchaikovsky: Children of Time
 
+# 2024
 
 ## January 2024
-()
+(4 this month, 4 YTD)
 - Johann Hari: Stolen Focus
 - Lina Rather: A Season of Monstrous Conceptions
 - Naomi Kritzer: Liberty's Daughter
-- 
+- Naomi Novik: Éducation meurtrière
 
 
 ## Next
