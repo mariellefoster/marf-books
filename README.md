@@ -1095,6 +1095,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Joy Demorra: Hunger Pangs
 - Zed Shaw: Learn C The Hard Way
 
+## December 2023
+()
+
+## January 2024
+()
 
 ## Next
 (already acquired)
