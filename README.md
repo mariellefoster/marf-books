@@ -1097,9 +1097,21 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## December 2023
 ()
+- Drew Hayes: Fred the Vampire Accountant #1
+- Tade Thompson: Rosewater
+- Gina Perkes: Appli-Quilting
+- Big Stitch Quilting
+- Improv Quilting
+- 
+
 
 ## January 2024
 ()
+- Johann Hari: Stolen Focus
+- Lina Rather: A Season of Monstrous Conceptions
+- Naomi Kritzer: Liberty's Daughter
+- 
+
 
 ## Next
 (already acquired)
