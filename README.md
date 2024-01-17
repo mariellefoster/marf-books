@@ -6,11 +6,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Katherine Addison: The Goblin Emperor
 - Katherine Addison: The Grief of Stones
 - Ryka Aoki: Light From Uncommon Stars
+- Aliette de Bodard: The Red Scholar's Wake
 - Lois McMaster Bujold: Beguilement
 - Lois McMaster Bujold: Mirror Dance
 - Lois McMaster Bujold: Shards of Honor
 - Sue Burke: Semiosis
 - Octavia Butler: Fledgling
+- Shannon Chakraborty: The Adventures of Amina al-Sirafi
 - S. A. Chakraborty: City of Brass
 - S. A. Chakraborty: Kingdom of Copper
 - S. A. Chakraborty: Empire of Gold
@@ -18,7 +20,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Becky Chambers: Record of a Spaceborn Few
 - Becky Chambers: The Galaxy, and the Ground Within
+- Zen Cho: The True Queen
+- P. Djèlí Clark: A Dead Djinn in Cairo
 - P. Djèlí Clark: A Master of Djinn
+- H. Clarke: The Scapegracers
+- H. Clarke: The Scratch Daughters
+- Hannah Che: The Vegan Chinese Kitchen
+- Isaac Fellman: Dead Collections
 - Max Gladstone: Three Parts Dead
 - Max Gladstone: Empress of Forever
 - N. K. Jemisin: A Hundred Thousand Kingdoms
@@ -26,6 +34,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Ancillary Justice
 - Ann Leckie: Ancillary Sword
 - Ann Leckie: Ancillary Mercy
+- Ann Leckie: Translation State
+- Kate Mangino: Equal Partners
 - Laurie J. Marks: Fire Logic
 - Arkady Martine: A Memory Called Empire
 - Arkady Martine: A Desolation Called Peace
@@ -38,10 +48,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Yotam Ottolenghi: Simple
 - Lina Rather: Sisters of the Vast Black
 - Rebecca Roanhorse: Trail of Lightning
+- Mary Robinette-Kowal: The Spare Man
 - Marshall Rosenberg: Non-Violent Communication
 - Matt Ruff: Lovecraft Country
 - Matt Ruff: Set This House in Order
 - Matt Ruff: The Mirage
+- Adrian Tchaikovsky: Children of Time
 - Adrian Tchaikovsky: Elder Race
 - Emily Tesh: Some Desparate Glory
 - Angie Thomas: The Hate U Give
@@ -51,6 +63,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Catherynne Valente: The Refrigerator Monologues
 - Nghi Vo: When the Tiger Came Down the Mountain
 - Nghi Vo: Into The Riverlands
+- Nghi Vo: Mammoths at the Gates
 - Xiran Jay Zhao: Iron Widow
 
 
@@ -883,7 +896,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Naomi Novik: In His Majesty's Service
 - Naomi Novik: Throne of Jade
 
-
 ## June 2022
 (7 this month, 53 YTD)
 - Naomi Novik: Black Powder War
@@ -972,7 +984,6 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Chaz Brenchley: Three Twins at the Crater School
 - Mary Robinette-Kowal: The Spare Man
 - Renaissance Periodization: Renaissance Woman
-
 
 ## February 2023
 (12 this month, 20 YTD)
