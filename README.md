@@ -1107,7 +1107,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Zed Shaw: Learn C The Hard Way
 
 ## December 2023
-(9 this month, 105 YTD)
+(10 this month, 106 YTD)
+- Donna Harroway: The Cyborg Manifesto
 - Drew Hayes: Fred the Vampire Accountant #1
 - Tade Thompson: Rosewater
 - Gina Perkes: Appli-Quilting
@@ -1121,11 +1122,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2024
 
 ## January 2024
-(4 this month, 4 YTD)
+(6 this month, 6 YTD)
+- adrienne maree brown: Emergent Strategy
 - Johann Hari: Stolen Focus
 - Lina Rather: A Season of Monstrous Conceptions
 - Naomi Kritzer: Liberty's Daughter
 - Naomi Novik: Éducation meurtrière
+- C. E. S. Cooney: St Death's Daughter
+
+## February 2024
+(0 this month, 0 YTD)
+- 
 
 
 ## Next
