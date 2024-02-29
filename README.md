@@ -1131,8 +1131,16 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - C. E. S. Cooney: St Death's Daughter
 
 ## February 2024
-(0 this month, 0 YTD)
-- 
+(9 this month, 15 YTD)
+- Kelly Barnhill: The Crane Husband
+- Megan Anna Neff: Sleep Guide
+- Martha Wells: City of Bones
+- Lois McMaster Bujold: Demon Daughter
+- Louise Erdrich: The Sentence
+- Adrian Tchaikovsky: And Put Away Childish Things
+- Mary Robinette Kowal: Shades of Milk and Honey
+- Travis Baldree: Bookshops and Bonedust
+- Angela Y. Davis: Are Prisons Obsolete
 
 
 ## Next
