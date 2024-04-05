@@ -1131,7 +1131,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - C. E. S. Cooney: St Death's Daughter
 
 ## February 2024
-(9 this month, 15 YTD)
+(10 this month, 16 YTD)
 - Kelly Barnhill: The Crane Husband
 - Megan Anna Neff: Sleep Guide
 - Martha Wells: City of Bones
@@ -1141,7 +1141,24 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mary Robinette Kowal: Shades of Milk and Honey
 - Travis Baldree: Bookshops and Bonedust
 - Angela Y. Davis: Are Prisons Obsolete
+- Dr. Megan Anna Neff: Sensory Regulation 101
 
+## March 2024
+(7 this month, 23 YTD)
+- Sophie Rosa: Radical Intimacy
+- Lev Rosen: Lavender House
+- Lev Rosen: The Bell in the Fog
+- Mia Tsai: Bitter Medecine
+- Octavia Butler/Melville House: The Last Interview
+- Adrian Joseph White: Hell Followed with Us
+- Hannah Che: The Vegan Chinese Kitchen
+
+## April 2024
+(4 this month, 27 YTD)
+- Octavia Butler: Parable of the Sower
+- John Scalzi: Starter Villain
+- Seth Dickinson: Exordia
+- Naomi Wu: The New Esential Guide to Electronics in Shenzhen
 
 ## Next
 (already acquired)
