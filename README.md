@@ -1154,11 +1154,15 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Hannah Che: The Vegan Chinese Kitchen
 
 ## April 2024
-(4 this month, 27 YTD)
+(8 this month, 31 YTD)
 - Octavia Butler: Parable of the Sower
 - John Scalzi: Starter Villain
 - Seth Dickinson: Exordia
 - Naomi Wu: The New Esential Guide to Electronics in Shenzhen
+- Moniquill Blackgoose: To Shape A Dragon's Breath
+- K.W. Thomas: The Scoop
+- Izzy Wasserstein: All the Hometowns You Can't Stay Away From
+- 
 
 ## Next
 (already acquired)
