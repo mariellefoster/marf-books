@@ -1162,7 +1162,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Moniquill Blackgoose: To Shape A Dragon's Breath
 - K.W. Thomas: The Scoop
 - Izzy Wasserstein: All the Hometowns You Can't Stay Away From
-- 
+
+## May 2024
+- Nghi Vo: On the Fox Roads
+- H. A. Abbot: Feastmakers
+- Lex Croucher: Gwen and Art are not in Love
 
 ## Next
 (already acquired)
