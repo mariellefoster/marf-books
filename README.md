@@ -1164,9 +1164,15 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Izzy Wasserstein: All the Hometowns You Can't Stay Away From
 
 ## May 2024
+(8 this month, 39 YTD)
 - Nghi Vo: On the Fox Roads
 - H. A. Abbot: Feastmakers
 - Lex Croucher: Gwen and Art are not in Love
+- Hafsah Faizal: A Tempest of Tea
+- Micaiah Johnson: Those Beyond The Wall
+- K. J. Charles: Death in the Spires
+- Rosemary Kirstein: The Steerswoman
+- Rosemary Kirstein: The Outskirter's Secret
 
 ## Next
 (already acquired)
