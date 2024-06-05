@@ -1164,7 +1164,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Izzy Wasserstein: All the Hometowns You Can't Stay Away From
 
 ## May 2024
-(8 this month, 39 YTD)
+(11 this month, 42 YTD)
 - Nghi Vo: On the Fox Roads
 - H. A. Abbot: Feastmakers
 - Lex Croucher: Gwen and Art are not in Love
@@ -1173,6 +1173,14 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - K. J. Charles: Death in the Spires
 - Rosemary Kirstein: The Steerswoman
 - Rosemary Kirstein: The Outskirter's Secret
+- Rosemary Kirstein: The Lost Steersman
+- Rosemary Kirstein: The Language of Power
+- Annie Murphy Paul: Extended Mind
+
+## June 2024
+(2 this month, 44 YTD)
+- Aliette de Bodard: A Fire Born of Exile
+- Saara El-Arifi: The Final Strife
 
 ## Next
 (already acquired)
