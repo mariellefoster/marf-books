@@ -1175,12 +1175,24 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Rosemary Kirstein: The Outskirter's Secret
 - Rosemary Kirstein: The Lost Steersman
 - Rosemary Kirstein: The Language of Power
-- Annie Murphy Paul: Extended Mind
+- Annie Murphy Paul: The Extended Mind
 
 ## June 2024
-(2 this month, 44 YTD)
+(8 this month, 50 YTD)
 - Aliette de Bodard: A Fire Born of Exile
 - Saara El-Arifi: The Final Strife
+- Rupert Holmes: Murder Your Employer
+- Victor Manibo: Escape Velocity
+- Nghi Vo: The Brides of High Hill
+- Frans de Waal: Are We Smart Enough to Know How Smart Animals Are?
+- KJ Charles: The Gentle Art of Fortune Telling
+- The Green Beret's Guide to Preparation
+
+## July 2024
+(3 this month, 53 year to date)
+- Ray Naylor: The Tusks of Extinction
+- Martha Wells: Death of a Necromancer
+- Martha Wells: Element of Fire
 
 ## Next
 (already acquired)
