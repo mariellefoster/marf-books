@@ -1189,10 +1189,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Green Beret's Guide to Preparation
 
 ## July 2024
-(3 this month, 53 year to date)
+(6 this month, 56 year to date)
 - Ray Naylor: The Tusks of Extinction
 - Martha Wells: Death of a Necromancer
 - Martha Wells: Element of Fire
+- Lois McMaster Bujold: Penric and the Bandit
+- John Wiswell: Someone You Can Build A Nest In
+- Yume Kitase: The Deep Sky
 
 ## Next
 (already acquired)
