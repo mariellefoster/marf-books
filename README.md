@@ -1189,13 +1189,25 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Green Beret's Guide to Preparation
 
 ## July 2024
-(6 this month, 56 year to date)
+(11 this month, 61 year to date)
 - Ray Naylor: The Tusks of Extinction
 - Martha Wells: Death of a Necromancer
 - Martha Wells: Element of Fire
 - Lois McMaster Bujold: Penric and the Bandit
 - John Wiswell: Someone You Can Build A Nest In
 - Yume Kitase: The Deep Sky
+- Annie Murphy Paul: The extended mind
+- Ai Jiang: I am AI
+- Eliza Chan: Fathomfolk
+- Katherine Addison: The Goblin Emperor
+- Ann Leckie: Lake of Souls
+
+## August 2024
+(4 this month, 65 YTD)
+- Malka Older: The Imposition of Unnecessary Obstacles
+- Naomi Novik: Promotion Funeste
+- Meredith Katz: The Cybernetic Tea Shop
+- Ruha Benjamin: Imagination
 
 ## Next
 (already acquired)
