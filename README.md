@@ -1203,11 +1203,20 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Ann Leckie: Lake of Souls
 
 ## August 2024
-(4 this month, 65 YTD)
+(8 this month, 69 YTD)
 - Malka Older: The Imposition of Unnecessary Obstacles
 - Naomi Novik: Promotion Funeste
 - Meredith Katz: The Cybernetic Tea Shop
 - Ruha Benjamin: Imagination
+- Peter Beagle: I'm Afraid You've Got Dragons
+- Olga Tokarczuk: Drive Your Plow Over the Bones of the Dead
+- Vajra Chandrasekera: The Saint of Bright Doors
+- Deb Perelman: Smitten Kitchen Everyday
+
+## September 2024
+(2 this month, 71 YTD)
+- adrienne maree brown: Emergent Strategy
+- Robert Jackson Bennett: The Tainted Cup
 
 ## Next
 (already acquired)
