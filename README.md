@@ -1189,7 +1189,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - The Green Beret's Guide to Preparation
 
 ## July 2024
-(11 this month, 61 year to date)
+(12 this month, 62 year to date)
 - Ray Naylor: The Tusks of Extinction
 - Martha Wells: Death of a Necromancer
 - Martha Wells: Element of Fire
@@ -1198,12 +1198,13 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Yume Kitase: The Deep Sky
 - Annie Murphy Paul: The extended mind
 - Ai Jiang: I am AI
+- Elaine V. Cho: Ocean's Godori
 - Eliza Chan: Fathomfolk
 - Katherine Addison: The Goblin Emperor
 - Ann Leckie: Lake of Souls
 
 ## August 2024
-(8 this month, 69 YTD)
+(8 this month, 70 YTD)
 - Malka Older: The Imposition of Unnecessary Obstacles
 - Naomi Novik: Promotion Funeste
 - Meredith Katz: The Cybernetic Tea Shop
@@ -1214,9 +1215,18 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Deb Perelman: Smitten Kitchen Everyday
 
 ## September 2024
-(2 this month, 71 YTD)
+(11 this month, 81 YTD)
 - adrienne maree brown: Emergent Strategy
 - Robert Jackson Bennett: The Tainted Cup
+- Lucinda Ganderton: Embroidery
+- Rob Copeland: The Fund
+- Joelle Wellington: Their Vicious Games
+- Rhaina Cohen: The Other Significant Others
+- Nisha Vora: Vegan Instant Pot
+- Louise Aronson: Elderhood
+- Waubgeshig Rice: Moon of the Turning Leaves
+- Lois McMaster Bujold: Captain Vorpatril's Alliance
+- Yotam Ottolenghi: Flavour
 
 ## Next
 (already acquired)
