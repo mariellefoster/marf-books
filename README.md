@@ -1229,6 +1229,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Yotam Ottolenghi: Flavour
 
 ## October 2024
+(15 this month, 96 YTD)
 - Patricia Wrede: Wrede on Writing
 - Connie Willis: The Road to Roswell
 - S. L. Huang: The Water Outlaws
@@ -1241,9 +1242,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Misa Matsuyama: Gardener's Guide to Succulents
 - Kondo & Kondo: Succulents Made Easy
 - Taku Furuya: Beginners Guide to Succulent Gardening
-- Deb Perelman: Smitten Kitchen Everyday
+- Rebecca Fraimow: Lady Eve's Last Con
+- Dorothy Sayers: Whose Body?
 
 ## November 2024
+(11 this month, 107 YTD)
 - C. J. Cherryh: Downbelow Station
 - Katherine Addison: The Goblin Emperor
 - Anthony Kaldellis: Cabinet of Curiosities
