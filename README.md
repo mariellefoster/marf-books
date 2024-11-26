@@ -1229,11 +1229,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Yotam Ottolenghi: Flavour
 
 ## October 2024
-(15 this month, 96 YTD)
+(16 this month, 97 YTD)
 - Patricia Wrede: Wrede on Writing
 - Connie Willis: The Road to Roswell
 - S. L. Huang: The Water Outlaws
 - Mai Mochizuki: The Full Moon Coffeeshop
+- Judith Herrin: Byzantium
 - Sascha Stronach: The Dawnhounds
 - Django Wexler: How to Become the Dark Lord and Die Trying
 - Robert Jackson Bennet: City of Stairs
@@ -1246,7 +1247,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Dorothy Sayers: Whose Body?
 
 ## November 2024
-(11 this month, 107 YTD)
+(11 this month, 108 YTD)
 - C. J. Cherryh: Downbelow Station
 - Katherine Addison: The Goblin Emperor
 - Anthony Kaldellis: Cabinet of Curiosities
