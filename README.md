@@ -1228,6 +1228,34 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lois McMaster Bujold: Captain Vorpatril's Alliance
 - Yotam Ottolenghi: Flavour
 
+## October 2024
+- Patricia Wrede: Wrede on Writing
+- Connie Willis: The Road to Roswell
+- S. L. Huang: The Water Outlaws
+- Mai Mochizuki: The Full Moon Coffeeshop
+- Sascha Stronach: The Dawnhounds
+- Django Wexler: How to Become the Dark Lord and Die Trying
+- Robert Jackson Bennet: City of Stairs
+- Zen Cho: The Friend Zone Experiment
+- Georgette Heyer: The Unknown Ajax
+- Misa Matsuyama: Gardener's Guide to Succulents
+- Kondo & Kondo: Succulents Made Easy
+- Taku Furuya: Beginners Guide to Succulent Gardening
+- Deb Perelman: Smitten Kitchen Everyday
+
+## November 2024
+- C. J. Cherryh: Downbelow Station
+- Katherine Addison: The Goblin Emperor
+- Anthony Kaldellis: Cabinet of Curiosities
+- Emma Alban: Don't Want You Like A Best Friend
+- Martha Wells: Wheel of the Infinite
+- Cassidy Tuttle: Idiot's Guide to Succulents
+- P. Djeli Clark: The Dead Cat Tail Assasins
+- Michiko Aoyama: What You Are Looking For Is In The Library
+- Lev AC Rosen: Rough Pages
+- Sarah Rees Brennan: Long Live Evil
+- Nisha Vora: Big Vegan Flavor
+
 ## Next
 (already acquired)
 - Professional Baking
