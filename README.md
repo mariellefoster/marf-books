@@ -1260,6 +1260,27 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Sarah Rees Brennan: Long Live Evil
 - Nisha Vora: Big Vegan Flavor
 
+## December 2024
+(9 this month, 117 YTD)
+- Yume Kitasei: The Stardust Grail
+- S. L. Huang: Burning Roses
+- Virginia Postel: The Fabric of Civilization
+- Kerstin Hall: Asunder
+- Grace Curtis: Floating Hotel
+- Naomi Novik: Buried Deep and Other Stories
+- Natalie Chanin: The Geometry of Handsewing
+- Anne McCaffrey: Dragonflight
+- Will Storr: The Science of Storytelling
+
+## January 2024
+(6 this month, 6 YTD)
+- Katherine Arden: The Bear and the Nightingale
+- Kevin Kwan: Lies and Weddings
+- Ann McCaffrey: Dragonquest
+- Ann McCaffrey: The White Dragon
+- Mur Lafferty: Station Eternity
+- Freya Marske: Swordcrossed
+
 ## Next
 (already acquired)
 - Professional Baking
