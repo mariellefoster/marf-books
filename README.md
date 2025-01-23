@@ -6,12 +6,15 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Katherine Addison: The Goblin Emperor
 - Katherine Addison: The Grief of Stones
 - Ryka Aoki: Light From Uncommon Stars
+- Robert Jackson Bennett: The Tainted Cup
 - Aliette de Bodard: The Red Scholar's Wake
 - Lois McMaster Bujold: Beguilement
+- Lois McMaster Bujold: Captain Vorpatril's Alliance
 - Lois McMaster Bujold: Mirror Dance
 - Lois McMaster Bujold: Shards of Honor
 - Sue Burke: Semiosis
 - Octavia Butler: Fledgling
+- Octavia Butler: Parable of the Sower
 - Shannon Chakraborty: The Adventures of Amina al-Sirafi
 - S. A. Chakraborty: City of Brass
 - S. A. Chakraborty: Kingdom of Copper
@@ -20,6 +23,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: The Long Way to A Small, Angry Planet
 - Becky Chambers: Record of a Spaceborn Few
 - Becky Chambers: The Galaxy, and the Ground Within
+- Hannah Che: The Vegan Chinese Kitchen
+- Zen Cho: Sorceror to the Crown
+- H. A. Clarke: Scapegracers
+- H. A. Clarke: Feastmakers
 - Zen Cho: The True Queen
 - P. Djèlí Clark: A Dead Djinn in Cairo
 - P. Djèlí Clark: A Master of Djinn
@@ -31,6 +38,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Max Gladstone: Empress of Forever
 - N. K. Jemisin: A Hundred Thousand Kingdoms
 - N. K. Jemisin: The Stone Sky
+- Anthony Kaldellis: Cabinet of Curiosities
+- Rosemary Kirstein: The Steerswoman series
+- Naomi Kritzer: Liberty's Daughter
 - Ann Leckie: Ancillary Justice
 - Ann Leckie: Ancillary Sword
 - Ann Leckie: Ancillary Mercy
@@ -46,9 +56,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: Binti: Home
 - Nnedi Okorafor: Binti
 - Yotam Ottolenghi: Simple
+- Annie Murphy Paul: The extended mind
 - Lina Rather: Sisters of the Vast Black
 - Rebecca Roanhorse: Trail of Lightning
 - Mary Robinette-Kowal: The Spare Man
+- Lev AC Rosen: Rough Pages
 - Marshall Rosenberg: Non-Violent Communication
 - Matt Ruff: Lovecraft Country
 - Matt Ruff: Set This House in Order
@@ -56,7 +68,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Adrian Tchaikovsky: Children of Time
 - Adrian Tchaikovsky: Elder Race
 - Emily Tesh: Some Desparate Glory
-- Angie Thomas: The Hate U Give
+- Tade Thompson: Rosewater
 - Martha Wells: All Systems Red
 - Martha Wells: Artificial Condition
 - Martha Wells: Network Effect
@@ -1273,13 +1285,14 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Will Storr: The Science of Storytelling
 
 ## January 2024
-(6 this month, 6 YTD)
+(7 this month, 7 YTD)
 - Katherine Arden: The Bear and the Nightingale
 - Kevin Kwan: Lies and Weddings
 - Ann McCaffrey: Dragonquest
 - Ann McCaffrey: The White Dragon
 - Mur Lafferty: Station Eternity
 - Freya Marske: Swordcrossed
+- Nino Cipri: Dead Girls Don't Dream
 
 ## Next
 (already acquired)
