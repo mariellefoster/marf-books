@@ -25,12 +25,12 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Becky Chambers: The Galaxy, and the Ground Within
 - Hannah Che: The Vegan Chinese Kitchen
 - Zen Cho: Sorceror to the Crown
-- H. A. Clarke: Scapegracers
-- H. A. Clarke: Feastmakers
 - Zen Cho: The True Queen
+- Nino Cipri: Homesick
 - P. Djèlí Clark: A Dead Djinn in Cairo
 - P. Djèlí Clark: A Master of Djinn
 - H. Clarke: The Scapegracers
+- H. Clarke: Feastmakers
 - H. Clarke: The Scratch Daughters
 - Hannah Che: The Vegan Chinese Kitchen
 - Isaac Fellman: Dead Collections
@@ -1285,7 +1285,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Will Storr: The Science of Storytelling
 
 ## January 2024
-(7 this month, 7 YTD)
+(10 this month, 10 YTD)
 - Katherine Arden: The Bear and the Nightingale
 - Kevin Kwan: Lies and Weddings
 - Ann McCaffrey: Dragonquest
@@ -1293,6 +1293,9 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mur Lafferty: Station Eternity
 - Freya Marske: Swordcrossed
 - Nino Cipri: Dead Girls Don't Dream
+- Emily Bergslien & Kat Weaver: Uncommon Charm
+- Tobi Ogundiran: In The Shadow of the Fall
+- Nino Cipri: Homesick
 
 ## Next
 (already acquired)
