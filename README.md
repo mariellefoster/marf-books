@@ -1285,7 +1285,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Will Storr: The Science of Storytelling
 
 ## January 2024
-(10 this month, 10 YTD)
+(14 this month, 14 YTD)
 - Katherine Arden: The Bear and the Nightingale
 - Kevin Kwan: Lies and Weddings
 - Ann McCaffrey: Dragonquest
@@ -1296,6 +1296,16 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Emily Bergslien & Kat Weaver: Uncommon Charm
 - Tobi Ogundiran: In The Shadow of the Fall
 - Nino Cipri: Homesick
+- Martha Wells: The Cloud Roads
+- Martha Wells: The Serpent Sea
+- Martha Wells: The Siren Depths
+- Martha Wells: The Edge of Worlds
+
+## February 2024
+(2 this month, 16 YTD)
+- Zoe Schlanger: The Light Eaters
+- Simple Sabotage Field Manual
+- 
 
 ## Next
 (already acquired)
