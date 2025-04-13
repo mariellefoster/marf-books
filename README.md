@@ -1284,7 +1284,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Anne McCaffrey: Dragonflight
 - Will Storr: The Science of Storytelling
 
-## January 2024
+## January 2025
 (14 this month, 14 YTD)
 - Katherine Arden: The Bear and the Nightingale
 - Kevin Kwan: Lies and Weddings
@@ -1301,11 +1301,31 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Wells: The Siren Depths
 - Martha Wells: The Edge of Worlds
 
-## February 2024
-(2 this month, 16 YTD)
+## February 2025
+(6 this month, 20 YTD)
+- Martha Wells: The Harbors of the Sun
 - Zoe Schlanger: The Light Eaters
+- Ottolenghi Flavor
 - Simple Sabotage Field Manual
-- 
+- Ed Yong: An Immense World
+- August Clarke: Metal from Heaven
+
+## March 2025
+(8 this month, 28 YTD)
+- Katherine Addison: The Tomb of Dragons
+- Robert Jackson Bennet: The Tainted Cup
+- Tobi Ogundiran: At The Fount of Creation
+- Caroline O'Donoghue: The Rachel Incident
+- Sue Burke: Usurpation
+- Katherine Addison: The Orb of Cairado
+- adrienne maree brown: Journal of Radical Permission
+- Richard Schwartz: No Bad Parts
+
+## April 2025
+(3 this month, 31 YTD)
+- Robert Jackson Bennet: A Drop of Corruption
+- Mark Wiseman: Mind Play
+- Natasha Pulley: The Mars House
 
 ## Next
 (already acquired)
