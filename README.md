@@ -1322,10 +1322,18 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Richard Schwartz: No Bad Parts
 
 ## April 2025
-(3 this month, 31 YTD)
+(11 this month, 39 YTD)
 - Robert Jackson Bennet: A Drop of Corruption
 - Mark Wiseman: Mind Play
 - Natasha Pulley: The Mars House
+- Katherine Addison: Melusine
+- Katherine Addison: The Virtu
+- Katherine Addison: The Mirador
+- Kaliane Bradley: The Ministry of Time
+- Matt Stoller: Goliath
+- Mur Lafferty: Chaos Terminal
+- Sofia Samatar: The Practice, The Horizon, and the Chain
+- Aliette de Bodard: Navigational Entanglements
 
 ## Next
 (already acquired)
