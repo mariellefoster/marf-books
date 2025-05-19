@@ -1334,6 +1334,16 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mur Lafferty: Chaos Terminal
 - Sofia Samatar: The Practice, The Horizon, and the Chain
 - Aliette de Bodard: Navigational Entanglements
+- Milk Street Instant Pot
+
+## May 2025
+(6 this month, 45 YTD)
+- P. Djeli Clark: The Haunting of Tram Car 015
+- Robert Jackson Bennet: Foundryside
+- Travis Baldree: Legends and Lattes
+- Viano Oniomoh: Cupid Calling
+- Shannon Lee + Fonda Lee: Breath of the Dragon
+- Naomi Novik: Buried Deep
 
 ## Next
 (already acquired)
