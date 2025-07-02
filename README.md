@@ -1337,13 +1337,29 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Milk Street Instant Pot
 
 ## May 2025
-(6 this month, 45 YTD)
+(9 this month, 48 YTD)
 - P. Djeli Clark: The Haunting of Tram Car 015
 - Robert Jackson Bennet: Foundryside
 - Travis Baldree: Legends and Lattes
 - Viano Oniomoh: Cupid Calling
 - Shannon Lee + Fonda Lee: Breath of the Dragon
 - Naomi Novik: Buried Deep
+- Richard Schwartz: You Are The One You've Been Waiting For
+- Katherine Addison: The Orb of Cairado
+- Richard Schwartz: No Bad Parts
+
+## June 2025
+(7 this month, 55 YTD)
+- Katherine Addison: Corambis
+- Hache Pueyo: But Not Too Bold
+- Silk and Steel Anthology
+- Esther Perel: The State of Affairs
+- Naomi Novik: Les enclaves dorée
+- Pema Chodron: When Things Fall Apart
+- Lundy Bancroft: Why Does He Do That
+
+## July 2025
+(0 this month, 55 YTD)
 
 ## Next
 (already acquired)
