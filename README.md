@@ -1359,7 +1359,22 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Lundy Bancroft: Why Does He Do That
 
 ## July 2025
-(0 this month, 55 YTD)
+(10 this month, 65 YTD)
+- Patricia Evans; The Verbally Abusive Relationship
+- Steven Hassan: Combatting Cult Mind Control
+- Katherine Addison: The Goblin Emperor
+- Nino Cipri: Homesick
+- C Pam Zhang: The Land of Milk and Honey
+- Erika T. Wurth; The Haunting of Room 904
+- Nana Kwame Adjei-Brenyah: Friday Black
+- Mai Corland: Five Broken Blades
+- Casey McQuiston: The Pairing
+- Olivia Waite: Murder by Memory
+
+## August 2025
+(1 this month, 66 YTD)
+- Lois McMaster Bujold: The Adventures of the Demonic Ox
+
 
 ## Next
 (already acquired)
