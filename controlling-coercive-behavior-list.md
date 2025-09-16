@@ -1,3 +1,6 @@
+This list is for anyone seeking to learn more about coercive and controlling behavior. I include write ups of books I've read, how I see them being useful, and what limitations they might have. If you're in or adjacent to a situation with this sort of behavior, I wish you a lot of strength and good community. The more you own and ground yourself in your experiences and feelings, the more of your power and strength you will find. If you struggle with taking accountability and seeking control over others, find professionals, groups and commmunities who hold you accountable, and require that you set these behaviors down. It is better on the other side.
+
+
 Emma Rose Byham: Was It Even Abuse
 
 This book is a very solid primer. Written in a generally situation and gender neutral fashion, it's a great place to start, particularly if you are not a woman in a romantic relationship with an abusive man. It's a bit less polished than some of the other books, but it makes up for that with solid models of behavior, and clear, extensive definitions of various behaviors. I read this book after most of the others, and I got a ton out of it. 
