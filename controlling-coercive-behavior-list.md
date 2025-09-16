@@ -4,7 +4,7 @@ This list is for anyone seeking to learn more about coercive and controlling beh
 
 ## Emma Rose Byham: Was It Even Abuse
 
-This book is a very solid primer. Written in a generally situation and gender neutral fashion, it's a great place to start, particularly if you are not a woman in a romantic relationship with an abusive man. It's a bit less polished than some of the other books, but it makes up for that with solid models of behavior, and clear, extensive definitions of various behaviors. I read this book after most of the others, and I got a ton out of it. 
+This book is a very solid primer. Written in a generally situation and gender neutral fashion, it's a great place to start, particularly if you are not a woman in a romantic relationship with an abusive man (it's also great for this unfortunately common case). It's a bit less polished than some of the other books, but it makes up for that with solid models of behavior, and clear, extensive definitions of various behaviors. I read this book after most of the others, and I got a ton out of it. 
 
   
 
