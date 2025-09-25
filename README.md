@@ -1374,6 +1374,14 @@ Books I've read starting September 2016. I learned to read before this, but I di
 ## August 2025
 (1 this month, 66 YTD)
 - Lois McMaster Bujold: The Adventures of the Demonic Ox
+- Matt Dinniman: Dungeon Crawler Carl
+
+## September 2025
+
+- Matt Dinniman:
+- Matt Dinniman:
+- Matt Dinniman:
+- Matt Dinniman:
 
 
 ## Next
