@@ -1284,6 +1284,8 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Anne McCaffrey: Dragonflight
 - Will Storr: The Science of Storytelling
 
+# 2025
+
 ## January 2025
 (14 this month, 14 YTD)
 - Katherine Arden: The Bear and the Nightingale
