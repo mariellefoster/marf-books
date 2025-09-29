@@ -1360,7 +1360,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 
 ## July 2025
 (10 this month, 65 YTD)
-- Patricia Evans; The Verbally Abusive Relationship
+- Patricia Evans: The Verbally Abusive Relationship
 - Steven Hassan: Combatting Cult Mind Control
 - Katherine Addison: The Goblin Emperor
 - Nino Cipri: Homesick
@@ -1372,17 +1372,28 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Olivia Waite: Murder by Memory
 
 ## August 2025
-(1 this month, 66 YTD)
+(7 this month, 72 YTD)
 - Lois McMaster Bujold: The Adventures of the Demonic Ox
 - Matt Dinniman: Dungeon Crawler Carl
+- Martha Wells: Rapport
+- Wayne Santos: The Difficult Loves of Maria Makiling
+- Catherine Price: How to Break Up with Your Phone
+- Andrea Gibson: You Better Be Lightning
+- Pleasure Pie: Healing from a bad breakup
 
 ## September 2025
+(7 this month, 79 YTD)
+- Emma Rose Byham: Was It Even Abuse?
+- Bill Burnett and Dave Evans: Designing Your Life
+- Matt Dinniman: Carl's Doomsday Scenario
+- Matt Dinniman: The Dungeon Anarchist's Cookbook
+- Matt Dinniman: The Gate of the Feral Gods
+- Matt Dinniman: The Butcher's Masquerade
+- Melody Beattie: Codependent No More
+- Crystal Schmit, Eve Kilcher: Freeze Fresh
 
-- Matt Dinniman:
-- Matt Dinniman:
-- Matt Dinniman:
-- Matt Dinniman:
-
+## October 2025
+(0 this month, 79 YTD)
 
 ## Next
 (already acquired)
