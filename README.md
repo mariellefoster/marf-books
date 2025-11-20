@@ -1395,7 +1395,25 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Crystal Schmit, Eve Kilcher: Freeze Fresh
 
 ## October 2025
-(0 this month, 79 YTD)
+(8 this month, 87 YTD)
+- Moses Ose Utomi: The Memory of the Ogisi
+- Alexandra Romanoff: Big Fan
+- Emily Tesh: The Incandescent
+- Susan Forward, Donna Frazier: Emotional Blackmail
+- David Chang, Priya Krishna: Cooking at Home
+- NK Jemisin: The Hundred Thousand Kingdoms
+- NK Jemisin: The Broken Kingdoms
+- Nnedi Okorafor: Death of the Author
+
+## November 2025
+(6 this month, 93 YTD)
+- Harriet Lerner: The Dance of Anger
+- Melody Beattie: Codependent No More
+- Oscar Wilde: Lord Arthur Savile's Crime
+- Ada Hoffmann: The Outside
+- Adele Faber, Elise Mazlish: How to Talk So Kids Will Listen ...
+- Sohla El-Waylly: Start Here
+- Uma Naidoo: This is Your Brain on Food
 
 ## Next
 (already acquired)
