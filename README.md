@@ -1406,7 +1406,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: Death of the Author
 
 ## November 2025
-(6 this month, 93 YTD)
+(11 this month, 98 YTD)
 - Harriet Lerner: The Dance of Anger
 - Melody Beattie: Codependent No More
 - Oscar Wilde: Lord Arthur Savile's Crime
@@ -1414,6 +1414,18 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Adele Faber, Elise Mazlish: How to Talk So Kids Will Listen ...
 - Sohla El-Waylly: Start Here
 - Uma Naidoo: This is Your Brain on Food
+- Naomi Novik: The Summer War
+- Michiko Aoyoma: The Healing Hippo of Hinode Park
+- Monica Heisey: Really Good, Actually
+- Lois McMaster Bujold: Testimony of Mute Things
+
+# December 2025
+(4 this month, 102 YTD)
+- Malka Older: The Potency of Ungovernable Impulses
+- KC David: Who Deserves Your Love
+- Alexandra Romanoff: Square Waves
+- Lev AC Rosen: Mirage City
+- 
 
 ## Next
 (already acquired)
