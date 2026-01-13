@@ -1419,12 +1419,25 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Monica Heisey: Really Good, Actually
 - Lois McMaster Bujold: Testimony of Mute Things
 
-# December 2025
-(4 this month, 102 YTD)
+## December 2025
+(8 this month, 106 YTD)
 - Malka Older: The Potency of Ungovernable Impulses
 - KC David: Who Deserves Your Love
 - Alexandra Romanoff: Square Waves
 - Lev AC Rosen: Mirage City
+- Ashley Herring Blake: Delilah Green Doesn't Care
+- Nghi Vo: A Mouthful of Dust
+- Melissa Febos: The Dry Season
+- Devon Price: Unmasking for Life
+
+# 2026
+
+## January 2026
+(4 this month, 4 YTD)
+- SJ Rozan, John Shen Yen Nee: The Murder of Mr. Ma
+- Corinne Low: Having It All
+- Annie Mare: Cosmic Love at the Multiverse Hair Salon
+- Al Hess: World Running Down
 - 
 
 ## Next
