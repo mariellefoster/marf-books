@@ -1406,7 +1406,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Nnedi Okorafor: Death of the Author
 
 ## November 2025
-(11 this month, 98 YTD)
+(12 this month, 99 YTD)
 - Harriet Lerner: The Dance of Anger
 - Melody Beattie: Codependent No More
 - Oscar Wilde: Lord Arthur Savile's Crime
@@ -1418,9 +1418,10 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Michiko Aoyoma: The Healing Hippo of Hinode Park
 - Monica Heisey: Really Good, Actually
 - Lois McMaster Bujold: Testimony of Mute Things
+- ML Wang: Blood over Bright Haven
 
 ## December 2025
-(8 this month, 106 YTD)
+(8 this month, 107 YTD)
 - Malka Older: The Potency of Ungovernable Impulses
 - KC David: Who Deserves Your Love
 - Alexandra Romanoff: Square Waves
@@ -1433,11 +1434,21 @@ Books I've read starting September 2016. I learned to read before this, but I di
 # 2026
 
 ## January 2026
-(4 this month, 4 YTD)
+(8 this month, 8 YTD)
 - SJ Rozan, John Shen Yen Nee: The Murder of Mr. Ma
 - Corinne Low: Having It All
 - Annie Mare: Cosmic Love at the Multiverse Hair Salon
 - Al Hess: World Running Down
+- Naomi Novik: Buried Deep
+- KC Davis: How to Keep House While Drowning
+- Jane Austen: Pride and Prejudice
+- Patricia Evans: The Verbally Abusive Relationship
+
+## February 2026
+(3 this month, 11 YTD)
+- Devon Price: Autism Unmasked
+- Elijah Kinch Spector: Kalyna the Soothsayer
+- Gina Rippon: Off the Spectrum
 - 
 
 ## Next
