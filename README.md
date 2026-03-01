@@ -1445,11 +1445,18 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Patricia Evans: The Verbally Abusive Relationship
 
 ## February 2026
-(3 this month, 11 YTD)
+(7 this month, 15 YTD)
 - Devon Price: Autism Unmasked
 - Elijah Kinch Spector: Kalyna the Soothsayer
 - Gina Rippon: Off the Spectrum
-- 
+- Cho Nam-Jo: Kim Jiyoung, Born 1982
+- Ashley Herring Blake: Astrid Parker Doesn't Fail
+- Danya Ruttenberg: On Repentance and Repair
+- Mai Mochizuki: Best Wishes from the Full Moon Coffeeshop
+
+## March 2026
+(1 this month, 16 YTD)
+- Camille Fournier: The Manager's Path
 
 ## Next
 (already acquired)
