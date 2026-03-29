@@ -1455,8 +1455,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Mai Mochizuki: Best Wishes from the Full Moon Coffeeshop
 
 ## March 2026
-(1 this month, 16 YTD)
+(10 this month, 25 YTD)
 - Camille Fournier: The Manager's Path
+- Robert Sutton: The No Asshole Rule
+- Therapy Notebooks: The Build A Habit Guide
+- Yume Kitasei: Saltcrop
+- Grace Curtis: Idolfire
+- Kasia Urbaniak: Unbound
+- Martha Wells: Queen Demon
+- Matt Haig: The Midnight Library
+- Oyinkan Braithwaite: Cursed Daughters
+- Melissa Urban: The New Whole 30
 
 ## Next
 (already acquired)
