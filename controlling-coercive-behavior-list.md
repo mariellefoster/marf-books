@@ -25,7 +25,26 @@ He includes an extensive list of resources and his commentary on them at the end
 
 This book was a fantastic resource for understanding and categorizing types of verbal abuse and how these tools function to erode and abuse victims. The list of behaviors were illuminating- some don't resonate, and others can hit very very hard. If you're finding a lot of experiences coming back in reading this, taking notes as you go can be invaluable. It has an interesting model of "Realities", which is a little silly sounding but is one of the main things I've kept from this book. In one reality, there is Power Over other people, because in denying one's only feelings and agency, one seeks to control other people. In the other, there is Personal Power, which comes from owning your own reality and cultivating healthy self-esteem to repel abusive behavior. It's pretty 80s-90s energy at times, and very heteronormative, "women abused by their husbands or boyfriends". It is worth a read regardless, but if that's not exactly your situation, be prepared to do some personal translation and analysis to figure out what applies.
 
-  
+## Harriet Lerner: The Dance of Anger
+
+This book is for anyone spending a ton of energy trying to get someone to change, who doesn't want to. It shows you how to use your anger to get clarity and use your energy to improve your situation. Many coercive and controlling situations are sustained by their victims living in hope, that things around them will change for the better, if they work hard enough for other people, or change enough, or make their needs small enough. This book hands back the agency to the reader, and had useful models for understanding who is under and over functioning in a situation. The book was fairly relationship neutral- it had workplace, family, relationship and friendship examples. However it was very focused on women, so some personal translation may be required. I've recommended it to men and nonbinary people, who found it useful, and who I saw applying the lessons directly thereafter, to positive effect. 
+
+## KC David: Who Deserves Your Love
+
+In progress
+
+## Kasia Urbaniak: Unbound
+
+In progress
+
+## Susan Forward, Donna Frazier: Emotional Blackmail
+
+I'm hesitant to include this book. It has very useful models of emotional blackmail (particularly FOG- fear obligation guilt), and types of emotional blackmail. But some of the examples, and suggested resolutions with blackmailers were frankly very upsetting. The authors gave examples of abusive, racist, fatphobic, sexist behavior, and suggested their clients compromise as the preferred way of preserving the relationship, rather than underlining that such behavior was unacceptable before offering intermediary steps for those unable to cut ties or offer stronger boundaries. After the other books I'd read, there were jaw on the floor moments. I would suggest reading the wikipedia page instead: https://en.wikipedia.org/wiki/Emotional_blackmail
+
+
+## Danya Ruttenberg: On Repentance and Repair
+
+This book has a strong model of repentence and repair, not based in western Christian culture, but rooted in Judaism and thoughtfully broadened for a multi-cultural audience. The steps of repentence and repair are clearly laid out, useful examples are provided, and are both helpful in identifying situations where meaningful effort and repair are being made, and for situations where lip service, excuses, lack of change and disingenous behavior is the norm.
 
 ## Esther Perel: The State of Affairs
 
