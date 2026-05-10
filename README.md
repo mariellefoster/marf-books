@@ -1467,6 +1467,24 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Oyinkan Braithwaite: Cursed Daughters
 - Melissa Urban: The New Whole 30
 
+## April 2026
+(8 this month, 33 YTD)
+- Chuck Tingle: Lucky Day
+- Ashley Herring Blake: Iris Kelly Doesn't Date
+- Olivia Waite: Nobody's Baby
+- Sarah Beth Durst: The Spellshop
+- Makana Yamamoto: Hammajang Luck
+- Scaachi Koul: Sucker Punch
+- Devon Price: Unmasking For Life
+- Fern Brady: Strong Female Character
+- 
+
+## May 2026
+(2 this month, 35 YTD)
+- Susana Morris: Positive Obsession
+- Melissa Febos: The Dry Season
+- 
+
 ## Next
 (already acquired)
 - Professional Baking
