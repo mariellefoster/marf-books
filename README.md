@@ -1480,10 +1480,11 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - 
 
 ## May 2026
-(2 this month, 35 YTD)
+(4 this month, 37 YTD)
 - Susana Morris: Positive Obsession
 - Melissa Febos: The Dry Season
-- 
+- Dolki Min: Walking Practice
+- Amy Chaplin: Whole Food Cooking Every Day
 
 ## Next
 (already acquired)
