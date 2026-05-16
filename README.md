@@ -1468,7 +1468,7 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Melissa Urban: The New Whole 30
 
 ## April 2026
-(8 this month, 33 YTD)
+(9 this month, 34 YTD)
 - Chuck Tingle: Lucky Day
 - Ashley Herring Blake: Iris Kelly Doesn't Date
 - Olivia Waite: Nobody's Baby
@@ -1477,14 +1477,17 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Scaachi Koul: Sucker Punch
 - Devon Price: Unmasking For Life
 - Fern Brady: Strong Female Character
-- 
+- Martha Sweezy and Sarah Bergenfield: Wired to Feel
 
 ## May 2026
-(4 this month, 37 YTD)
+(7 this month, 41 YTD)
 - Susana Morris: Positive Obsession
 - Melissa Febos: The Dry Season
 - Dolki Min: Walking Practice
 - Amy Chaplin: Whole Food Cooking Every Day
+- Lois McMaster Bujold: Darkside Dare
+- Ann Leckie: Radiant Star
+- Raymond Feist, Janny Wurts: Daughter of the Empire
 
 ## Next
 (already acquired)
