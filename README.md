@@ -1480,14 +1480,44 @@ Books I've read starting September 2016. I learned to read before this, but I di
 - Martha Sweezy and Sarah Bergenfield: Wired to Feel
 
 ## May 2026
-(7 this month, 41 YTD)
+(8 this month, 42 YTD)
 - Susana Morris: Positive Obsession
 - Melissa Febos: The Dry Season
 - Dolki Min: Walking Practice
 - Amy Chaplin: Whole Food Cooking Every Day
-- Lois McMaster Bujold: Darkside Dare
+- Lois McMaster Bujold: Darksight Dare
 - Ann Leckie: Radiant Star
 - Raymond Feist, Janny Wurts: Daughter of the Empire
+- KC Davis: How to Keep House While Drowning
+
+## June 2026
+- Jim C. Hines: Terminal Alliance
+- Jim C. Hines: Terminal Uprising
+- Jim C. Hines: Terminal Peace
+- Jacqueline Harpman: I who have never known men
+- Olivia Waite: The Lady's Guide to Celestial Mechanics
+- Rhiannon Thomas: Long May She Reign
+- Glennon Doyle: Untamed
+- Sarah Bergenfield, Martha Sweezy: Wired to Feel
+- Lillian Frances: FBFCB
+
+## July 2026
+- Stina Leicht: Persephone Station
+- Judy Simone: Aspergirls
+- Freya Marske: Cinder House
+- Kate Folk: Sky Daddy
+- Martha Wells: Platform Decay
+- Joe Yonan: Cool Beans
+- Amy Chaplin: Whole Food Cooking Every Day
+
+## August 2026
+- Stephanie Burgis: Wooing the Witch Queen
+- Julie Leong: The Teller of Small Fortunes
+- S. L. Huang: The Language of Liars
+- Kasia Urbaniak: Unbound
+- Shannon Chakraborty: The Tapestry of Fate
+- Jenara Nuremburg: Divergent Mind
+- 
 
 ## Next
 (already acquired)
